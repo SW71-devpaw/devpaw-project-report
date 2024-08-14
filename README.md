@@ -213,11 +213,11 @@ líneas de código que se han modificado en cada uno de los commits.
 
    6.2. [Landing Page, Services & Applications Implementation](/docs/chapter-vi.md#62-landing-page-services--applications-implementation)
 
-   6.2.1. [Sprint n](/docs/chapter-vi.md#621-sprint-1)
+   6.2.1. [Sprint 1](/docs/chapter-vi.md#621-sprint-1)
 
-   6.2.1.1. [Sprint Planning n](/docs/chapter-vi.md#6211-sprint-planning-1)
+   6.2.1.1. [Sprint Planning 1](/docs/chapter-vi.md#6211-sprint-planning-1)
 
-   6.2.1.2. [Sprint Backlog n](/docs/chapter-vi.md#6212-sprint-backlog-1)
+   6.2.1.2. [Sprint Backlog 1](/docs/chapter-vi.md#6212-sprint-backlog-1)
 
    6.2.1.3. [Development Evidence for Sprint Review](/docs/chapter-vi.md#6213-development-evidence-for-sprint-review)
 
@@ -263,7 +263,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr>
  <!-------------------------------------- PRIMER CRITERIO ------------------------------------------------------------->    
       <td rowspan="20">
-        Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta
+        Trabaja en equipo para proporcionar liderazgo en forma conjunta
       </td>
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
@@ -426,7 +426,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!--------------------------SEGUNDO CRITERIO DE STUDENT OUTCOME---------------------------------------------------->
     <tr>
       <td rowspan="20">
-        Crea un entorno colaborativo e inclusivo, <br> establece metas, planifica tareas <br> y cumple objetivos.
+        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.
       </td>
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
