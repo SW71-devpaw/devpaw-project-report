@@ -12,17 +12,17 @@
 
 ## Docente: Marco Antonio León Baca
 
-## Startup:
+## Startup: Devpaw
 
-## Producto:
+## Producto: Pawture
 
 ## Integrantes:
 
 **· Josue Daniel Valverde Lopez - U202121440** <br>
-**· Juliana Yauricasa - U** <br>
-**· Enzo Trujillo - U** <br>
-**· Integrante 4 - U** <br>
-**· Integrante 5 - U** <br>
+**· Juliana Alexandra Yauricasa Seguil - U20201B782** <br>
+**· Enzo Paolo Trujillo Acosta - U202120379** <br>
+**· Josehp Piero Herrera del Pino - U20211E098** <br>
+**· Randy Becker Rengifo Mirabal  - U20211d683** <br>
 
 ### Agosto - 2024
 
