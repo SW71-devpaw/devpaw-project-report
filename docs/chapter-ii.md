@@ -14,11 +14,31 @@
     </thead>
     <tbody style="text-align: center">
         <tr>
-            <th colspan="2"></th>
-            <th><img src="" width="100" alt="nuestra startup"></th>
-            <th><img src="" width="100" alt="competencia 1"></th>
-            <th><img src="" width="100" alt="competencia 2"></th>
-            <th><img src="" width="250" alt="competencia 3"></th>
+            <th colspan="2"> Competidores</th>
+             <th>
+                <div style="text-align: center;">
+                    <img src="https://i.postimg.cc/fbxPGyM3/image.png" width="100" alt="nuestra startup">
+                    <div style="font-size: 14px; color: #666;">Upet</div>
+                </div>
+            </th>
+            <th>
+                <div style="text-align: center;">
+                    <img src="https://i.postimg.cc/hPS5HcYv/image.png" width="100" alt="FitBark">
+                    <div style="font-size: 14px; color: #666;">FitBark</div>
+                </div>
+            </th>
+            <th>
+                <div style="text-align: center;">
+                    <img src="https://i.postimg.cc/2yH7pRqL/image.png" width="100" alt="FitBark">
+                    <div style="font-size: 14px; color: #666;">PetPace</div>
+                </div>
+            </th>
+            <th>
+                <div style="text-align: center;">
+                    <img src="https://i.postimg.cc/mDjQMfyp/image.png" width="100" alt="FitBark">
+                    <div style="font-size: 14px; color: #666;">Whistle</div>
+                </div>
+            </th>
         </tr>
         <tr>
             <th rowspan="2"> <strong> Perfil </strong> </th>
