@@ -260,8 +260,59 @@
 </table>
 
 ## 2.2. Entrevistas.
+<p>
+Para recopilar la información más detallada para la implementación de nuestro producto, se realizarán entrevistas con los segmentos objetivo. Las preguntas se estructurarán de manera organizada y clara para asegurar la efectividad de la recopilación de datos. A continuación, se detalla el formato de las preguntas que se emplearán en estas entrevistas:
+</p>
+    
 
 ### 2.2.1. Diseño de entrevistas.
+<ul>
+    <li>
+        <div><strong>Preguntas generales</strong></div>
+        <div>
+            <ul>
+                <li>¿Cuál es su nombre?</li>
+                <li>¿Cuál es su edad?</li>
+                <li>¿En dónde vive?</li>
+                <li>¿Cuál es su profesión o actividad principal?</li>
+                <li>¿Tiene una mascota o ha tenido alguna en el pasado?</li>
+                <li>Con qué frecuencia usa aplicaciones móviles o en línea para buscar servicios relacionados con mascotas?</li>
+                <li>¿Ha utilizado alguna vez una aplicación o plataforma similar para encontrar una veterinaria? Si es así, ¿cuál fue su experiencia?</li>
+                <li>¿Ha utilizado alguna vez una aplicación o plataforma similar para encontrar una veterinaria? Si es así, ¿cuál fue su experiencia?</li>
+                <li>¿Le gustaría recibir notificaciones sobre ofertas y promociones de veterinarias en su área a través de la plataforma?</li>
+            </ul>
+        </div>
+    </li>
+    <li>
+        <div><strong>Preguntas complementarias</strong></div>
+        <strong>Segmento 1: </strong><i>Dueños de mascotas</i>
+        <div>
+            <ul>
+                <li>Después de un diagnóstico veterinario, ¿qué información le gustaría seguir monitoreando sobre la salud de su mascota?</li>
+                <li>¿Cómo maneja actualmente el seguimiento de la salud de su mascota después de una consulta veterinaria?</li>
+                <li>¿Está familiarizado/a con los collares inteligentes u otros dispositivos IoT para mascotas? ¿Los ha utilizado antes?</li>
+                <li>¿Cómo cree que los collares inteligentes pueden ayudarle a seguir las recomendaciones del veterinario después de un diagnóstico?</li>
+                <li>¿Qué beneficios específicos espera obtener al usar un collar inteligente para el monitoreo continuo de su mascota?</li>
+                <li>¿Cómo cree que los datos recopilados por un dispositivo IoT podrían mejorar su capacidad para gestionar el bienestar de su mascota?</li>
+                <li>¿Qué preocupaciones tiene sobre la integración de la tecnología IoT en el seguimiento de la salud de su mascota? (por ejemplo, privacidad, precisión, costo)</li>
+                <li>¿Qué desafíos anticipa al implementar un dispositivo IoT en la rutina de cuidado de su mascota?</li>
+                <li>¿Cómo le gustaría recibir actualizaciones y alertas sobre el estado de salud de su mascota desde el dispositivo IoT? (por ejemplo, Gmail, Wathsapp, desde la misma app, etc)</li>
+            </ul>
+        </div>
+        <br/>
+        <strong>Segmento 2: </strong><i>Veterinarios</i>
+        <div>
+            <ul>
+                <li>¿Cómo considera que la integración de dispositivos IoT, como collares inteligentes, podría facilitar el seguimiento post-diagnóstico de sus pacientes a través de una aplicación móvil o web?</li>
+                <li>¿Qué tipo de datos de los dispositivos IoT le gustaría que estuvieran disponibles para usted a través de una aplicación móvil o web para ayudar en el monitoreo continuo de la salud de las mascotas?</li>
+                <li>¿Qué beneficios anticipa al tener acceso a datos en tiempo real sobre la salud de las mascotas a través de una aplicación móvil o web?</li>
+                <li>¿Qué funciones le gustaría en una aplicación móvil o web que gestione los datos recopilados por el dispositivo IoT</li>
+                <li>¿Qué tipo de información o informes generados por la aplicación le gustaría compartir con los propietarios de mascotas para mantenerlos informados y comprometidos con el cuidado de su animal?</li>
+                <li>¿Qué tipo de capacitación o soporte necesitaría para utilizar eficazmente una aplicación móvil o web que gestione los datos de dispositivos IoT en su práctica?</li>
+            </ul>
+        </div>
+    </li>
+</ul>
 
 ### 2.2.2. Registro de entrevistas.
 
