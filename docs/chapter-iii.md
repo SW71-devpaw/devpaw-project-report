@@ -2,7 +2,7 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
-En esta sección, se presenta el To Be Scenario Mapping para cada segmento objetivo. Esta herramienta permite visualizar y definir el proceso mejorado utilizando UPet. A través de este mapeo, se identificaron las áreas clave de mejora y se establecieron las acciones necesarias para optimizar el rendimiento y la eficiencia en cada segmento.
+En esta sección, se presenta el To Be Scenario Mapping para cada segmento objetivo. Esta herramienta permite visualizar y definir el proceso mejorado utilizando Pawture. A través de este mapeo, se identificaron las áreas clave de mejora y se establecieron las acciones necesarias para optimizar el rendimiento y la eficiencia en cada segmento.
 
 ### Segmento 1: Veterinaria
 
@@ -1023,7 +1023,7 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
                     <br>
                     <h5>Escenario 02: Visualización de contacto</h5>
                     <strong>Dado</strong> que el usuario está en la parte inferior de la página web,
-                    <strong>cuando</strong> visualiza los contactos del equipo de Upet,
+                    <strong>cuando</strong> visualiza los contactos del equipo de Pawture,
                     <strong>Entonces</strong> el sistema le muestra la dirección, telefono móvil y correo electrónico.
                     <br>
                     <h5>Escenario 03: Error al cargar información del footer</h5>
@@ -1414,7 +1414,7 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
                 <td>
                     <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria, 
                     <strong>quiero</strong> poder eliminar el centro veterinario en caso de cierre u otro motivo,
-                    <strong>para</strong> mantener actualizada la base de datos de UPet y evitar confusiones.
+                    <strong>para</strong> mantener actualizada la base de datos de Pawture y evitar confusiones.
                 </td>
                 <td>
                     <h5>Escenario 01: Eliminación exitosa de la veterinaria</h5>
@@ -1746,6 +1746,15 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
 
 ## 3.3. Impact Mapping.
 
+En esta sección, se presenta el Impact Mapping para cada segmento objetivo. Esta técnica permite visualizar cómo las características del producto contribuyen a los objetivos de negocio y cómo se alinean con las necesidades de los usuarios.
+
+### Segmento 1: Veterinaria
+
+![Impact Mapping Veterinaria](../assets/img/chapter-iii/Impact-mapping-Veterinaria.png)
+
+### Segmento 2: Propietario de mascota
+
+![Impact Mapping Propietario de mascota](../assets/img/chapter-iii/Impact-mapping-Propietario.png)
 
 ## 3.4. Product Backlog.
 

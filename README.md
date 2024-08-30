@@ -32,10 +32,11 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor           | Descripción de modificación                                                                          |
-|---------|------------|-----------------|------------------------------------------------------------------------------------------------------|
-| 1.0     | 13/08/2024 | Daniel Valverde | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes |
-| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                    |
+| Versión | Fecha      | Autor             | Descripción de modificación                                                                           |
+|---------|------------|-------------------|-------------------------------------------------------------------------------------------------------|
+| 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes |
+| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                     |
+| 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                  |
 
 ### Project Report Collaboration Insights
 
