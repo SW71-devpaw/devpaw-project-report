@@ -2,7 +2,7 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
-En esta sección, se presenta el To Be Scenario Mapping para cada segmento objetivo. Esta herramienta permite visualizar y definir el proceso mejorado utilizando UPet. A través de este mapeo, se identificaron las áreas clave de mejora y se establecieron las acciones necesarias para optimizar el rendimiento y la eficiencia en cada segmento.
+En esta sección, se presenta el To Be Scenario Mapping para cada segmento objetivo. Esta herramienta permite visualizar y definir el proceso mejorado utilizando Pawture. A través de este mapeo, se identificaron las áreas clave de mejora y se establecieron las acciones necesarias para optimizar el rendimiento y la eficiencia en cada segmento.
 
 ### Segmento 1: Veterinaria
 
@@ -1023,7 +1023,7 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
                     <br>
                     <h5>Escenario 02: Visualización de contacto</h5>
                     <strong>Dado</strong> que el usuario está en la parte inferior de la página web,
-                    <strong>cuando</strong> visualiza los contactos del equipo de Upet,
+                    <strong>cuando</strong> visualiza los contactos del equipo de Pawture,
                     <strong>Entonces</strong> el sistema le muestra la dirección, telefono móvil y correo electrónico.
                     <br>
                     <h5>Escenario 03: Error al cargar información del footer</h5>
@@ -1414,7 +1414,7 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
                 <td>
                     <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria, 
                     <strong>quiero</strong> poder eliminar el centro veterinario en caso de cierre u otro motivo,
-                    <strong>para</strong> mantener actualizada la base de datos de UPet y evitar confusiones.
+                    <strong>para</strong> mantener actualizada la base de datos de Pawture y evitar confusiones.
                 </td>
                 <td>
                     <h5>Escenario 01: Eliminación exitosa de la veterinaria</h5>
@@ -1746,6 +1746,15 @@ En esta sección, se presentan los requisitos definidos junto con el conjunto de
 
 ## 3.3. Impact Mapping.
 
+En esta sección, se presenta el Impact Mapping para cada segmento objetivo. Esta técnica permite visualizar cómo las características del producto contribuyen a los objetivos de negocio y cómo se alinean con las necesidades de los usuarios.
+
+### Segmento 1: Veterinaria
+
+![Impact Mapping Veterinaria](../assets/img/chapter-iii/Impact-mapping-Veterinaria.png)
+
+### Segmento 2: Propietario de mascota
+
+![Impact Mapping Propietario de mascota](../assets/img/chapter-iii/Impact-mapping-Propietario.png)
 
 ## 3.4. Product Backlog.
 
@@ -1764,10 +1773,702 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
         <tbody>
             <tr>
                 <td>1</td>
-                <td>US-0X</td>
-                <td>Titulo </td>
-                <td>Descripcion</td>
-                <td>puntos</td>
+                <td>US-036</td>
+                <td>Navegar en la página principal </td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> acceder a la página principal del sitio web y ver un botón de Call to Action 
+                    <strong>para</strong> descargar la aplicación o registrarme, para tener acceso rápido a la funcionalidad principal.
+                </td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>US-039</td>
+                <td>Descargar la aplicación</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> poder descargar la aplicación desde el sitio web estático,
+                    <strong>para</strong> instalarla en mi dispositivo y comenzar a usarla.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>US-037</td>
+                <td>Ver funcionalidades para propietarios de mascotas</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> ver las funcionalidades que ofrece la aplicación para los dueños de mascotas,
+                    <strong>para</strong> saber cómo puedo usarla para cuidar de mi mascota.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>US-038</td>
+                <td>Ver funcionalidades para veterinarias</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> ver las funcionalidades que ofrece la aplicación para veterinarias,
+                    <strong>para</strong> conocer cómo puedo usarla en mi clínica veterinaria.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>US-035</td>
+                <td>Revisar reseñas de la aplicación</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> poder ver las reseñas de la aplicación,
+                    <strong>para</strong> conocer la experiencia de otros usuarios antes de descargarla o registrarme.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>US-034</td>
+                <td>Ver información del footer</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> poder acceder a los enlaces del footer,
+                    <strong>para</strong> navegar rápidamente a secciones como redes sociales, noticias y contacto.
+                </td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>US-040</td>
+                <td>Enviar un mensaje desde el sitio de web estático</td>
+                <td>
+                    <strong>Como</strong> visitante,
+                    <strong>quiero</strong> poder enviar un mensaje al equipo de la aplicación desde la sección de contacto,
+                    <strong>para</strong> resolver dudas o recibir más información sobre el servicio.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>US-010</td>
+                <td>Agendar una cita</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder agendar una cita en la clínica veterinaria a través de la aplicación,
+                    <strong>para</strong> asegurar la atención médica oportuna para mi mascota.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>TS-001</td>
+                <td>Endpoint Appointment</td>
+                <td>
+                    <strong>Como</strong> desarrollador front-end,
+                    <strong>quiero</strong> asegurarme de que el registro de historia médica funcione correctamente en la interfaz de usuario,
+                    <strong>para</strong> que los usuarios puedan ingresar la información de manera adecuada.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>US-005</td>
+                <td>Registrar Mascota</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> crear un perfil para cada una de mis mascotas en la aplicación, ingresando su información básica 
+                    <strong>para</strong> mantener un registro organizado de sus datos.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>TS-004</td>
+                <td>Endpoint Pet</td>
+                <td>
+                    <strong>Como</strong> desarrollador frontend,
+                    <strong>quiero</strong> poder integrar la funcionalidad de agregar y visualizar mascotas en la interfaz de usuario,
+                    <strong>para</strong> permitir a los usuarios mantener un registro actualizado de sus mascotas desde la aplicación móvil.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>US-053</td>
+                <td>Alertas de salud anormal</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota o veterinaria,
+                    <strong>quiero</strong> recibir una notificación si los signos vitales de mi mascota o paciente (ritmo cardiaco o temperatura) muestran valores anormales,
+                    <strong>para</strong> poder actuar rápidamente en caso de emergencia.
+                </td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>US-054</td>
+                <td>Integración de datos del collar al historial médico</td>
+                <td>
+                    <strong>Como</strong> veterinario,
+                    <strong>quiero</strong> acceder a los datos de salud (ritmo cardiaco y temperatura) registrados por el collar IoT,
+                    <strong>para</strong> complementar el historial médico de la mascota y dar un mejor seguimiento a su salud.
+                </td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>TS-008</td>
+                <td>Integración de signos vitales en el historial médico</td>
+                <td>
+                    <strong>Como</strong> desarrollador,
+                    <strong>quiero</strong> implementar una API que permita recibir los datos de los signos vitales desde el collar IoT y almacenarlos en el historial médico de la mascota,
+                    <strong>para</strong> mantener un registro completo y actualizado de la salud de la mascota.
+                </td>
+                <td>13</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>TS-002</td>
+                <td>Endpoint Medical History</td>
+                <td>
+                    <strong>Como</strong> desarrollador front-end,
+                    <strong>quiero</strong> acceder a un endpoint en el backend para gestionar el historial médico de las mascotas, incluyendo el registro de enfermedades y vacunaciones asociadas,
+                    <strong>para</strong> permitir el manejo completo del historial médico desde la interfaz de usuario.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>US-024</td>
+                <td>Visualizar resumen del historial médico</td>
+                <td>
+                    <strong>Como</strong> veterinario o personal autorizado,
+                    <strong>quiero</strong> poder visualizar el resumen del historial médico de cada mascota,
+                    <strong>para</strong> considerar sus antecedentes durante la atención de una consulta.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>TS-006</td>
+                <td>Endpoint Veterinary Clinic</td>
+                <td>
+                    <strong>Como</strong> desarrollador frontend,
+                    <strong>quiero</strong> poder agregar nuevas clínicas veterinarias a la plataforma y ver una lista de todas las clínicas disponibles,
+                    <strong>para</strong> que los usuarios puedan encontrar fácilmente servicios veterinarios cercanos.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>US-052</td>
+                <td>Monitoreo de ubicación en tiempo real</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> recibir la ubicación en tiempo real de mi mascota desde el collar con GPS,
+                    <strong>para</strong> mantenerla localizada y poder actuar rápidamente en caso de pérdida o robo.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>TS-007</td>
+                <td>Implementación de la API de monitoreo de ubicación</td>
+                <td>
+                    <strong>Como</strong> desarrollador,
+                    <strong>quiero</strong> crear una API RESTful para gestionar la comunicación entre la aplicación y el collar IoT,
+                    <strong>para</strong> permitir la actualización y consulta de la ubicación GPS en tiempo real.
+                </td>
+                <td>13</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>US-041</td>
+                <td>Mostrar tu ubicación actual</td>
+                <td>
+                    <strong>Como</strong> propietario/a o autenticado y suscrito a un plan,
+                    <strong>quiero</strong> poder visualizar mi ubicación,
+                    <strong>para</strong> buscar centros de atención cerca de mi ubicación.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>US-048</td>
+                <td>Añadir ubicación</td>
+                <td>
+                    <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria,
+                    <strong>quiero</strong> añadir la ubicación de mi centro de atención,
+                    <strong>para</strong> mostrar la ubicación actual de mi centro de atención.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>US-042</td>
+                <td>Mostrar veterinarias cercanas</td>
+                <td>
+                    <strong>Como</strong> propietario/a o autenticado y suscrito a un plan,
+                    <strong>quiero</strong> visualizar las veterinarias alrededor de mi zona,
+                    <strong>para</strong> elegir una y atender a mi mascota.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>TS-005</td>
+                <td>Endpoint User</td>
+                <td>
+                    <strong>Como</strong> desarrollador frontend,
+                    <strong>quiero</strong> poder crear y obtener información sobre diferentes tipos de usuarios en la plataforma,
+                    <strong>para</strong> gestionar eficazmente las cuentas de los usuarios desde la interfaz de usuario de la aplicación móvil.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>US-049</td>
+                <td>Añadir servicios ofrecidos</td>
+                <td>
+                    <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria,
+                    <strong>quiero</strong> añadir la información de los servicios que ofrece mi veterinaria,
+                    <strong>para</strong> informar a mis clientes que tipo de atención brindamos.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>US-050</td>
+                <td>Añadir horarios de atención</td>
+                <td>
+                    <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria,
+                    <strong>quiero</strong> poder añadir mis horarios de atención al usuario,
+                    <strong>para</strong> evitar que mis clientes se acerquen en días no laborales de mi veterinaria.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>US-020</td>
+                <td>Registrar vacunas</td>
+                <td>
+                    <strong>Como</strong> veterinario o personal autorizado,
+                    <strong>quiero</strong> poder registrar las vacunas administradas a cada mascota,
+                    <strong>para</strong> mantener un historial médico completo y actualizado.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>US-021</td>
+                <td>Registrar resultados</td>
+                <td>
+                    <strong>Como</strong> veterinario o personal autorizado,
+                    <strong>quiero</strong> poder registrar los resultados de análisis obtenidos de cada mascota,
+                    <strong>para</strong> mantener un historial médico completo y actualizado.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>28</td>
+                <td>US-022</td>
+                <td>Registrar cirugías</td>
+                <td>
+                    <strong>Como</strong> veterinario o personal autorizado,
+                    <strong>quiero</strong> registrar un reporte de los resultados de cirugías realizadas en cada mascota,
+                    <strong>para</strong> mantener un historial médico completo y actualizado.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>29</td>
+                <td>US-023</td>
+                <td>Registrar enfermedades</td>
+                <td>
+                    <strong>Como</strong> veterinario o personal autorizado,
+                    <strong>quiero</strong> poder registrar las enfermedades diagnosticadas en cada mascota,
+                    <strong>para</strong> mantener un historial médico completo y actualizado.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>30</td>
+                <td>US-045</td>
+                <td>Ver detalles de cada veterinaria</td>
+                <td>
+                    <strong>Como</strong> propietario/a o autenticado y suscrito a un plan,
+                    <strong>quiero</strong> poder visualizar la información de cada veterinaria,
+                    <strong>para</strong> poder elegir con mayor eficacia la veterinaria acorde a mis necesidades.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td>US-047</td>
+                <td>Entrar al perfil de cada veterinaria</td>
+                <td>
+                    <strong>Como</strong> propietario/a o autenticado y suscrito a un plan,
+                    <strong>quiero</strong> visualizar información personal de cada veterinaria,
+                    <strong>para</strong> poder informarme mejor acerca de cada veterinaria.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>32</td>
+                <td>US-051</td>
+                <td>Eliminar veterinaria</td>
+                <td>
+                    <strong>Como</strong> veterinaria o personal autorizado de la clínica veterinaria,
+                    <strong>quiero</strong> poder eliminar el centro veterinario en caso de cierre u otro motivo,
+                    <strong>para</strong> mantener actualizada la base de datos de UPet y evitar confusiones.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>33</td>
+                <td>US-017</td>
+                <td>Confirmar cita</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> poder confirmar una cita veterinaria previamente agendada,
+                    <strong>para</strong> asegurarme de que la cita está programada y evitar confusiones.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>34</td>
+                <td>US-008</td>
+                <td>Compartir información</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder compartir información relevante sobre el perfil de mi mascota con veterinarios que no tienen acceso a la aplicación,
+                    <strong>para</strong> facilitar el intercambio de información y garantizar la atención adecuada de mi mascota incluso fuera de la red de la aplicación.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>35</td>
+                <td>US-012</td>
+                <td>Acceso de la veterinaria a la información de la mascota</td>
+                <td>
+                    <strong>Como</strong> veterinario,
+                    <strong>quiero</strong> poder acceder a la información completa de una mascota, incluyendo su historial médico, vacunas y tratamientos previos,
+                    <strong>para</strong> brindar una atención adecuada durante una consulta veterinaria.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>36</td>
+                <td>US-014</td>
+                <td>Ver historial de citas</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder ver el historial completo de citas veterinarias de mi mascota, incluyendo fechas, horarios y propósito de la visita,
+                    <strong>para</strong> tener un registro completo de la atención recibida.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>37</td>
+                <td>US-013</td>
+                <td>Cancelar o reprogramar cita</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder cancelar o reprogramar una cita veterinaria previamente programada,
+                    <strong>para</strong> poder gestionar mejor mi agenda y evitar problemas de horarios.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>38</td>
+                <td>US-006</td>
+                <td>Subir foto de la mascota</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> poder subir una foto de mi mascota a la plataforma,
+                    <strong>para</strong> poder personalizar su perfil y compartir su imagen con las veterinarias.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>39</td>
+                <td>US-007</td>
+                <td>Ver listado de mis mascotas</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder ver un listado de todas mis mascotas registradas en la aplicación,
+                    <strong>para</strong> tener un acceso rápido a su información y gestionarlas de manera eficiente.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>US-009</td>
+                <td>Editar información de la mascota</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota,
+                    <strong>quiero</strong> poder editar la información del perfil de mi mascota en la aplicación,
+                    <strong>para</strong> mantener actualizada la información de mis mascotas.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>41</td>
+                <td>US-025</td>
+                <td>Ver planes disponibles de suscripción</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota sin suscripción,
+                    <strong>quiero</strong> poder visualizar los planes disponibles de suscripción,
+                    <strong>para</strong> comparar y elegir el plan que mejor se ajuste a mis necesidades.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>42</td>
+                <td>US-026</td>
+                <td>Suscribirse a un plan</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota sin suscripción,
+                    <strong>quiero</strong> poder suscribirme a los planes disponibles,
+                    <strong>para</strong> obtener los beneficios de la versión de pago.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>43</td>
+                <td>US-027</td>
+                <td>Cambiar de plan</td>
+                <td>
+                    <strong>Como</strong> propietario suscrito a un plan,
+                    <strong>quiero</strong> poder cambiar mi plan de suscripción,
+                    <strong>para</strong> acceder o limitar mis permisos a nuevas funcionalidades de la aplicación.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>44</td>
+                <td>US-029</td>
+                <td>Cancelar plan</td>
+                <td>
+                    <strong>Como</strong> propietario suscrito a un plan,
+                    <strong>quiero</strong> poder cancelar la versión de mi plan actual,
+                    <strong>para</strong> limitar mis permisos y funcionalidades en la aplicación.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>45</td>
+                <td>US-030</td>
+                <td>Gestión de métodos de pago</td>
+                <td>
+                    <strong>Como</strong> propietario suscrito,
+                    <strong>quiero</strong> gestionar mis métodos de pago,
+                    <strong>para</strong> facilitar el proceso de transacciones en la aplicación.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>46</td>
+                <td>US-031</td>
+                <td>Actualizar método de pago</td>
+                <td>
+                    <strong>Como</strong> propietario suscrito,
+                    <strong>quiero</strong> poder actualizar mi método de pago,
+                    <strong>para</strong> garantizar que las transacciones futuras se procesen correctamente.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>47</td>
+                <td>US-032</td>
+                <td>Eliminar método de pago</td>
+                <td>
+                    <strong>Como</strong> propietario suscrito,
+                    <strong>quiero</strong> poder eliminar un método de pago,
+                    <strong>para</strong> gestionar los métodos de pago que ya no uso.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>48</td>
+                <td>US-028</td>
+                <td>Historial de suscripciones</td>
+                <td>
+                    <strong>Como</strong> propietario autenticado,
+                    <strong>quiero</strong> poder visualizar el historial de las suscripciones de mi cuenta,
+                    <strong>para</strong> tener un recuento de los gastos realizados en la aplicación.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>49</td>
+                <td>US-043</td>
+                <td>Ver las valoraciones y comentarios de la veterinaria</td>
+                <td>
+                    <strong>Como</strong> veterinario/a o personal autorizado de la clínica veterinaria,
+                    <strong>quiero</strong> poder visualizar las valoraciones y comentarios de mi veterinaria,
+                    <strong>para</strong> mejorar en los aspectos negativos que pueda tener.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td>US-046</td>
+                <td>Ver reseñas y evaluación</td>
+                <td>
+                    <strong>Como</strong> propietario/a o autenticado y suscrito a un plan,
+                    <strong>quiero</strong> visualizar las reseñas de cada veterinaria,
+                    <strong>para</strong> facilitar el proceso de selección de cada centro.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td>US-044</td>
+                <td>Añadir valoraciones y comentarios</td>
+                <td>
+                    <strong>Como</strong> propietario/a de mascota autenticado y suscrito a un plan,
+                    <strong>quiero</strong> poder realizar comentarios y valoraciones,
+                    <strong>para</strong> calificar la atención de cada centro de atención.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>52</td>
+                <td>US-055</td>
+                <td>Notificación de batería baja en el collar</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> recibir una notificación cuando la batería del collar esté baja,
+                    <strong>para</strong> poder cargarlo a tiempo y no perder el seguimiento de mi mascota.
+                </td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>53</td>
+                <td>US-018</td>
+                <td>Recordatorio de cita</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> recibir recordatorios de las citas veterinarias previamente agendadas,
+                    <strong>para</strong> no olvidar la cita y organizarme mejor.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>54</td>
+                <td>US-019</td>
+                <td>Recordatorio de suscripción</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota suscrito a un plan de servicios veterinarios,
+                    <strong>quiero</strong> recibir recordatorios de mi suscripción, incluyendo fechas de renovación,
+                    <strong>para</strong> gestionar mi plan de manera efectiva.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>55</td>
+                <td>US-011</td>
+                <td>Activar recordatorio</td>
+                <td>
+                    <strong>Como</strong> propietario de una mascota con una cita veterinaria programada,
+                    <strong>quiero</strong> poder activar un recordatorio en la aplicación,
+                    <strong>para</strong> recibir una notificación en la fecha y hora de la cita y asegurarme de no olvidarla.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>56</td>
+                <td>US-016</td>
+                <td>Notificación de campañas veterinarias</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> poder recibir notificaciones sobre campañas veterinarias cercanas, como campañas de vacunación y desparasitación,
+                    <strong>para</strong> mantener la salud de mi mascota al día.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>57</td>
+                <td>US-015</td>
+                <td>Ofertas de las veterinarias</td>
+                <td>
+                    <strong>Como</strong> propietario de mascota,
+                    <strong>quiero</strong> poder recibir notificaciones sobre ofertas y promociones especiales de las veterinarias cercanas,
+                    <strong>para</strong> poder aprovechar descuentos y beneficios adicionales en la atención de mi mascota.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>58</td>
+                <td>TS-003</td>
+                <td>Endpoint Notification</td>
+                <td>
+                    <strong>Como</strong> desarrollador front-end,
+                    <strong>quiero</strong> tener un endpoint para gestionar notificaciones de usuarios,
+                    <strong>para</strong> crear nuevas notificaciones y obtener las notificaciones existentes.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>59</td>
+                <td>US-001</td>
+                <td>Registro de cuenta</td>
+                <td>
+                    <strong>Como</strong> veterinario o propietario de una mascota,
+                    <strong>quiero</strong> registrarme en la aplicación,
+                    <strong>para</strong> acceder a sus funcionalidades.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>60</td>
+                <td>US-002</td>
+                <td>Iniciar Sesión</td>
+                <td>
+                    <strong>Como</strong> veterinario o propietario de una mascota,
+                    <strong>quiero</strong> poder iniciar sesión en la aplicación utilizando mis credenciales,
+                    <strong>para</strong> acceder a las funcionalidades y gestionar la información ingresada.
+                </td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>61</td>
+                <td>US-003</td>
+                <td>Reestablecer Contraseña</td>
+                <td>
+                    <strong>Como</strong> veterinario o propietario de una mascota,
+                    <strong>quiero</strong> tener la capacidad de restablecer mi contraseña en la aplicación,
+                    <strong>para</strong> poder acceder de nuevo a mi cuenta y gestionar la información de manera segura.
+                </td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>62</td>
+                <td>US-004</td>
+                <td>Cerrar Sesión</td>
+                <td>
+                    <strong>Como</strong> veterinario o propietario de una mascota,
+                    <strong>quiero</strong> tener la capacidad de cerrar sesión en la aplicación,
+                    <strong>para</strong> garantizar la seguridad de mi información y proteger mi privacidad.
+                </td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td>US-033</td>
+                <td>Enviar un mensaje a soporte</td>
+                <td>
+                    <strong>Como</strong> usuario de la aplicación,
+                    <strong>quiero</strong> poder enviar un mensaje a soporte técnico,
+                    <strong>para</strong> resolver problemas o consultas sobre el uso de la aplicación.
+                </td>
+                <td>2</td>
             </tr>
         </tbody>
 </table>
+
+Imagen de Product Backlog en Pivotal Tracker:
+
+![Pivotal_Tracker_Pawture](../assets/img/chapter-iii/pivotal-tracker-Pawture.png)
+
+Enlace de Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2677948
