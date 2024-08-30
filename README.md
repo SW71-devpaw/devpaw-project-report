@@ -32,20 +32,21 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor           | Descripción de modificación                                                                           |
-|---------|------------|-----------------|-------------------------------------------------------------------------------------------------------|
+| Versión | Fecha      | Autor           | Descripción de modificación                                                                          |
+|---------|------------|-----------------|------------------------------------------------------------------------------------------------------|
 | 1.0     | 13/08/2024 | Daniel Valverde | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes |
+| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                    |
 
 ### Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto:
+URL del repositorio para el reporte del proyecto: https://github.com/SW71-devpaw/devpaw-project-report
 
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que
 han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización
 efectiva al utilizar un sistema de control de versiones.
 
 - Daniel Valverde (daniel-vl7)
--
+- Juliana Yauricasa (JulianaYS)
 -
 -
 -
