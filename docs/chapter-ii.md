@@ -285,7 +285,7 @@ Para recopilar la información más detallada para la implementación de nuestro
     </li>
     <li>
         <div><strong>Preguntas complementarias</strong></div>
-        <strong>Segmento 1: </strong><i>Dueños de mascotas</i>
+        <strong>Segmento 1: </strong><i>Propietarios de mascotas</i>
         <div>
             <ul>
                 <li>Después de un diagnóstico veterinario, ¿qué información le gustaría seguir monitoreando sobre la salud de su mascota?</li>
@@ -399,7 +399,7 @@ Entrevista Segmento 2
 
 ### 2.3.1. User Personas.
 <ul>
-    <li><strong>User Persona 1: </strong><i>Dueños de mascotas</i><br/>
+    <li><strong>User Persona 1: </strong><i>Propietarios de mascotas</i><br/>
         <img src="https://i.postimg.cc/02CBMVVH/user-due-o-mascota.png" alt="dueños de mascotas"/>
     </li>
     <li><strong>User Persona 2: </strong><i>Veterinarios</i><br/>
@@ -520,7 +520,7 @@ Entrevista Segmento 2
 
 ### 2.3.3. User Journey Mapping.
 <ul>
-    <li><strong>Segmento 1: </strong> Dueños de mascotas</li>
+    <li><strong>Segmento 1: </strong> Propietarios de mascotas</li>
         <div>
             <img src="https://i.postimg.cc/5tm35SrP/propietario-mascota-journey-map.png" alt="owner journey map"/>
         </div>
@@ -533,7 +533,7 @@ Entrevista Segmento 2
 ### 2.3.4. Empathy Mapping.
 
 <ul>
-    <li><strong>Segmento 1: </strong> Dueños de mascotas</li>
+    <li><strong>Segmento 1: </strong> Propietarios de mascotas</li>
         <div>
             <img src="https://i.postimg.cc/yYk3vyDf/empathy-map-due-o.png" alt="owner empathy map"/>
         </div>
@@ -544,5 +544,16 @@ Entrevista Segmento 2
 </ul>
 
 ### 2.3.5. As-Is Scenario Mapping.
+
+<ul>
+    <li><strong>Segmento 1: </strong> Propietarios de mascotas</li>
+        <div>
+            <img src="https://i.postimg.cc/zXDtGBdm/as-is-propietarios.jpg" alt="owner empathy map"/>
+        </div>
+    <li><strong>Segmento 2: </strong> Veterinarios</li>
+    <div>
+            <img src="https://i.postimg.cc/tRNvbPNt/as-is-veterinarios.jpg" alt="veterinario as-is scenario map"/>
+        </div>
+</ul>
 
 ## 2.4. Ubiquitous Language.
