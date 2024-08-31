@@ -519,7 +519,19 @@ Entrevista Segmento 2
 </body>
 
 ### 2.3.3. User Journey Mapping.
+<ul>
+    <li><strong>Segmento 1: </strong> Dueños de mascotas</li>
+        <div>
+            <img src="https://i.postimg.cc/5tm35SrP/propietario-mascota-journey-map.png" alt="owner journey map"/>
+        </div>
+    <li><strong>Segmento 2: </strong> Veterinarios</li>
+    <div>
+            <img src="https://i.postimg.cc/ZnW2DQtY/veterinario-macota-journey-map.png" alt="owner journey map"/>
+        </div>
+</ul>
+
 ### 2.3.4. Empathy Mapping.
+
 ### 2.3.5. As-Is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
