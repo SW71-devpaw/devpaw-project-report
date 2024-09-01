@@ -390,6 +390,8 @@ Para recopilar la información más detallada para la implementación de nuestro
                 <li>¿Qué preocupaciones tiene sobre la integración de la tecnología IoT en el seguimiento de la salud de su mascota? (por ejemplo, privacidad, precisión, costo)</li>
                 <li>¿Qué desafíos anticipa al implementar un dispositivo IoT en la rutina de cuidado de su mascota?</li>
                 <li>¿Cómo le gustaría recibir actualizaciones y alertas sobre el estado de salud de su mascota desde el dispositivo IoT? (por ejemplo, Gmail, Wathsapp, desde la misma app, etc)</li>
+                <li>¿Has tenido alguna vez una experiencia en la que te has preocupado por la pérdida de tu mascota? ¿Puedes describirla?</li>
+                <li>¿Cuán importante es para ti la capacidad de rastrear la ubicación de tu mascota en tiempo real?</li>
             </ul>
         </div>
         <br/>
@@ -400,8 +402,10 @@ Para recopilar la información más detallada para la implementación de nuestro
                 <li>¿Qué tipo de datos de los dispositivos IoT le gustaría que estuvieran disponibles para usted a través de una aplicación móvil o web para ayudar en el monitoreo continuo de la salud de las mascotas?</li>
                 <li>¿Qué beneficios anticipa al tener acceso a datos en tiempo real sobre la salud de las mascotas a través de una aplicación móvil o web?</li>
                 <li>¿Qué funciones le gustaría en una aplicación móvil o web que gestione los datos recopilados por el dispositivo IoT</li>
+                <li>¿Crees que al conocer la ubicación de la mascota y tener acceso a los datos de salud en tiempo real, podrías ofrecer recomendaciones más precisas y efectivas?¿De qué manera?</li>
                 <li>¿Qué tipo de información o informes generados por la aplicación le gustaría compartir con los propietarios de mascotas para mantenerlos informados y comprometidos con el cuidado de su animal?</li>
                 <li>¿Qué tipo de capacitación o soporte necesitaría para utilizar eficazmente una aplicación móvil o web que gestione los datos de dispositivos IoT en su práctica?</li>
+                <li>
             </ul>
         </div>
     </li>
