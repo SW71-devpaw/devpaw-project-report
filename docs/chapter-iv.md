@@ -14,20 +14,20 @@ proceso, se siguieron los pasos que se describen a continuación:
 Collect Domain Events 
 
 Se plantean eventos importantes de todos los grupos funcionales en tiempo pasado y nomenclatura en inglés.
-![Collect Domain Events](https://i.postimg.cc/MTJbMK3Y/collect-domain-events.png)
+![Collect Domain Events](../assets/img/chapter-iv/collect_domain_events.png)
 
 Timeline
 
 Se ordenan todos los eventos y se empieza con un “happy path” es decir, eventos exitosos.
-![Timeline1](https://i.postimg.cc/Qt6v1dVv/timeline1.png)
-![Timeline2](https://i.postimg.cc/zfFsDjNz/timeline2.png)
+![Timeline1](../assets/img/chapter-iv/timeline1.png)
+![Timeline2](../assets/img/chapter-iv/timeline2.png)
 
 Pain and Pivotal Points
 
 En este paso se resaltan con un diamante los eventos por aclarar o que requieren de más conocimientos de especialistas.
 Por otro lado, los pivotal points son puntos de cambios que se marcan con una barra vertical.
-![PainAndPivotalPoints1](https://i.postimg.cc/TwQ7sV5p/pain-and-pivotal-points1.png)
-![PainAndPivotalPoints2](https://i.postimg.cc/N0qz2fwf/pain-and-pivotal-points2.png)
+![PainAndPivotalPoints1](../assets/img/chapter-iv/pain_and_pivotal_points1.png)
+![PainAndPivotalPoints2](../assets/img/chapter-iv/pain_and_pivotal_points2.png)
 
 #### 4.1.1.1 Candidate Context Discovery
 
