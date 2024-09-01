@@ -95,7 +95,14 @@ se presentan los actores externos que interactúan con el sistema y los sistemas
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
 
+En esta sección se presenta el diagrama de contenedores de la solución propuesta. Este diagrama detalla los contenedores
+de software y sus interrelaciones, proporcionando una visión general de la estructura interna del sistema.
+
+![Container](../assets/img/chapter-iv/container-upet.png)
+
+
 #### 4.1.3.4. Software Architecture Deployment Diagrams.
+
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
