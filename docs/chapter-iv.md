@@ -31,13 +31,60 @@ Por otro lado, los pivotal points son puntos de cambios que se marcan con una ba
 
 #### 4.1.1.1 Candidate Context Discovery
 
+![Candidate1](../assets/img/chapter-iv/candidate1.png)
+![Candidate2](../assets/img/chapter-iv/candidate2.png)
+
 #### 4.1.1.2 Domain Message Flows Modeling.
 
+Dado el diagrama de eventos de EventStorming que ya se ha presentado, el siguiente paso es modelar los flujos de
+mensajes. Para esto, podemos identificar las interacciones clave que ocurren en el sistema, y cómo estos mensajes 
+desencadenan acciones o actualizaciones en otros contextos.
+
+Solicitud de inicio de sesión: En este escenario, un actor (Customer) crea una cuenta en nuestro sistema y, de inmediato, 
+se suscribe al plan predeterminado para validar sus credenciales, gracias a una política establecida. Este evento se
+registra en nuestro backend, lo que confirma la suscripción. Una vez verificada la suscripción dentro del bounded
+context de *Access*, al cliente se le permitirá acceder al comando de solicitud de inicio de sesión (Sign in request).
+![MessageFlow1](../assets/img/chapter-iv/message-flow1.png)
+
+**Búsqueda de una veterinaria:** En este escenario, un actor (Customer) interactúa con el frontend solicitando el 
+ingreso a su cuenta mediante el comando (*Sign in request*). Tras realizar las validaciones de credenciales en *Account 
+Access* y verificar la cuenta, se le permitirá al cliente buscar veterinarias usando el comando (*Search Vet*). Una vez 
+que acceda a esta función a través del frontend, el evento de (*Results searched*) será activado en nuestro backend 
+dentro del bounded context de *Research and appointment*. Finalmente, podrá seleccionar el perfil de una veterinaria
+mediante (*Select Vet profile*).
+![MessageFlow2](../assets/img/chapter-iv/message-flow2.png)
+
+**Agendar una cita con un veterinario:** En este escenario, tras verificar las credenciales del cliente al iniciar
+sesión, se le permite elegir un perfil de veterinario. Una vez completada esta acción, nuestro backend activa el evento
+(*Vet profile selected*) y el cliente puede solicitar una cita utilizando el comando (*Request appointment*).
+![MessageFlow3](../assets/img/chapter-iv/message-flow3.png)
+
+**Manejar el historial médico de la mascota:** Para gestionar el historial médico, el actor (Customer) solicita una cita
+con un veterinario. Luego, se le pedirá información relevante sobre diagnósticos de enfermedades y actualizaciones de
+reportes. Este comando se ejecuta desde nuestro frontend mediante (*Collect medical information*). Si la información se 
+completa, se envía a la plataforma a través de (*Send medical information to platform*). Finalmente, una vez que toda la
+información esté en nuestro backend, el veterinario puede actualizar el historial médico de la mascota usando el 
+comando (*Update medical history*).
+![MessageFlow4](../assets/img/chapter-iv/message-flow4.png)
+
 #### 4.1.1.3 Bounded Context Canvases.
+
+Se crearon lienzos de Bounded Context para cada uno de los contextos identificados en el proceso de EventStorming.
+Estos lienzos ayudan a definir los límites de cada contexto, sus responsabilidades y las interacciones
+con otros contextos.
+
+![BoundedContext1](../assets/img/chapter-iv/bounded-context1.png)
+![BoundedContext2](../assets/img/chapter-iv/bounded-context2.png)
+![BoundedContext3](../assets/img/chapter-iv/bounded-context3.png)
+![BoundedContext4](../assets/img/chapter-iv/bounded-context4.png)
 
 ### 4.1.2. Context Mapping.
 
 ### 4.1.3. Software Architecture.
+En esta sección, se describe la Arquitectura de Software de la solución utilizando el **C4 Model** para su representación
+visual, a través de la herramienta Structurizr. Se introducirá la estructura general del sistema, comenzando por una
+vista de alto nivel (Context Level Diagram) y detallando las interacciones y componentes clave (Container Level Diagrams),
+proporcionando así una visión clara y comprensible de la arquitectura propuesta.
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram.
 
