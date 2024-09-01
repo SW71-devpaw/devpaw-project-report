@@ -87,9 +87,11 @@ visual, a través de la herramienta Structurizr. Se introducirá la estructura g
 vista de alto nivel (Context Level Diagram) y detallando las interacciones y componentes clave (Container Level Diagrams),
 proporcionando así una visión clara y comprensible de la arquitectura propuesta.
 
-#### 4.1.3.1. Software Architecture System Landscape Diagram.
-
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
+
+A continuación mostramos el diagrama de contexto de la arquitectura de software de la solución propuesta. En este diagrama
+se presentan los actores externos que interactúan con el sistema y los sistemas externos con los que se comunica.
+![Context](../assets/img/chapter-iv/context-upet.png)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
 
