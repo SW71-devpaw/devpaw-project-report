@@ -77,6 +77,7 @@ con otros contextos.
 ![BoundedContext2](../assets/img/chapter-iv/bounded-context2.png)
 ![BoundedContext3](../assets/img/chapter-iv/bounded-context3.png)
 ![BoundedContext4](../assets/img/chapter-iv/bounded-context4.png)
+![BoundedContext5](../assets/img/chapter-iv/bounded-context5.png)
 
 ### 4.1.2. Context Mapping.
 
