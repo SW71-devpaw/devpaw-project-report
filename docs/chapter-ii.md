@@ -458,43 +458,6 @@ Entrevistas: Propietarios de mascotas
         <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>colocar nombres</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>colocar nombres</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad del entrevistado</td>
-                <td>colocar edad </td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>colocar distrito</td>
-            </tr>
-            <tr>
-                <td><img src="url de lafoto" alt="Foto de la entrevista"></td>
-                <td><strong>Resumen:</strong><br>
-                   Resumen
-                </td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td> tiempo</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
-            </tr>
-        </tbody>
-</table>
-
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 2</th>
                 <th>Jorge Nakasato</th>
             </tr>
             <tr>
@@ -524,43 +487,6 @@ Entrevistas: Propietarios de mascotas
             <tr>
                 <td>URL de la entrevista</td>
                 <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120379_upc_edu_pe/EaBa_l24xzVKpLNLGy6gaT8BLzctqu3SaK4FBmR06DJ2Yg?e=rGln3X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista_Jorge_Nakasato</a></td>
-            </tr>
-        </tbody>
-</table>
-
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th>colocar nombres</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>colocar nombres</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad del entrevistado</td>
-                <td>colocar edad </td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>colocar distrito</td>
-            </tr>
-            <tr>
-                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
-                <td><strong>Resumen:</strong><br>
-                   Resumen
-                </td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td> tiempo</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
             </tr>
         </tbody>
 </table>
