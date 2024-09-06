@@ -512,7 +512,9 @@ Entrevista Segmento 2
                 <td>distrito del entrevistado</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td>
+                    <img src="" alt="">
+                </td>
                 <td><strong>Resumen:</strong><br>
                     Resumen de la entrevista aquí
                 </td>
@@ -524,6 +526,43 @@ Entrevista Segmento 2
             <tr>
                 <td>URL de la entrevista</td>
                 <td>https://shorturl.at/acGL6</td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th>Pablo Navarro</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Enzo Trujillo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>51</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Comas</td>
+            </tr>
+            <tr>
+                <td><img src="/assets/img/chapter-ii/Pablo_Navarro_entrevista.png" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                Pablo Navarro, veterinario de 51 años en el distrito de Comas, señaló que el principal problema en el país es la falta de un identificador único para cada mascota, lo que facilita el abandono y la falta de consecuencias. Comentó que algunas veterinarias manejan historiales clínicos a través de software, pero estos no se comparten entre establecimientos, lo que obliga a los dueños a repetir la información en cada visita y genera la falta de historial en emergencias. Destacó la importancia de implantar chips con GPS para mejorar la identificación y seguridad de las mascotas, así como concientizar a los dueños sobre una alimentación adecuada, ya que muchos proporcionan alimentos inapropiados. También mencionó la creciente demanda de baños medicados en las veterinarias, llegando a atender hasta 20 por día, y sugirió que un chip con GPS que almacene la información de la mascota podría integrarse en un collar.
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> 18:43 </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120379_upc_edu_pe/EZWh6omasLBEtiApOliq6jUBgDH9KccOEhWHKd43eL8-Wg?e=1iZcxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista_Pablo_Navarro</a></td>
             </tr>
         </tbody>
 </table>
