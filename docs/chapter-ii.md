@@ -413,85 +413,370 @@ Para recopilar la información más detallada para la implementación de nuestro
 
 ### 2.2.2. Registro de entrevistas.
 
-Entrevista Segmento 1
+Entrevistas: Propietarios de mascotas
 
 <table>
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
+                <th>Adrián Carrión</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
+                <th>Juliana Yauricasa</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Edad</td>
-                <td>edad del entrevistado </td>
+                <td>Edad del entrevistado</td>
+                <td>21 </td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>distrito del entrevistado</td>
+                <td>Santa Anita</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td><img src="https://i.postimg.cc/13nQ540K/image.png" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
-                </td>
+                    El entrevistado, quien actualmente tiene una mascota, comentó que anteriormente ha utilizado Google Maps para buscar servicios veterinarios, aunque su uso fue limitado a situaciones de emergencia. Para el seguimiento de la salud de su mascota, se basa en el carnet proporcionado por la veterinaria, donde registra las vacunas, fechas, y otros detalles relacionados con la salud de su mascota, como los tratamientos antiparasitarios.
+                    Sin embargo, reconoce que le resulta difícil detectar señales tempranas de enfermedad en su mascota, salvo cuando presenta síntomas visibles como vómitos o letargo. Mencionó que le gustaría tener más información sobre el estado de salud de su mascota, especialmente cuando sale de paseo o en situaciones donde es difícil percibir su bienestar.
+                    En cuanto a la tecnología IoT, su experiencia se limita al uso de teléfonos inteligentes y smartwatches, y aunque no está muy familiarizado con otros dispositivos, cree que la solución presentada le sería útil, especialmente para conocer el estado de salud de su mascota en tiempo real y llevarla al veterinario en caso de emergencia. También valoraría la función de GPS, ya que le daría mayor tranquilidad al poder rastrear a su mascota cuando la suelta en el parque, especialmente después de una experiencia en la que su perro se perdió brevemente tras una pelea con otro perro.
+                    Una de sus preocupaciones respecto al collar IoT es el costo del dispositivo. Además, mencionó que sería importante que el collar fuera resistente al agua y a las rasgaduras, y que los datos proporcionados por el dispositivo fueran precisos y bien calibrados. En cuanto a las notificaciones, le gustaría recibir alertas a través de una alarma o notificaciones en la aplicación, pero también consideraría útil recibir mensajes por WhatsApp en caso de emergencia. En general, considera que la posibilidad de rastrear a su mascota es una funcionalidad muy necesaria.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> 0:00 </td>
+                <td> 10:58 minutos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b782_upc_edu_pe/ETEUEO35bJNMv9Rx-VTkzC0Bh-1NSiHKcDWy4nLdCWz8qw?e=fb6y9L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de la entrevista</a> </td>
             </tr>
         </tbody>
 </table>
-
-Entrevista Segmento 2
 
 <table>
         <thead>
             <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
+                <th>Entrevistado 2</th>
+                <th>colocar nombres</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
+                <th>colocar nombres</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Edad</td>
-                <td>edad del entrevistado </td>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>distrito del entrevistado</td>
+                <td>colocar distrito</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td><img src="url de lafoto" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
+                   Resumen
                 </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> 0:00 </td>
+                <td> tiempo</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
             </tr>
         </tbody>
 </table>
 
-### 2.2.3. Análisis de entrevistas.
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>colocar nombres</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>colocar nombres</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>colocar distrito</td>
+            </tr>
+            <tr>
+                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> tiempo</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>colocar nombres</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>colocar nombres</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>colocar distrito</td>
+            </tr>
+            <tr>
+                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> tiempo</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+Entrevistas: Veterinarias
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 4</th>
+                <th>colocar nombres</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>colocar nombres</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>colocar distrito</td>
+            </tr>
+            <tr>
+                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> tiempo</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 5</th>
+                <th>colocar nombres</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>colocar nombres</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>colocar distrito</td>
+            </tr>
+            <tr>
+                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> tiempo</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 6</th>
+                <th>colocar nombres</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>colocar nombres</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad del entrevistado</td>
+                <td>colocar edad </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>colocar distrito</td>
+            </tr>
+            <tr>
+                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> tiempo</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+### 2.2.3. Análisis de entrevistas. 
+Análisis de entrevistas a propietarios de mascotas
+<table>
+        <thead>
+            <tr>
+                <th>Pregunta</th>
+                <th>Respuesta</th>
+            </tr>
+        </thead>
+        <tbody>
+       <tr>
+        <td>Después de un diagnóstico veterinario, ¿qué información le gustaría seguir monitoreando sobre la salud de su mascota?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Cómo maneja actualmente el seguimiento de la salud de su mascota después de una consulta veterinaria?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Está familiarizado/a con los collares inteligentes u otros dispositivos IoT para mascotas? ¿Los ha utilizado antes?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Cómo cree que los collares inteligentes pueden ayudarle a seguir las recomendaciones del veterinario después de un diagnóstico?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Qué beneficios específicos espera obtener al usar un collar inteligente para el monitoreo continuo de su mascota?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Cómo cree que los datos recopilados por un dispositivo IoT podrían mejorar su capacidad para gestionar el bienestar de su mascota?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Qué preocupaciones tiene sobre la integración de la tecnología IoT en el seguimiento de la salud de su mascota? (por ejemplo, privacidad, precisión, costo)</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Qué desafíos anticipa al implementar un dispositivo IoT en la rutina de cuidado de su mascota?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Cómo le gustaría recibir actualizaciones y alertas sobre el estado de salud de su mascota desde el dispositivo IoT? (por ejemplo, Gmail, WhatsApp, desde la misma app, etc)</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Has tenido alguna vez una experiencia en la que te has preocupado por la pérdida de tu mascota? ¿Puedes describirla?</td>
+        <td>respuesta</td>
+    </tr>
+    <tr>
+        <td>¿Cuán importante es para ti la capacidad de rastrear la ubicación de tu mascota en tiempo real?</td>
+        <td>respuesta<
+        </tbody>
+
+</table>
+
+Análisis de entrevistas a veterinarias
+<table>
+        <thead>
+            <tr>
+                <th>Pregunta</th>
+                <th>Respuesta</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>¿Cómo considera que la integración de dispositivos IoT, como collares inteligentes, podría facilitar el seguimiento post-diagnóstico de sus pacientes a través de una aplicación móvil o web?</td>
+                <td>respuesta
+            </td>
+        </tr>
+        <tr>
+            <td>¿Qué tipo de datos de los dispositivos IoT le gustaría que estuvieran disponibles para usted a través de una aplicación móvil o web para ayudar en el monitoreo continuo de la salud de las mascotas?</td>
+            <td>respuesta</td>
+        </tr>
+        <tr>
+            <td>¿Qué beneficios anticipa al tener acceso a datos en tiempo real sobre la salud de las mascotas a través de una aplicación móvil o web?</td>
+            <td>respuesta</td>
+        </tr>
+        <tr>
+            <td>¿Qué funciones le gustaría en una aplicación móvil o web que gestione los datos recopilados por el dispositivo IoT?</td>
+            <td>respuesta</td>
+        </tr>
+        <tr>
+            <td>¿Crees que al conocer la ubicación de la mascota y tener acceso a los datos de salud en tiempo real, podrías ofrecer recomendaciones más precisas y efectivas? ¿De qué manera?</td>
+            <td>respuesta</td>
+        </tr>
+        <tr>
+            <td>¿Qué tipo de información o informes generados por la aplicación le gustaría compartir con los propietarios de mascotas para mantenerlos informados y comprometidos con el cuidado de su animal?</td>
+            <td>respuesta</td>
+        </tr>
+        <tr>
+            <td>¿Qué tipo de capacitación o soporte necesitaría para utilizar eficazmente una aplicación móvil o web que gestione los datos de dispositivos IoT en su práctica?</td>
+            <td>respuesta</td>
+        </tr>
+        </tbody>
+
+</table>
+
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
