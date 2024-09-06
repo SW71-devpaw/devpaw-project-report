@@ -14,7 +14,7 @@
 
 ## Startup: Devpaw
 
-## Producto: Pawture
+## Producto: UPet
 
 ## Integrantes:
 
@@ -48,9 +48,9 @@ efectiva al utilizar un sistema de control de versiones.
 
 - Daniel Valverde (daniel-vl7)
 - Juliana Yauricasa (JulianaYS)
--
--
--
+- Enzo Trujillo (Rimbow002)
+- Josehp Herrera (JosehpH)
+- Randy Rengifo (Loberos)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -65,11 +65,13 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 * #### Entregable TB1
 
 A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro
-primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
+primera entrega. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
 miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de
 líneas de código que se han modificado en cada uno de los commits.
 
-<img src =""></img>
+Para la elaboración del presente reporte se utilizó el formato Markdown junto a la metodología GitFlow.
+
+<a href="https://ibb.co/mHwnXJ4"><img src="https://i.ibb.co/sFGT6jq/TB1-Project-Report-Collaboration-Insights.png" alt="TB1-Project-Report-Collaboration-Insights" border="0"></a>
 
 ## Contenido
 
@@ -252,6 +254,18 @@ líneas de código que se han modificado en cada uno de los commits.
 <br>
 
 ## Student Outcome
+En ingeniería de software, el logro del curso contribuye a alcanzar el:
+
+<b>ABET – EAC - Student Outcome 5:</b>
+
+Criterio: _La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos._
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
 
 <table>
   <thead>
@@ -280,8 +294,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!----------- Estudiante 2 TB1 -----------> 
     <tr> 
       <td>
-      <b>Estudiante 2</b> <br> 
-      acción realizada
+      <b>Juliana Yauricasa</b> <br> 
+      Junto al equipo se crearon las historias de usuario y el backlog del producto, garantizando que las necesidades y expectativas de cada integrante fueran consideradas. Además, se propuso y se validó los mapas de impacto y To-Be Scenario Mapping, alineando los esfuerzos del equipo hacia el cumplimiento de metas compartidas.
       </td>   
     </tr>
    <!------------ Estudiante 3 TB1 ----------> 
@@ -443,8 +457,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!----------- Estudiante 2 TB1 -----------> 
     <tr> 
       <td>
-      <b>Estudiante 2</b> <br> 
-      acción realizada
+      <b>Juliana Yauricasa</b> <br> 
+        Coordiné con mis compañeros la planificación de las tareas relacionadas con el proyecto y la especificación de requisitos, asegurando que todos entendieran su rol y contribuyeran al desarrollo del producto. Asimismo, ajusté el product backlog en función de la retroalimentación obtenida y garantizando que los objetivos se cumplieran de manera inclusiva
       </td>   
     </tr>
    <!------------ Estudiante 3 TB1 ----------> 
