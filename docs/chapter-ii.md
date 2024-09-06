@@ -494,6 +494,43 @@ Entrevistas: Propietarios de mascotas
 <table>
         <thead>
             <tr>
+                <th>Entrevistado 2</th>
+                <th>Jorge Nakasato</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Enzo Trujillo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Carabayllo</td>
+            </tr>
+            <tr>
+                <td><img src="https://i.ibb.co/5T5WZ5x/imagen-2024-09-06-005207237.png" alt=""></td>
+                <td><strong>Resumen:</strong><br>
+                Naka mencionó que un collar inteligente sería una solución muy beneficiosa, ya que en el pasado perdió a su perro y le hubiera gustado contar con un dispositivo con GPS para localizarlo cuando se extravió. Además, considera importante que el collar pueda monitorear el estado de salud del perro, como sus latidos y respiración, y que envíe alertas o notificaciones en caso de detectar alguna variación inusual en esos parámetros.         
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> 9:13 </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120379_upc_edu_pe/EaBa_l24xzVKpLNLGy6gaT8BLzctqu3SaK4FBmR06DJ2Yg?e=rGln3X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista_Jorge_Nakasato</a></td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
                 <th>Entrevistado 3</th>
                 <th>colocar nombres</th>
             </tr>
