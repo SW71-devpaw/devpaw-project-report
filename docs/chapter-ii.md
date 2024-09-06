@@ -495,35 +495,35 @@ Entrevistas: Propietarios de mascotas
         <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>colocar nombres</th>
+                <th>Luisa Manrique</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>colocar nombres</th>
+                <th>Josehp Herrera</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad del entrevistado</td>
-                <td>colocar edad </td>
+                <td>42</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>colocar distrito</td>
+                <td>Ate</td>
             </tr>
             <tr>
                 <td><img src="url de la foto" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                   Resumen
+                   Luisa nos menciona que nunca ha utilizado una aplicación móvil o web para monitorear a su mascota, pero está interesada en hacerlo. Considera muy importante poder seguir el ritmo cardíaco, la temperatura y la ubicación de su mascota, ya que ha tenido experiencias previas en las que se le perdió. Además, cree que recibir recomendaciones de un veterinario basadas en estos datos sería muy beneficioso, ya que le permitiría evitar visitas frecuentes al veterinario para el control de salud posterior a un diagnóstico, ahorrando así tiempo y dinero.
                 </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> tiempo</td>
+                <td>8:02 minutos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+                <td><a href="https://drive.google.com/file/d/1_7_7xOQnU_-BfIGQwGQS8nfCd9mgjw35/view?usp=sharing">Link de la entrevista</a> </td>
             </tr>
         </tbody>
 </table>
@@ -534,35 +534,35 @@ Entrevistas: Veterinarias
         <thead>
             <tr>
                 <th>Entrevistado 4</th>
-                <th>colocar nombres</th>
+                <th>Diego Cantoral</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>colocar nombres</th>
+                <th>Daniel Valverde</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad del entrevistado</td>
-                <td>colocar edad </td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>colocar distrito</td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
                 <td><img src="url de la foto" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                   Resumen
+                   Diego, un estudiante de 20 años de la carrera de Medicina Veterinaria, actualmente realiza prácticas en una clínica de mascotas. Al responder las preguntas, fue enfático en la importancia de la tecnología, tanto en sistemas de software como en equipos médicos, para optimizar los procesos de atención y recuperación de los pacientes. Con respecto a la propuesta del collar inteligente, destacó la relevancia de incluir la recolección de signos vitales como la temperatura, saturación y ritmo cardíaco. Estos datos serían fundamentales para tener un mejor entendimiento del estado de salud de los pacientes. Diego prefiere que la información se presente en formato de reporte, lo que le permitiría interpretar mejor los datos para realizar los análisis y diagnósticos necesarios.
                 </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> tiempo</td>
+                <td>5:27 minutos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+                <td><a href="https://drive.google.com/file/d/1MT3amJ6t8C4Wv4TXp4tE0n8OyhNpaRqz/view?usp=sharing">Link de la entrevista</a> </td>
             </tr>
         </tbody>
 </table>
