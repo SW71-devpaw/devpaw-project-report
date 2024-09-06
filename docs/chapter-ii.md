@@ -551,7 +551,9 @@ Entrevistas: Veterinarias
                 <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src="url de la foto" alt="Foto de la entrevista"></td>
+                <td>
+                    <img src="url de la foto" alt="">
+                </td>
                 <td><strong>Resumen:</strong><br>
                    Diego, un estudiante de 20 años de la carrera de Medicina Veterinaria, actualmente realiza prácticas en una clínica de mascotas. Al responder las preguntas, fue enfático en la importancia de la tecnología, tanto en sistemas de software como en equipos médicos, para optimizar los procesos de atención y recuperación de los pacientes. Con respecto a la propuesta del collar inteligente, destacó la relevancia de incluir la recolección de signos vitales como la temperatura, saturación y ritmo cardíaco. Estos datos serían fundamentales para tener un mejor entendimiento del estado de salud de los pacientes. Diego prefiere que la información se presente en formato de reporte, lo que le permitiría interpretar mejor los datos para realizar los análisis y diagnósticos necesarios.
                 </td>
@@ -637,6 +639,43 @@ Entrevistas: Veterinarias
             <tr>
                 <td>URL de la entrevista</td>
                 <td><a href="enlace de la entrevista">Link de la entrevista</a> </td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th>Pablo Navarro</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Enzo Trujillo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>51</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Comas</td>
+            </tr>
+            <tr>
+                <td><img src="/assets/img/chapter-ii/Pablo_Navarro_entrevista.png" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                Pablo Navarro, veterinario de 51 años en el distrito de Comas, señaló que el principal problema en el país es la falta de un identificador único para cada mascota, lo que facilita el abandono y la falta de consecuencias. Comentó que algunas veterinarias manejan historiales clínicos a través de software, pero estos no se comparten entre establecimientos, lo que obliga a los dueños a repetir la información en cada visita y genera la falta de historial en emergencias. Destacó la importancia de implantar chips con GPS para mejorar la identificación y seguridad de las mascotas, así como concientizar a los dueños sobre una alimentación adecuada, ya que muchos proporcionan alimentos inapropiados. También mencionó la creciente demanda de baños medicados en las veterinarias, llegando a atender hasta 20 por día, y sugirió que un chip con GPS que almacene la información de la mascota podría integrarse en un collar.
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> 18:43 </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120379_upc_edu_pe/EZWh6omasLBEtiApOliq6jUBgDH9KccOEhWHKd43eL8-Wg?e=1iZcxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista_Pablo_Navarro</a></td>
             </tr>
         </tbody>
 </table>
