@@ -223,8 +223,8 @@ Component-level diagrams for the Identity and Access Context, showing the intern
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 Code-level diagrams for the Identity and Access Context, detailing the classes and code structure.
-![Identity and Access Context Code Level Diagrams](/assets/img/chapter-iv/boundend_Identity%20and%20Access%20Context.png)
 
+![Identity and Access Context Code Level Diagrams](/assets/img/chapter-iv/boundend_Identity%20and%20Access%20Context.png)
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Class diagrams for the domain layer of the Identity and Access Context.
