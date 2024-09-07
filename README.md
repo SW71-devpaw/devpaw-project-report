@@ -315,9 +315,8 @@ del ABET – EAC - Student Outcome 5.
     <!----------- Estudiante 5 TB1 ----------> 
     <tr> 
       <td>
-      <b>Estudiante 5</b> <br> 
-      acción realizada
-      </td>   
+      <b>Randy Becker</b> <br> 
+Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la descripción de la startup y completar el Lean UX Canvas. Coordinamos la evaluación de supuestos del negocio y definimos resultados y estrategias colaborativamente, asegurando que todas las voces fueran escuchadas y se tomaran decisiones conjuntas      </td>   
     </tr>
     <!--------------------ENTREGA TRABAJO PARCIAL----------------->
     <!--------- ESTUDIANTE 1 TP ------------> 
@@ -478,8 +477,8 @@ del ABET – EAC - Student Outcome 5.
     <!----------- Estudiante 5 TB1 ----------> 
     <tr> 
       <td>
-      <b>Estudiante 5</b> <br> 
-      acción realizada
+      <b>Randy Rengifo</b> <br> 
+      Creamos un entorno colaborativo e inclusivo al desarrollar la descripción de la startup y completar el Lean UX Canvas en equipo. Identificamos y evaluamos las suposiciones del negocio, ajustando estrategias basadas en nuevos hallazgos. Establecimos metas claras y revisamos continuamente nuestro progreso juntos.
       </td>   
     </tr>
     <!--------------------ENTREGA TRABAJO PARCIAL----------------->
