@@ -471,8 +471,8 @@ del ABET – EAC - Student Outcome 5.
     <!---------- Estudiante 4 TB1 -----------> 
     <tr> 
       <td>
-      <b>Estudiante 4</b> <br> 
-      acción realizada
+      <b>Josehp Herrera</b> <br> 
+  Creamos un entorno colaborativo e inclusivo al compartir y discutir los resultados del análisis competitivo y los perfiles de usuario (user personas) con todo el equipo. Establecimos metas claras y coordinamos nuestras tareas para asegurar que todos contribuyeran y estuvieran alineados. Trabajamos juntos para cumplir los objetivos y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!----------- Estudiante 5 TB1 ----------> 
