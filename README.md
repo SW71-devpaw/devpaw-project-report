@@ -37,6 +37,7 @@
 | 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes |
 | 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                     |
 | 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                  |
+| 1.3     | 01/09/2024 | Josehp Herrera | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas                   |
 
 ### Project Report Collaboration Insights
 
