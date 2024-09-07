@@ -284,11 +284,11 @@ del ABET – EAC - Student Outcome 5.
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
       <td>
-        <b>Estudiante 1</b> <br> 
-         accción realizada
+        <b>Daniel Valverde</b> <br> 
+   Diseñé los diagramas de arquitectura del sistema, enfocándome en los distintos componentes y su interrelación. Además, en conjunto con el equipo, propusimos y validamos los diagramas de contexto y contenedores, asegurando una arquitectura sólida que refleje el liderazgo colaborativo y esté alineada con los objetivos compartidos del proyecto.
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-         conclusiones generales tb1
+         Este primer entregable nos permitió establecer una base sólida para el desarrollo del proyecto, definiendo los componentes y la arquitectura del sistema. A través de un liderazgo colaborativo, logramos alinear nuestros esfuerzos y garantizar que la arquitectura propuesta cumpla con los objetivos del proyecto.
       </td>   
     </tr>
     <!----------- Estudiante 2 TB1 -----------> 
@@ -446,11 +446,10 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
       <td>
-        <b>Estudiante 1</b> <br> 
-         accción realizada
-        <td rowspan="5"> 
+        <b>Daniel Valverde 1</b> <br> 
+Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde se establecieron metas claras, se planificaron las tareas de manera conjunta y se impulsó el trabajo en equipo para alcanzar los objetivos del proyecto.        <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-         conclusiones generales tb1
+   La conclusión de este entregable nos permitió establecer un entorno colaborativo e inclusivo, donde se definieron metas claras y se planificaron las tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!----------- Estudiante 2 TB1 -----------> 
