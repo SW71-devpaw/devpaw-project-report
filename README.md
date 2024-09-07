@@ -308,8 +308,8 @@ del ABET – EAC - Student Outcome 5.
     <!---------- Estudiante 4 TB1 -----------> 
     <tr> 
       <td>
-      <b>Estudiante 4</b> <br> 
-      acción realizada
+       <b>Josehp Herrera</b> <br> 
+      Para cumplir con el objetivo de liderazgo en equipo, realizamos un análisis competitivo y creamos perfiles de usuario (user personas) para dirigir nuestras estrategias. Diseñamos el formato de las entrevistas, que luego ejecutamos juntos, y elaboramos mapas de empatía para entender mejor a nuestros usuarios. Comunicamos nuestros hallazgos de manera efectiva para asegurar una colaboración y alineación continua.
       </td>   
     </tr>
     <!----------- Estudiante 5 TB1 ----------> 
