@@ -102,7 +102,7 @@ de software y sus interrelaciones, proporcionando una visión general de la estr
 
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams.
-
+![Container](../assets/img/chapter-iv/deployment_diagram.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
