@@ -102,7 +102,7 @@ de software y sus interrelaciones, proporcionando una visión general de la estr
 
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams.
-
+![Container](../assets/img/chapter-iv/deployment_diagram.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -224,14 +224,14 @@ Component-level diagrams for the Identity and Access Context, showing the intern
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 Code-level diagrams for the Identity and Access Context, detailing the classes and code structure.
 
-
+![Identity and Access Context Code Level Diagrams](/assets/img/chapter-iv/boundend_Identity%20and%20Access%20Context.png)
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Class diagrams for the domain layer of the Identity and Access Context.
-![Identity and Access Context class diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278901290516217896/image.png?ex=66d27d24&is=66d12ba4&hm=a10b2791cee02424b4a72e42782a1e143688fe77424a7b5ff5ce6f7c15d07841&)
+![Identity and Access Context class diagram](/assets/img/chapter-iv/Identity%20and%20Access%20Context_class_diagram.png)
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 Database design diagram for the Identity and Access Context.
-![Identity and Access Context database diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278902413167820800/image.png?ex=66d27e30&is=66d12cb0&hm=4ca4c86699d28c1f43b72a9db843a5fcee230f19ad38e1442648b0d33fe1cacb&)
+![Identity and Access Context database diagram](/assets/img/chapter-iv/Identity%20and%20Access%20Context_database_diagram.png)
 ### 4.2.2. Bounded Context: Veterinary Clinic Context
 - [Domain Layer](#4221-domain-layer)
 - [Interface Layer](#4222-interface-layer)
@@ -332,16 +332,18 @@ Component-level diagrams for the Veterinary Clinic Context, showing the internal
 
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 Code-level diagrams for the Veterinary Clinic Context, detailing the classes and code structure.
+![Veterinary Clinic Context code Level Diagrams](/assets/img/chapter-iv/Veterinary%20Clinic_level_diagram.png)
+
 
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 Class diagrams for the domain layer of the Veterinary Clinic Context.
 
-![Veterinary Clinic Context database diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278913272560746567/image.png?ex=66d2884d&is=66d136cd&hm=0a042289a1a56592cfd25d84af2a7ef8f88f11e361f1af74a3e5e98e944add74&)
+![Veterinary Clinic Context database diagram](/assets/img/chapter-iv/Veterinary%20Clinic_class_diagram.png)
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 Database design diagram for the Veterinary Clinic Context.
 
-![Veterinary Clinic Context database diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278913526299234416/image.png?ex=66d28889&is=66d13709&hm=9964555189d805ea3d81eca554ddb86ccba93eda09fe395595ca63448d3d0943&)
+![Veterinary Clinic Context database diagram](/assets/img/chapter-iv/Veterinary%20Clinic_database_diagram.png)
 
 ### 4.2.3. Bounded Context: Medical Management Context
 - [Domain Layer](#4231-domain-layer)
@@ -455,14 +457,16 @@ Component-level diagrams for the Medical Management Context, showing the interna
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 Code-level diagrams for the Medical Management Context, detailing the classes and code structure.
+![Medical Management code Level Diagrams](/assets/img/chapter-iv/Medical%20Management_level_diagram.png)
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 Class diagrams for the domain layer of the Medical Management Context.
-![Medical Management Context class diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278909553999872051/image.png?ex=66d284d6&is=66d13356&hm=78abf0885ef05afc9488ba2cd655e8aadb19cb4413139dd8f14247239e72dabf&)
+![Medical Management Context class diagram](/assets/img/chapter-iv/Medical%20Management_class_diagram.png)
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 Database design diagram for the Medical Management Context.
-![Medical Management Context data base diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278910016811696208/image.png?ex=66d28545&is=66d133c5&hm=929088254e1c621b53231f26a3dbf5a7204b97d46ce7b4a9653e7e57627ba6f6&)
+![Medical Management Context data base diagram](/assets/img/chapter-iv/Medical%20Management_database_diagram.png)
+
 ### 4.2.4. Bounded Context: User Experience Context
 - [Domain Layer](#4241-domain-layer)
 - [Interface Layer](#4242-interface-layer)
@@ -519,13 +523,13 @@ Component-level diagrams for the User Experience Context, showing the internal s
 
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 Code-level diagrams for the User Experience Context, detailing the classes and code structure.
-
+![User Experience Context ode Level Diagrams](/assets/img/chapter-iv/User%20Experience_level_diagram.png)
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 Class diagrams for the domain layer of the User Experience Context.
-![User Experience Context data base diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278922077667201056/image.png?ex=66d29080&is=66d13f00&hm=5505988e1cf78acdc29035ca8d9c37482035157cd69b8bd87788e3a7e542ab1a&)
+![User Experience Context data base diagram](/assets/img/chapter-iv/User%20Experience_class_diagram.png)
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 Database design diagram for the User Experience Context.
 
-![User Experience Context data base diagram](https://cdn.discordapp.com/attachments/895706539455815731/1278918250167537716/image.png?ex=66d28cef&is=66d13b6f&hm=241aba4bdbd208c9b37a3cbf60648182888a317a81c5042148cf71e8bcbce44e&)
+![User Experience Context data base diagram](/assets/img/chapter-iv/User%20Experience_database_diagram.png)
 
