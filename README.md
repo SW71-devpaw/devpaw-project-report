@@ -301,8 +301,8 @@ del ABET – EAC - Student Outcome 5.
    <!------------ Estudiante 3 TB1 ----------> 
     <tr> 
       <td>
-      <b>Estudiante 3</b> <br> 
-      acción realizada
+      <b>Enzo Trujillo</b> <br> 
+      Junto al equipo, realizamos para cada bounded context la definición de la domain layer, interface layer, application layer e infrastructure layer, garantizando que las necesidades y expectativas técnicas de cada integrante fueran consideradas. Además, se propusieron y validaron los diagramas a nivel de componentes, diagramas de clases y de diseño, alineando los esfuerzos del equipo hacia la creación de una arquitectura sólida y orientada al cumplimiento de los objetivos compartidos del proyecto.
       </td>   
     </tr>
     <!---------- Estudiante 4 TB1 -----------> 
@@ -464,8 +464,8 @@ del ABET – EAC - Student Outcome 5.
    <!------------ Estudiante 3 TB1 ----------> 
     <tr> 
       <td>
-      <b>Estudiante 3</b> <br> 
-      acción realizada
+      <b>Enzo Trujillo</b> <br> 
+  A través de reuniones colaborativas, el equipo estableció un entorno inclusivo en el que se definieron metas, se planificaron tareas y se trabajó en conjunto para cumplir con los objetivos del proyecto.
       </td>   
     </tr>
     <!---------- Estudiante 4 TB1 -----------> 
@@ -537,7 +537,7 @@ del ABET – EAC - Student Outcome 5.
     <!---------- ESTUDIANTE 2 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
+        <b>Estudiante 2</b><br>
          acción realizada
       </td>   
     </tr>
@@ -558,7 +558,7 @@ del ABET – EAC - Student Outcome 5.
    <!---------- ESTUDIANTE 5 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 5</b><br>
+        <b>Estudiante 5</b><br>
          acción realizada
       </td>   
     </tr>
@@ -577,7 +577,7 @@ del ABET – EAC - Student Outcome 5.
     <!---------- ESTUDIANTE 2 TF ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
+        <b>Estudiante 2</b><br>
          acción realizada
       </td>   
     </tr>
