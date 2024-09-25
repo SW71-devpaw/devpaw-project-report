@@ -751,15 +751,16 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
 
 #### 6.2.1.3. Development Evidence for Sprint Review.
 
-| Repository     | Branch             | Commit Id | Commit Message | Committed on (Date) |
-|----------------|--------------------|-----------|----------------|---------------------|
-| repositoryname | feature/loremipsum | 14ca4e3   | ---            | 20/08/2024          |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
+| Repository                                        | Branch            | Commit Id                                | Commit Message                               | Committed on (Date) |
+|---------------------------------------------------|-------------------|------------------------------------------|----------------------------------------------|---------------------|
+| https://github.com/SW71-devpaw/upet-frontend-web/ | main              | bd084ae7a64af51d5d9736f8ed7f63b6fd1caf59 | inital commit                                | 18/09/2024          |
+|                                                   | main              | 6c352e1be111c13e90588e4f00d690c7fb603ecb | init                                         | 18/09/2024          |
+|                                                   | feature/home-view | 9c0014dacaa5940bd708d2a3b328506315623259 | feat: cards for pets and form for update pet | 24/09/2024          |
+|                                                   | feature/home-view | 7d17018f6752fdd8efbb2ce793704a9e14e31063 | feat: banner was added                       | 24/09/2024          |
+|                                                   | feature/home-view | 0fe1b1d3c18cce3d9284fc27d13bf6f6f636c41e | feat: section best specialist nearby added   | 24/09/2024          |
+|                                                   | feature/care-view | 91b536f519bb1deae888ef8c13e7ead7d33eac3f | feat(care): add structure of care pet view   | 25/09/2024          |
+|                                                   | feature/care-view | 208952d45fe0caf90028dd6ac11c2bcdfff4bf09 | feat(care): add list of dates                | 25/09/2024          |
+|                                                   | feature/care-view | d2b7a21a1ef02e784ef7689fb2e689312ad490e3 | feat(care): add table of history records     | 25/09/2024          |
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 
