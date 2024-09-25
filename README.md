@@ -74,6 +74,15 @@ Para la elaboración del presente reporte se utilizó el formato Markdown junto 
 
 <a href="https://ibb.co/mHwnXJ4"><img src="https://i.ibb.co/sFGT6jq/TB1-Project-Report-Collaboration-Insights.png" alt="TB1-Project-Report-Collaboration-Insights" border="0"></a>
 
+* #### Entregable TP
+
+En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de nuestro trabajo parcial.
+
+AGREGAR COMMITS 
+
+<img src="" alt="TP-Project-Report-Collaboration-Insights" border="0">
+
+
 ## Contenido
 
 1. [Capítulo I: Introducción](/docs/chapter-i.md)
@@ -323,12 +332,14 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!--------- ESTUDIANTE 1 TP ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada
+        <b>Daniel Valverde</b><br>
+         En este entregable realicé el desarrollo de algunas vistas de la aplicación web. Para cumplir con los objetivos 
+         del primer sprint, fue importante la organización y distribución de tareas de forma equitativa, lo que permitió 
+         avanzar de manera eficiente y cumplir con los plazos establecidos.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TP</b><br>
-         conclusiones generales tp
+            En este entregable, logramos avanzar en el desarrollo de la aplicación web, cumpliendo con los objetivos del primer sprint. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos trabajar en equipo para alcanzar los resultados esperados y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TP ------------> 
@@ -485,12 +496,14 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!--------- ESTUDIANTE 1 TP ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada
+        <b>Daniel Valverde</b><br>
+         Respecto al entorno colaborativo, se establecieron metas claras y se planificaron tareas de manera conjunta,
+         lo que permitió avanzar de manera eficiente y cumplir con los plazos establecidos. Aprovechando el conocimiento 
+         de multiples tecnologias de los integrantes del equipo, se logró un ambiente inclusivo y colaborativo.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TP</b><br>
-         conclusiones generales tp
+         Como conclusión de este entregable, se logró crear un entorno colaborativo e inclusivo, donde se establecieron metas claras y se planificaron tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TP ------------> 
