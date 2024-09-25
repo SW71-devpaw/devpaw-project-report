@@ -164,6 +164,66 @@ El diseño de la interfaz de usuario para la parte de IoT se centra en la visual
 
 - Control y configuración del collar IoT: Los usuarios deben tener la capacidad de configurar su collar IoT desde la aplicación, ajustando parámetros como la frecuencia de actualización de los datos o las notificaciones de alerta. Estos controles deben estar organizados en un menú intuitivo, con instrucciones claras y accesibles.
 
+## 5.2. Information Architecture.
+
+En esta sección, se establece la estructura de los diferentes productos según cada segmento objetivo. Asimismo, se definen elementos que se emplearán para la navegación en la aplicación.
+
+### 5.2.1. Organization Systems.
+
+### **Visual Organization Systems**
+
+**Jerarquía Visual (Visual Hierarchy)**
+
+La jerarquía visual es fundamental para la presentación clara de la información más relevante para los usuarios. Se aplica este principio principalmente en las secciones de control de salud, rastreo de ubicación y gestión de citas, donde es esencial que los usuarios identifiquen fácilmente las acciones prioritarias y la información clave.
+
+- Dashboard de salud: Los datos críticos, como el estado de salud de la mascota, las alertas de signos vitales y las notificaciones urgentes, tienen prioridad visual con colores de alerta (ej. rojo coral para emergencias) y mayor tamaño de texto. Elementos secundarios, como el historial de datos o las opciones de configuración, se muestran en tamaños de fuente más pequeños y con colores menos llamativos.
+- Sistema de citas: En la sección de gestión de citas, los botones de acción, como "Agendar Cita" o "Cancelar Cita", están resaltados visualmente con colores vibrantes y ubicados en la parte superior de la pantalla para que el usuario pueda acceder rápidamente a ellos.
+- Rastreo GPS: El mapa de localización en tiempo real del collar IoT tiene una mayor prominencia en el interfaz, siendo el foco central cuando se utiliza la funcionalidad de rastreo. Los detalles secundarios, como el historial de movimientos, se organizan debajo del mapa.
+
+**Organización Secuencial (Step-by-Step)**
+
+Se aplica en flujos donde es importante que el usuario siga una serie de pasos para completar una tarea, asegurando que no se omita ninguna acción crítica. Este enfoque es clave para guiar a los usuarios a través de procesos complejos, dividiéndolos en pasos fáciles de seguir.
+
+- Registro del collar IoT: Para configurar el collar IoT, los usuarios siguen un flujo secuencial que comienza con la sincronización del dispositivo, seguida de la configuración de alertas y notificaciones, y finaliza con la prueba del dispositivo. Cada paso es claro y ofrece instrucciones detalladas.
+- Agendar cita veterinaria: El proceso de agendar una cita sigue un flujo de pasos guiados, que comienza con la selección del veterinario, luego la elección del día y la hora, y finalmente la confirmación de la cita. El objetivo es que el usuario siga el proceso sin perderse en un sistema complejo.
+
+**Organización Matricial (Matrix-Based Organization)**
+
+La organización matricial permite que los usuarios accedan a la información desde diferentes categorías o filtros simultáneos. Esto es particularmente útil en Upet para la búsqueda y filtrado de veterinarios, donde los usuarios necesitan encontrar rápidamente el servicio adecuado según múltiples criterios.
+
+- Búsqueda de veterinarias: Los usuarios pueden filtrar veterinarios no solo por ubicación geográfica, sino también por tipo de servicio, disponibilidad, y calificaciones. Este enfoque matricial permite que los usuarios encuentren la mejor opción para sus necesidades específicas.
+- Historial médico de la mascota: El historial médico puede ser organizado y consultado tanto por fecha como por tipo de tratamiento o diagnóstico. Esto permite a los veterinarios o propietarios acceder fácilmente a los registros relevantes según lo que necesiten consultar.
+
+### **Content Categorization Schemes**
+
+**Categorización Alfabética**
+
+Se utiliza para acceder a listas largas de elementos, como veterinarios, diagnósticos o tratamientos.
+
+- Listado de veterinarios: Cuando los usuarios buscan veterinarios, los resultados pueden organizarse alfabéticamente si así lo prefieren, lo que facilita encontrar un veterinario específico en una lista larga.
+- Historial médico: Los registros de vacunas o tratamientos específicos pueden ser ordenados alfabéticamente, lo que facilita su búsqueda cuando se consulta por nombre del tratamiento o diagnóstico.
+
+**Categorización Cronológica**
+
+Se aplica principalmente para el seguimiento de la salud de la mascota y el historial de citas, donde el orden temporal es esencial para la navegación y consulta.
+
+- Historial de salud: Los datos de salud, incluidos los reportes del collar IoT, se organizan cronológicamente, permitiendo que los propietarios y veterinarios puedan ver la evolución de la salud de la mascota a lo largo del tiempo.
+- Historial de citas: Las citas pasadas y futuras se muestran en orden cronológico, facilitando la gestión de citas y el seguimiento de visitas anteriores.
+
+**Categorización por Tópicos**
+
+Este esquema de categorización se aplica cuando los usuarios necesitan navegar entre diferentes temas relacionados con la salud de su mascota o las funcionalidades del sistema.
+
+- Monitoreo de Salud IoT: Los datos recolectados por el collar IoT se organizan por tipo de métrica, como temperatura corporal, frecuencia cardíaca o nivel de actividad, permitiendo un análisis detallado por cada categoría.
+
+**Categorización por Audiencia (Grupos de Usuarios)**
+
+Upet reconoce diferentes grupos de usuarios (como propietarios de mascotas y veterinarios), y algunas secciones de la aplicación se organizan específicamente para las necesidades de cada audiencia. Este enfoque permite personalizar la experiencia y asegurar que cada usuario acceda a la información que le es más relevante.
+
+- Panel de Veterinarios: Los veterinarios tienen acceso a una interfaz personalizada donde pueden gestionar la información de los pacientes (mascotas), citas y registros médicos. Las funcionalidades presentadas aquí están organizadas específicamente para las necesidades de un profesional veterinario.
+- Panel de Propietarios: Los propietarios de mascotas tienen su propio panel de usuario donde pueden ver y gestionar las citas, recibir alertas del collar IoT, y acceder a información básica de salud de sus mascotas. Este panel está optimizado para ser sencillo y directo, con información presentada de manera accesible.
+
+
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
