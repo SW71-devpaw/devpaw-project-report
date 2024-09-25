@@ -405,6 +405,101 @@ La App Description presenta los beneficios clave de la aplicación de manera dir
 
 Las palabras clave de la aplicación están optimizadas para atraer a los usuarios que buscan soluciones tecnológicas específicas para el cuidado de mascotas y veterinarios.
 
+### 5.2.4. Searching Systems.
+
+Está diseñado para garantizar que los usuarios puedan acceder a la información que necesitan de manera rápida y eficiente, sin sentirse abrumados por la cantidad de datos disponibles. La búsqueda optimizada es crucial en un entorno donde los usuarios manejan datos relacionados con la salud de sus mascotas, historial médico, citas veterinarias y ubicaciones GPS en tiempo real. A continuación, se detallan los mecanismos de búsqueda que se implementarán en las distintas plataformas, los filtros disponibles y cómo se presentarán los resultados.
+
+### **Búsqueda en la Web Application**
+**Barra de Búsqueda Global**
+
+En la aplicación web, se integrará una barra de búsqueda global accesible desde cualquier sección. Esta barra permitirá a los usuarios realizar búsquedas rápidas dentro de las principales áreas de la aplicación: citas, salud de la mascota, historial médico y ubicación.
+
+- Ubicación: La barra de búsqueda estará visible en la parte superior de la pantalla, permitiendo un acceso rápido a los datos de cualquier sección.
+
+- Sugerencias Instantáneas: A medida que los usuarios escriben en la barra de búsqueda, se mostrarán sugerencias basadas en las entradas, mostrando citas recientes, veterinarios, o eventos relacionados con la salud de la mascota.
+
+**Filtros de Búsqueda en la Web Application**
+
+Para ayudar a los usuarios a encontrar la información correcta entre grandes volúmenes de datos, se incluirán filtros contextuales específicos según la sección donde se esté realizando la búsqueda.
+
+- Filtros de Salud y Monitoreo IoT:
+
+1. Métricas de salud: Los usuarios podrán filtrar los datos de salud por signos vitales específicos, como temperatura corporal, frecuencia cardíaca, o nivel de actividad.
+2. Rango de fechas: Se podrá seleccionar un rango de fechas para buscar eventos de salud específicos o alertas generadas por el collar IoT.
+
+- Filtros de Citas:
+
+1. Estado de la cita: Los usuarios podrán filtrar citas programadas, completadas o canceladas.
+2. Veterinario: Si el usuario ha interactuado con varios veterinarios, podrán filtrar las citas por el profesional específico.
+
+- Filtros de Historial Médico:
+
+1. Tratamientos o diagnósticos: Los usuarios podrán buscar tratamientos o diagnósticos específicos dentro del historial médico.
+2. Vacunas: Se incluirá un filtro especial para buscar registros de vacunación por nombre o tipo.
+
+**Presentación de Resultados**
+
+Una vez realizada la búsqueda, los resultados se mostrarán en una vista clara y estructurada, dependiendo de la sección donde se realice la búsqueda:
+
+- Salud de la Mascota: Los resultados incluirán tarjetas de resumen con las métricas de salud (frecuencia cardíaca, temperatura, actividad) y su estado actual. Si se buscan alertas, estas se mostrarán en una lista ordenada cronológicamente.
+- Citas: Los resultados mostrarán una lista de citas en un formato de tarjeta, donde cada cita incluye la fecha, veterinario, y estado (completada, cancelada, pendiente). Habrá botones de acción para editar o cancelar citas directamente desde los resultados.
+- Historial Médico: Se presentarán listas cronológicas de eventos médicos, incluyendo tratamientos, diagnósticos y vacunaciones. Cada entrada tendrá un enlace para ver detalles completos del evento.
+
+### **Búsqueda en la Aplicación Móvil**
+**Barra de búsqueda en la App Móvil**
+
+En la aplicación móvil, la barra de búsqueda será prominente en las principales secciones como Citas, Historial de Salud y Monitoreo IoT. Dado el espacio limitado en pantallas móviles, la barra de búsqueda estará ubicada en la parte superior de cada pantalla de estas secciones, accesible con un simple toque.
+
+- Sugerencias predictivas: Conforme el usuario escribe en la barra de búsqueda, la aplicación móvil ofrecerá sugerencias basadas en entradas previas o búsquedas comunes, reduciendo el tiempo necesario para encontrar la información correcta.
+
+**Filtros de búsqueda en la App Móvil**
+
+Al igual que en la versión web, los filtros son fundamentales para ayudar a los usuarios móviles a encontrar datos de manera eficiente.
+
+- Filtros en monitoreo IoT:
+
+1. Parámetros de salud: Los usuarios podrán filtrar por parámetros como frecuencia cardíaca, nivel de actividad o temperatura corporal.
+2. Fechas recientes: El filtro de fechas recientes estará disponible en formato de calendario desplegable para seleccionar rangos de fechas específicas.
+
+- Filtros en citas:
+
+1. Veterinario: Filtrado por veterinario para citas anteriores o próximas.
+2. Estado de la Cita: Filtrar entre citas completadas, pendientes o canceladas.
+
+- Filtros en historial Médico:
+
+1. Tipos de tratamiento: Filtrar por tipo de tratamiento o diagnóstico, permitiendo a los usuarios encontrar fácilmente registros médicos relevantes.
+2. Fechas: Filtro por fechas para ver registros médicos de un periodo específico.
+
+**Presentación de resultados en Móvil**
+
+En la aplicación móvil, los resultados de búsqueda se presentan de forma clara y optimizada para pantallas pequeñas:
+
+- Resultados de salud IoT: Los resultados se mostrarán en un formato de tarjetas simplificado, mostrando el dato principal (temperatura, frecuencia cardíaca, etc.) en letras grandes, con un código de color que indica normalidad (verde), advertencia (amarillo) o alerta (rojo).
+
+- Resultados de citas: Se mostrarán como una lista vertical de tarjetas de cita, donde el usuario puede ver el veterinario, la fecha, y la opción para reprogramar o cancelar la cita directamente.
+
+- Resultados de historial Médico: Los eventos médicos se presentarán cronológicamente con detalles mínimos en la vista de resultados, y la opción de expandir para ver más información.
+
+### **Búsqueda y Filtrado para Veterinarios**
+
+Para los veterinarios que utilicen Upet, los sistemas de búsqueda están optimizados para gestionar los pacientes de manera eficiente. Los veterinarios podrán buscar rápidamente entre sus pacientes y registros de salud para acceder a la información relevante en tiempo real.
+
+**Búsqueda por paciente**
+
+Los veterinarios tendrán acceso a una barra de búsqueda en su dashboard para buscar rápidamente el historial de salud de un paciente específico por nombre o identificación.
+
+**Filtros de pacientes**
+
+Los veterinarios pueden filtrar a sus pacientes por diversos criterios, como:
+
+- Estado de salud actual: Filtro por mascotas con alertas recientes o en estado crítico.
+- Fecha de la última visita: Filtrar por mascotas que no han tenido consultas en un periodo específico.
+- Raza y edad: Filtrar pacientes por raza o grupo de edad para estudios o revisiones específicas.
+
+**Presentación de Resultados para Veterinarios**
+
+Los resultados de búsqueda se mostrarán como una lista de pacientes, mostrando nombre, edad y estado de salud en una vista concisa. Los veterinarios podrán acceder a los registros médicos completos de cada paciente haciendo clic en su nombre.
 
 ## 5.4. Applications UX/UI Design.
 
