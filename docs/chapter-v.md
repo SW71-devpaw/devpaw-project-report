@@ -501,6 +501,107 @@ Los veterinarios pueden filtrar a sus pacientes por diversos criterios, como:
 
 Los resultados de búsqueda se mostrarán como una lista de pacientes, mostrando nombre, edad y estado de salud en una vista concisa. Los veterinarios podrán acceder a los registros médicos completos de cada paciente haciendo clic en su nombre.
 
+### 5.2.5. Navigation Systems.
+
+Está diseñado para guiar a los usuarios de manera intuitiva a través de la Landing Page, la aplicación web y la aplicación móvil. El objetivo es garantizar que los usuarios logren sus metas rápidamente y con facilidad, mientras interactúan de forma satisfactoria con las funcionalidades del producto. Para lograrlo, implementamos técnicas de navegación eficientes, visualmente claras y coherentes que se adaptan a las distintas plataformas. A continuación, se describen las acciones y técnicas que permitirán a los usuarios recorrer el contenido de Upet de manera fluida.
+
+### **Landing Page Navigation**
+
+**Navegación Global (Global Navigation)**
+
+En la Landing Page, la navegación global será un menú principal visible en todo momento, que permitirá a los usuarios acceder rápidamente a las secciones clave del sitio. Este menú estará presente en la parte superior de la página y será accesible desde cualquier punto de la página mediante un menú de desplazamiento o un menú tipo hamburger en dispositivos móviles.
+
+*Secciones principales del menú:*
+- Inicio: Llamado a la acción inmediato para descargar la aplicación o registrarse.
+- Funcionalidades: Resumen de las características principales de Upet, como monitoreo de salud, GPS, y gestión de citas.
+- Veterinarios: Información dirigida a los veterinarios que usan la plataforma, mostrando beneficios y herramientas específicas.
+- Testimonios: Sección de reseñas y experiencias de otros usuarios.
+- Contacto: Enlace a una página que permite a los usuarios ponerse en contacto con el equipo de Upet.
+- Descargar App: Botón destacado para redirigir a las tiendas de aplicaciones.
+
+**Llamado a la Acción (Call-to-Action)**
+
+En la Landing Page, se implementarán claros llamados a la acción (Call-to-Action o CTA), ubicados estratégicamente para guiar al usuario hacia acciones clave como descargar la aplicación o registrarse. Estos botones serán visualmente prominentes con colores llamativos como el #F15C5D para captar la atención de los visitantes.
+
+- Descargar App: Botón principal en la cabecera que redirige a las tiendas de aplicaciones.
+- Regístrate Ahora: Botón que llevará a los usuarios a la sección de registro o inicio de sesión, tanto para propietarios como veterinarios.
+
+**Navegación de Desplazamiento (Scrolling Navigation)**
+
+La Landing Page está estructurada de manera vertical con un diseño de desplazamiento continuo que permite a los usuarios explorar la página de arriba a abajo sin perderse. Las secciones están claramente diferenciadas, y los botones de navegación dentro de cada sección permiten moverse hacia la siguiente de forma sencilla.
+
+- Anclas de Navegación: En cada sección, se incluirán botones o enlaces de "Más Información" que llevarán a los usuarios a la siguiente sección con solo hacer clic.
+- Botón "Volver Arriba": Un botón de retorno a la parte superior estará disponible cuando el usuario se desplace hacia abajo, mejorando la facilidad de uso.
+
+### **Web Application Navigation**
+**Barra de Navegación Fija**
+
+En la aplicación web, los usuarios accederán a través de una barra de navegación fija en la parte superior o lateral de la pantalla, que les permitirá moverse entre las principales funcionalidades sin perder el contexto de donde están. Esta barra será accesible en todo momento, lo que garantiza una navegación rápida y fluida.
+
+*Secciones de la Barra de Navegación:*
+- Dashboard: Pantalla principal con un resumen de la salud y el estado de la mascota.
+- Salud: Sección donde los usuarios pueden revisar la información de los signos vitales en tiempo real proporcionada por el collar IoT.
+- Citas: Vista para gestionar citas veterinarias, incluyendo el agendamiento, cancelación y recordatorios.
+- Ubicación: Funcionalidad de rastreo GPS, donde los propietarios pueden ver la ubicación actual de su mascota.
+- Historial: Acceso al historial médico de la mascota, incluyendo consultas anteriores y registros de salud.
+- Ajustes: Configuración de cuenta y preferencias de notificaciones y alertas.
+
+*Navegación por Filtros*
+
+Para facilitar el acceso a información específica, la aplicación web de Upet permitirá a los usuarios filtrar datos de salud y citas. Estos filtros estarán ubicados en la parte superior de las secciones respectivas y permitirán a los usuarios clasificar la información por fecha, tipo de consulta o métricas de salud (frecuencia cardíaca, temperatura, actividad física).
+
+- Filtros en el Historial de Salud: Los usuarios podrán filtrar los registros de salud de su mascota según fechas (más recientes o más antiguos), o métricas específicas como temperatura corporal o frecuencia cardíaca.
+
+**Interacciones Contextuales**
+
+En la aplicación web, se incluirán menús contextuales que aparezcan cuando el usuario interactúa con un elemento específico. Por ejemplo, al hacer clic en una cita o en un dato de salud, aparecerán opciones adicionales como reprogramar, ver detalles o eliminar.
+
+- Menús Contextuales: Al hacer clic en una cita en el calendario, aparecerán opciones de edición o cancelación.
+- Hover para más Información: Cuando los usuarios pasen el cursor sobre datos médicos, se desplegará información detallada, como rangos de salud óptimos para cada parámetro.
+
+### **Mobile Application Navigation**
+
+**Navegación por Tabs (Tab Bar Navigation)**
+
+En la aplicación móvil, la navegación principal se organizará mediante una barra de pestañas (tab bar) ubicada en la parte inferior de la pantalla. Esto facilita el acceso con una sola mano y permite a los usuarios moverse rápidamente entre las secciones clave sin necesidad de múltiples clics o deslizamientos.
+
+*Tabs Principales:*
+
+- Inicio: Resumen del estado actual de la mascota, incluyendo salud y ubicación.
+- Salud: Sección dedicada a los datos médicos y las alertas de salud.
+- Citas: Gestión de citas veterinarias, con botones claros para agendar o cancelar.
+- GPS: Rastreo en tiempo real de la mascota.
+- Perfil: Ajustes de cuenta y preferencias.
+
+**Navegación por Gestos (Gesture-Based Navigation)**
+
+Para mejorar la experiencia móvil, se implementarán interacciones mediante gestos que simplifiquen la navegación y permitan a los usuarios acceder rápidamente a diferentes funcionalidades.
+
+- Deslizar para Ver Detalles: Los usuarios podrán deslizar a la derecha o izquierda para navegar entre diferentes métricas de salud o secciones del historial.
+- Tocar para Expandir: Al tocar cualquier dato médico o información de salud, el contenido se expandirá para mostrar más detalles sin necesidad de abrir una nueva pantalla.
+- Deslizar para Agendar: En la sección de citas, los usuarios podrán deslizar una tarjeta de cita para ver opciones rápidas como reprogramar o cancelar.
+
+**Notificaciones y Acciones Rápidas**
+
+En dispositivos móviles, las notificaciones serán integradas en el sistema operativo para permitir a los usuarios actuar directamente desde la notificación. Por ejemplo, si se recibe una alerta de salud crítica, el usuario podrá acceder a la información directamente desde la notificación sin necesidad de abrir la aplicación.
+
+- Acciones Rápidas: Las notificaciones de alerta permitirán opciones como "Ver Salud" o "Contactar Veterinario" directamente desde la pantalla de notificaciones.
+
+### **Técnicas de Navegación Específicas para IoT**
+
+**Panel de Control IoT**
+
+Para los usuarios que utilicen el collar IoT, el sistema de navegación prioriza el acceso rápido y sencillo a la información en tiempo real de la mascota. Desde el dashboard principal, el usuario podrá ver las métricas más importantes, como la ubicación y los signos vitales, con botones claros para obtener más detalles.
+
+- Acceso Directo a Alertas: Las alertas de salud aparecerán como notificaciones prominentes en la parte superior del panel. Al hacer clic en una alerta, los usuarios podrán ver los detalles de la anomalía detectada y las acciones sugeridas.
+
+**Modo de Navegación en Mapas (GPS)**
+
+Cuando los usuarios utilicen el rastreo GPS de su mascota, la navegación cambiará a un mapa en tiempo real. En esta vista, podrán hacer zoom, ver la ruta recorrida y recibir notificaciones si la mascota sale de un área predefinida.
+
+- Modo Pantalla Completa: El mapa se expandirá a pantalla completa para que el usuario pueda visualizar claramente la ubicación de la mascota.
+- Notificaciones en Tiempo Real: Las alertas de ubicación se mostrarán en la parte superior del mapa, y los usuarios podrán hacer clic en ellas para ver la ruta exacta de su mascota.
+
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
