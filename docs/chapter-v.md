@@ -602,6 +602,38 @@ Cuando los usuarios utilicen el rastreo GPS de su mascota, la navegación cambia
 - Modo Pantalla Completa: El mapa se expandirá a pantalla completa para que el usuario pueda visualizar claramente la ubicación de la mascota.
 - Notificaciones en Tiempo Real: Las alertas de ubicación se mostrarán en la parte superior del mapa, y los usuarios podrán hacer clic en ellas para ver la ruta exacta de su mascota.
 
+## 5.3. Landing Page UI Design.
+
+### 5.3.1. Landing Page Wireframe.
+
+En esta sección, presentamos los wireframes de la landing page de Upet, una plataforma innovadora diseñada para conectar a dueños de mascotas con veterinarios de confianza. Los wireframes proporcionan una visión estructural de la página, destacando la disposición y funcionalidad de cada sección clave.
+
+*Sección Home*
+![Home](../assets/img/chapter-v/home_lp.png)
+
+*Sección About*
+![About](../assets/img/chapter-v/proposito.png)
+
+*Sección Dueños de mascotas*
+![Dueños de mascotas](../assets/img/chapter-v/seccion_pet.png)
+
+*Sección Veterinarios*
+![Veterinarios](../assets/img/chapter-v/seccion_vet.png)
+
+*Sección Review*
+![Review](../assets/img/chapter-v/seccion_review.png)
+
+*Sección Download*
+![Download](../assets/img/chapter-v/seccion_download.png)
+
+*Sección Contact*
+![Contact](../assets/img/chapter-v/seccion_sendamessage.png)
+
+*Sección Footer*
+![Footer](../assets/img/chapter-v/seccion_footer.png)
+
+Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?node-id=0-1&t=TQJZTBEcEyWMmmIQ-1
+
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
