@@ -223,6 +223,115 @@ Upet reconoce diferentes grupos de usuarios (como propietarios de mascotas y vet
 - Panel de Veterinarios: Los veterinarios tienen acceso a una interfaz personalizada donde pueden gestionar la información de los pacientes (mascotas), citas y registros médicos. Las funcionalidades presentadas aquí están organizadas específicamente para las necesidades de un profesional veterinario.
 - Panel de Propietarios: Los propietarios de mascotas tienen su propio panel de usuario donde pueden ver y gestionar las citas, recibir alertas del collar IoT, y acceder a información básica de salud de sus mascotas. Este panel está optimizado para ser sencillo y directo, con información presentada de manera accesible.
 
+### 5.2.2. Labeling Systems.
+
+El sistema de etiquetado se diseña para garantizar simplicidad, claridad y coherencia en la representación de la información. El objetivo principal es facilitar la comprensión rápida y sin esfuerzo de las funcionalidades clave, tanto para los visitantes como para los usuarios registrados. Se utilizarán etiquetas precisas, con un mínimo número de palabras, para evitar confusiones y mejorar la navegación. Este enfoque ayuda a que los usuarios asocien fácilmente las etiquetas con la información o las acciones que representan.  A continuación, se detallan las etiquetas que se utilizarán en Upet y cómo se aplicarán en diferentes contextos, considerando la simplicidad y las asociaciones mentales que los usuarios harán al interactuar con la aplicación.
+
+### **Etiquetas Principales en la Navegación**
+
+**Dashboard**
+
+Etiqueta: "Dashboard"
+
+Asociación: El dashboard es la pantalla principal donde los usuarios pueden ver un resumen de toda la información relevante, como la salud de la mascota, citas programadas y alertas del collar IoT. El término "Dashboard" se asocia rápidamente con la idea de un panel de control, donde se tiene una vista general de la información crítica.
+
+**Salud**
+
+Etiqueta: "Salud"
+
+Asociación: Esta etiqueta agrupa toda la información relacionada con el estado de salud de la mascota, como reportes del collar IoT, registros de vacunación y otros datos médicos. "Salud" es una etiqueta directa que comunica claramente su propósito, y los usuarios sabrán que aquí encontrarán información sobre la condición médica de su mascota.
+
+**Citas**
+
+Etiqueta: "Citas"
+
+Asociación: La palabra "Citas" se utiliza para la sección donde los propietarios pueden gestionar todas las visitas programadas con el veterinario. Es una etiqueta que fácilmente asocia en la mente del usuario el agendamiento y la gestión de citas. Aquí podrán ver citas pasadas y futuras, así como programar nuevas.
+
+**GPS**
+
+Etiqueta: "Ubicación"
+
+Asociación: La etiqueta "Ubicación" se utilizará para la función de rastreo en tiempo real proporcionada por el collar IoT. La palabra "Ubicación" es simple y directa, lo que permite que los usuarios rápidamente asocien esta sección con el monitoreo del lugar donde se encuentra su mascota en todo momento.
+
+**Historial**
+
+Etiqueta: "Historial"
+
+Asociación: Esta etiqueta se emplea para mostrar el historial médico de la mascota, que incluye las consultas veterinarias pasadas, datos de salud del collar IoT y tratamientos. La etiqueta "Historial" es fácilmente asociada con un registro cronológico de eventos, ayudando al usuario a entender que aquí encontrarán información sobre la historia médica de su mascota.
+
+### **Etiquetas en Formularios y Botones**
+
+**Botón: Agendar Cita**
+
+Etiqueta: "Agendar Cita"
+
+Asociación: Este botón permitirá a los propietarios agendar una nueva cita con el veterinario. La etiqueta es clara y directa, dejando en evidencia que, al hacer clic en el botón, los usuarios iniciarán el proceso de agendamiento.
+
+**Botón: Cancelar**
+
+Etiqueta: "Cancelar"
+
+Asociación: "Cancelar" es una etiqueta comúnmente entendida y se utilizará cuando los usuarios deseen cancelar una acción en proceso o una cita programada. No requiere explicaciones adicionales, ya que es universalmente reconocida.
+
+**Botón: Confirmar**
+
+Etiqueta: "Confirmar"
+
+Asociación: Este botón se utilizará para validar acciones como agendar una cita o confirmar el estado de una alerta de salud. La palabra "Confirmar" comunica claramente que la acción que el usuario está por realizar será definitiva.
+
+**Botón: Rastrear Mascota**
+
+Etiqueta: "Rastrear Mascota"
+
+Asociación: Al hacer clic en este botón, los propietarios accederán al sistema de rastreo GPS de su mascota a través del collar IoT. La etiqueta es específica, lo que asegura que los usuarios sepan exactamente qué funcionalidad están utilizando.
+
+**Botón: Activar Notificaciones**
+
+Etiqueta: "Activar Notificaciones"
+
+Asociación: Este botón permitirá a los usuarios activar alertas relacionadas con la salud de la mascota o su ubicación. La etiqueta "Activar Notificaciones" deja en claro que, al seleccionarla, los usuarios recibirán actualizaciones en tiempo real.
+
+### **Etiquetas Contextuales en la Aplicación IoT**
+
+**Alerta: Salud en Riesgo**
+
+Etiqueta: "Salud en Riesgo"
+
+Asociación: Esta etiqueta aparecerá cuando el collar IoT detecte un valor anómalo en los signos vitales de la mascota. Es una etiqueta concisa y urgente, que transmite de inmediato la importancia de revisar el estado de la mascota.
+
+**Alerta: Mascota Localizada**
+
+Etiqueta: "Mascota Localizada"
+
+Asociación: Esta alerta aparecerá cuando el sistema de rastreo GPS confirme la ubicación de la mascota. La etiqueta es simple y refleja el estado actual de la búsqueda, ofreciendo tranquilidad al usuario.
+
+**Notificación: Recordatorio de Cita**
+
+Etiqueta: "Recordatorio de Cita"
+
+Asociación: Esta notificación se enviará automáticamente a los propietarios para recordarles sus citas veterinarias. La etiqueta comunica claramente la función de la notificación, lo que permite que el usuario asocie el mensaje con la gestión de citas.
+
+### **Esquemas de Categorización y Asociaciones**
+
+**Esquema de Categorización por Audiencia**
+
+Propietarios y Veterinarios: El contenido de la aplicación Upet se organiza de acuerdo con las necesidades específicas de cada tipo de usuario. Por ejemplo, los propietarios verán información sobre la salud de su mascota, las citas y el GPS, mientras que los veterinarios tendrán acceso a historiales médicos y herramientas de gestión de pacientes. Las etiquetas dentro de cada sección estarán personalizadas para reflejar las acciones relevantes para cada tipo de usuario.
+
+- Propietarios: Salud, Citas, Ubicación, Historial.
+- Veterinarios: Pacientes, Historial Médico, Agenda, Alertas.
+
+**Esquema de Categorización por Tópicos**
+
+Monitoreo de Salud y GPS: Dentro de las secciones de monitoreo, los datos del collar IoT se organizan en diferentes tópicos: Signos Vitales, Ubicación, Actividad Física. Las etiquetas en estas secciones aseguran que los usuarios puedan acceder fácilmente a cada categoría sin tener que buscar información en varios lugares.
+
+- Signos vitales: Información sobre la frecuencia cardíaca, temperatura y otros parámetros de salud.
+- Ubicación: Rastreo en tiempo real de la ubicación de la mascota.
+- Actividad física: Registros del nivel de ejercicio o movimiento de la mascota.
+
+**Esquema de Categorización Cronológica**
+
+Historial Médico y de Citas: El historial de la mascota y las citas veterinarias se organizan de manera cronológica para que los usuarios puedan ver fácilmente eventos pasados y futuros. La etiqueta "Historial" permite que los propietarios y veterinarios vean de manera organizada las visitas y tratamientos de la mascota en orden temporal.
+
 
 ## 5.4. Applications UX/UI Design.
 
