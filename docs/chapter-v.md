@@ -667,8 +667,78 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
+<div style="text-align: center;">
+
+  ![Create Account](https://i.postimg.cc/s24FfXYG/Create-account.png)  
+  ![Create Account 1](https://i.postimg.cc/0QkTzsnW/Create-account-1.png)  
+  ![Home 1](https://i.postimg.cc/GtNVgsCV/Home-w-1.png)  
+  ![Edit Pet](https://i.postimg.cc/Hx6f5hPp/Edit-Pet-w.png)  
+  ![Appointment](https://i.postimg.cc/mgMfqVhw/appointment.png)  
+  ![Register Pet](https://i.postimg.cc/KYSFvwCw/register-pet-w.png)  
+  ![Care](https://i.postimg.cc/8CSQVW6V/Care-w.png)  
+  ![Profile Veterinary](https://i.postimg.cc/y8SsKsp0/profile-veterinary.png)  
+  ![Add Info](https://i.postimg.cc/J4sW3RLS/add-info.png)  
+  ![Settings Subscription](https://i.postimg.cc/1zGSgMQt/settings-suscription.png)  
+  ![Supervise](https://i.postimg.cc/k47mW8Jy/Supervise.png)  
+  ![View Info](https://i.postimg.cc/tC8G28RJ/view-info.png)  
+
+</div>
 
 ### 5.4.2. Applications Wireflow Diagrams.
+
+<div style="text-align: start;">
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 001: </strong>Registrar mascota</label>
+    </div>
+    <img src="https://i.postimg.cc/vH44N19z/Group-1000003199.jpg" alt="Group 1000003199" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 002: </strong>Editar informaciòn de la mascota</label>
+    </div>    <img src="https://i.postimg.cc/yxv0X2M8/Group-1000003201.jpg" alt="Group 1000003201" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 003: </strong>Agendar cita con la veterinaria</label>
+    </div>    <img src="https://i.postimg.cc/QNbg3WFZ/Group-1000003202.jpg" alt="Group 1000003202" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 004: </strong>Integraciòn de datos del collar al historial mèdico</label>
+    </div>    <img src="https://i.postimg.cc/VN85vDhG/Group-1000003205.jpg" alt="Group 1000003205" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 005: </strong>Monitoreo de ubicaiòn en tiempo real</label>
+    </div>    <img src="https://i.postimg.cc/c19Kh7KC/Group-1000003206.jpg" alt="Group 1000003206" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 006: </strong>Subir foto de la mascota al registrarla</label>
+    </div>    <img src="https://i.postimg.cc/wx4XMRpK/Group-1000003200.jpg" alt="Group 1000003200" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 007: </strong>Registrar vacunas de las mascotas</label>
+    </div>    <img src="https://i.postimg.cc/GttvzdvS/Group-1000003203.jpg" alt="Group 1000003203" style="height: 150px;"/>  
+  </div>
+
+  <div style="text-align: left;">
+    <div>
+    <label><strong>Wireflow diagram 008: </strong>Registrar resultados de los diágnosticos de las mascotas</label>
+    </div>    <img src="https://i.postimg.cc/RhYKDyRC/Group-1000003204.jpg" alt="Group 1000003204" style="height: 150px;"/>  
+  </div>
+
+</div>
+
 
 ### 5.4.3. Applications Mock-ups.
 
