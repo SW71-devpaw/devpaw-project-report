@@ -634,6 +634,36 @@ En esta sección, presentamos los wireframes de la landing page de Upet, una pla
 
 Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?node-id=0-1&t=TQJZTBEcEyWMmmIQ-1
 
+### 5.3.2. Landing Page Mock-up.
+
+En esta sección, presentamos los mockups de la landing page de Upet, que ofrecen una representación visual detallada y estilizada de la interfaz final. Los mockups permiten visualizar el diseño estético y la experiencia de usuario, proporcionando una imagen clara de cómo se verá y funcionará la página.
+
+*Sección Home*
+![Home](../assets/img/chapter-v/home_mk.png)
+
+*Sección About*
+![About](../assets/img/chapter-v/proposito_mk.png)
+
+*Sección Dueños de mascotas*
+![Dueños de mascotas](../assets/img/chapter-v/pet_mk.png)
+
+*Sección Veterinarios*
+![Veterinarios](../assets/img/chapter-v/vet_mk.png)
+
+*Sección Review*
+![Review](../assets/img/chapter-v/review_mk.png)
+
+*Sección Download*
+![Download](../assets/img/chapter-v/download_mk.png)
+
+*Sección Contact*
+![Contact](../assets/img/chapter-v/sendamessage_mk.png)
+
+*Sección Footer*
+![Footer](../assets/img/chapter-v/footer_mk.png)
+
+Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?node-id=9-201&t=TQJZTBEcEyWMmmIQ-1
+
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
