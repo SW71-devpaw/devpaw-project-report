@@ -5,7 +5,6 @@ En esta sección del informe se detallan las decisiones y principios fundamental
 
 Este enfoque asegura que cada cambio, modificación o actualización del software se gestione de manera controlada y organizada, manteniendo la integridad del producto a lo largo de su evolución.
 ### 6.1.1. Software Development Environment Configuration.
-Aquí tienes una versión mejorada del texto:
 
 **Configuración del Entorno de Desarrollo de Software**
 
