@@ -332,6 +332,79 @@ Monitoreo de Salud y GPS: Dentro de las secciones de monitoreo, los datos del co
 
 Historial Médico y de Citas: El historial de la mascota y las citas veterinarias se organizan de manera cronológica para que los usuarios puedan ver fácilmente eventos pasados y futuros. La etiqueta "Historial" permite que los propietarios y veterinarios vean de manera organizada las visitas y tratamientos de la mascota en orden temporal.
 
+### 5.2.3. SEO Tags and Meta Tags
+
+El posicionamiento web de Upet es crucial para garantizar la visibilidad de la marca tanto en motores de búsqueda (SEO) como en las tiendas de aplicaciones (ASO). A continuación, se detallan los SEO Tags y Meta Tags que se aplicarán en las páginas principales del sitio web (Landing Page y Web Application), así como los elementos de App Store Optimization (ASO) para la aplicación móvil.
+
+### **Sitio Web Estático (Landing Page)**
+
+La Landing Page es la puerta de entrada para los usuarios interesados en conocer la aplicación, sus funcionalidades y beneficios. Los siguientes SEO Tags y Meta Tags se aplicarán para mejorar la visibilidad y relevancia en los motores de búsqueda:
+
+**Title:**
+- Valor: "Upet - Tecnología IoT para el Cuidado de tu Mascota"
+
+El title es breve, pero lo suficientemente descriptivo como para captar la atención de los motores de búsqueda y usuarios. Incluye el nombre de la marca y la propuesta de valor clave: tecnología IoT para el cuidado de mascotas.
+
+**Meta Description:**
+- Valor: "Descubre Upet, la aplicación que utiliza tecnología IoT para monitorear la salud y ubicación de tu mascota en tiempo real. Con funcionalidades como rastreo GPS y alertas de salud, Upet asegura el bienestar de tu mejor amigo."
+
+La meta description ofrece una vista previa clara y atractiva del contenido de la página, destacando las principales funcionalidades de la aplicación (IoT, GPS, salud) y cómo beneficia a los usuarios.
+
+**Meta Keywords:**
+- Valor: "Upet, aplicación para mascotas, monitoreo IoT, collar inteligente, rastreo GPS mascotas, salud mascotas, veterinarios, cuidado de mascotas"
+
+Las palabras clave están cuidadosamente seleccionadas para reflejar los términos que los usuarios podrían buscar relacionados con la aplicación Upet y sus funcionalidades.
+
+**Meta Author:**
+- Valor: "Upet Team"
+
+El author asigna el crédito del contenido a Upet Team, reflejando que el sitio web y su contenido han sido creados y gestionados por el equipo de Upet.
+
+### **Web Application**
+
+La Web Application es donde los usuarios registrados acceden a las funcionalidades interactivas para gestionar la salud y el rastreo de sus mascotas. Los SEO Tags y Meta Tags aquí se enfocan en atraer a usuarios que buscan herramientas tecnológicas específicas para el cuidado de mascotas.
+
+**Title:**
+- Valor: "Upet - Gestiona la Salud y Seguridad de tu Mascota con IoT"
+
+Este title comunica el propósito principal de la aplicación web: gestionar la salud y la seguridad de las mascotas usando la tecnología IoT, apelando directamente a usuarios interesados en monitoreo en tiempo real.
+
+**Meta Description:**
+- Valor: "Con la aplicación web de Upet, puedes gestionar la salud de tu mascota, monitorear su ubicación y recibir alertas en tiempo real. Personaliza tus alertas de salud y mantén a tu mascota segura con Upet."
+
+La descripción destaca las funcionalidades clave de la aplicación web, enfatizando las capacidades de monitoreo y personalización.
+
+**Meta Keywords:**
+- Valor: "Upet aplicación web, monitoreo salud mascotas, rastreo GPS mascotas, alertas IoT, veterinarios, gestión de citas mascotas"
+
+Estas palabras clave se centran en las funcionalidades interactivas que los usuarios pueden gestionar a través de la aplicación web.
+
+**Meta Author:**
+- Valor: "Upet Development Team"
+
+### **Mobile Application**
+En las tiendas de aplicaciones como Google Play y App Store, los elementos de App Store Optimization (ASO) aseguran que Upet sea visible para los usuarios que buscan soluciones tecnológicas para el cuidado de mascotas. Estos son los elementos clave que se utilizarán:
+
+**App Title:**
+- Valor: "Upet - Monitoriza la Salud y Ubicación de tu Mascota con IoT"
+
+El App Title comunica inmediatamente el valor principal de la aplicación: el monitoreo de la salud y ubicación de las mascotas mediante tecnología IoT.
+
+**App Subtitle:**
+- Valor: "Tecnología para el Cuidado de Mascotas: GPS, Salud y Alertas en Tiempo Real"
+
+El subtitle en tiendas de aplicaciones refuerza las principales funcionalidades de Upet, haciendo énfasis en el rastreo GPS y las alertas en tiempo real para captar la atención del usuario.
+
+**App Description:**
+- Valor: "Upet es la solución ideal para los dueños de mascotas que desean monitorear la salud y la ubicación de su mejor amigo en tiempo real. Con la tecnología IoT, podrás recibir alertas cuando la salud de tu mascota esté en riesgo, rastrear su ubicación con GPS y gestionar las citas veterinarias fácilmente. Únete a Upet y mantén a tu mascota siempre protegida."
+
+La App Description presenta los beneficios clave de la aplicación de manera directa y atractiva, utilizando un tono accesible que conecta con las preocupaciones de los dueños de mascotas.
+
+**App Keywords:**
+- Valor: "Upet, monitoreo mascotas, salud mascotas, GPS mascotas, IoT mascotas, veterinarios, cuidado de mascotas, rastreo mascotas, collar inteligente"
+
+Las palabras clave de la aplicación están optimizadas para atraer a los usuarios que buscan soluciones tecnológicas específicas para el cuidado de mascotas y veterinarios.
+
 
 ## 5.4. Applications UX/UI Design.
 
