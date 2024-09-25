@@ -628,50 +628,123 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
-    <!--rowspan="number of rows for the tasks (3)" -->
-    <td rowspan="3">US00X</td>
-    <td rowspan="3">Titulo de US</td>
-    <td>TAX </td>
-    <td>titulo de task x</td>
-    <td>descripción</td>
-    <td>horas</td>
-    <td>integrante</td>
-    <td>estado</td>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US001</td>
+    <td rowspan="2">Registro de cuenta</td>
+    <td>TA01</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td>TAX+1</td>
-    <td>titulo de task</td>
-    <td> descripcion</td>
-    <td> horas</td>
-    <td>integrante </td>
-    <td> estado </td>
+    <td>TA02</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
   </tr>
-  <tr>
-    <td>TAX+1</td>
-    <td>titulo de task</td>
-    <td> descripcion</td>
-    <td> horas</td>
-    <td>integrante </td>
-    <td> estado </td>
-  </tr>
+   <!---------------------------------------------------------------------- -->
   <tr>
     <!--rowspan="number of rows for the tasks (2)" -->
-    <td rowspan="2">US00X</td>
-    <td rowspan="2">Titulo US</td>
-    <td>TAX+1</td>
-    <td> titulo task tax+1</td>
-    <td>descripcion </td>
-    <td>horas</td>
-    <td>integrante </td>
-    <td>estado</td>
+    <td rowspan="2">US002</td>
+    <td rowspan="2">Iniciar Sesión</td>
+    <td>TA03</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Randy  </td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td>TAX+1</td>
-    <td>titulo de task</td>
-    <td> descripcion</td>
-    <td> horas</td>
-    <td>integrante </td>
-    <td> estado </td>
+    <td>TA04</td>
+     <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done  </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US005</td>
+    <td rowspan="2">Registrar Mascota</td>
+    <td>TA05</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td> Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+  <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US009</td>
+    <td rowspan="2">Editar información de la mascota</td>
+    <td>TA07</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA08</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US024</td>
+    <td rowspan="2">Visualizar resumen del historial médico</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US007</td>
+    <td rowspan="2">Ver listado de mis mascotas</td>
+    <td>TA11</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>1</td>
+    <td>Daniel Valverde </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA12</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Daniel Valverde </td>
+    <td> Done </td>
   </tr>
 </table>
 
