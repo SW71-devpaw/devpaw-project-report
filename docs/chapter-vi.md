@@ -548,8 +548,11 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 ## 6.2. Landing Page, Services & Applications Implementation.
 
 ### 6.2.1. Sprint 1
-
+En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación de la primera vesión del diseño de nuestra Landing Page, Web Application y Backend services
+utilizando WebStorm y Visual Studio Code como entornos de desarrollo. Esto implica que al concluir el Sprint 1, se habrán completado las tareas y objetivos establecidos para esta etapa inicial del proyecto.
 #### 6.2.1.1. Sprint Planning 1.
+En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la elaboración de la primera versión de las soluciones 
+de Upet. Se dividieron las secciones a programar entre los integrantes, además se determinó el plazo de entrega de estas tareas.
 
 <table>
   <thead>
@@ -564,36 +567,24 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
     </tr>
     <tr>
       <td style="text-align:center">Date</td>
-      <td style="text-align:center">00-00-0000</td>
+      <td style="text-align:center">13-09-2024</td>
     </tr>
     <tr>
       <td style="text-align:center">Time</td>
-      <td style="text-align:center">hour</td>
+      <td style="text-align:center">08:00 pm</td>
     </tr>
     <tr>
       <td style="text-align:center">Location</td>
-      <td style="text-align:center">platform</td>
+      <td style="text-align:center">Google Meet</td>
     </tr>
     <tr>
       <td style="text-align:center">Prepared By</td>
-      <td style="text-align:center">integrante</td>
+      <td style="text-align:center">Enzo Trujillo</td>
     </tr>
     <tr>
       <td style="text-align:center">Attendees</td>
       <td style="text-align:center">
-      participantes
-      </td>
-    </tr>
-    <tr>
-      <td>Sprint 2 Review Summary</td>
-      <td>
-        summary
-      </td>
-    </tr>
-    <tr>
-      <td>Sprint 2 Retrospective Summary</td>
-      <td>
-        retrosprective
+      Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde
       </td>
     </tr>
     <tr>
@@ -601,15 +592,15 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Goal</td>
-      <td style="text-align:center"> goal </td>
+      <td style="text-align:center"> Implementar la primera versión  de la Landing Page, Web Application y Backend services </td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Velocity</td>
-      <td style="text-align:center">points</td>
+      <td style="text-align:center">38</td>
     </tr>
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
-      <td style="text-align:center">points</td>
+      <td style="text-align:center">38</td>
     </tr>
   </tbody>
 </table>
