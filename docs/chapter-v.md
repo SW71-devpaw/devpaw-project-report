@@ -742,6 +742,33 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 
 ### 5.4.3. Applications Mock-ups.
 
+<div style="text-align: center;">
+
+  ![Login](https://i.postimg.cc/2SRjdWLL/Login.png)  
+  ![Make Appointment](https://i.postimg.cc/vZrY0m5q/Make-Appointment.png)  
+  ![Activities](https://i.postimg.cc/rmKzZkVD/Activities.png)  
+  ![Add Members](https://i.postimg.cc/T25prfNS/Add-Members.png)  
+  ![Add Cards](https://i.postimg.cc/prjrxJnx/Add-Cards.png)  
+  ![Add Info](https://i.postimg.cc/63gqDmqY/Add-Info.png)  
+  ![Care](https://i.postimg.cc/qMfgwS97/Care.png)  
+  ![Confirm Plan](https://i.postimg.cc/m2Qk5Vsy/Confirm-Plan.png)  
+  ![Create Account](https://i.postimg.cc/9QC05TX5/Create-Account.png)  
+  ![Edit Pet](https://i.postimg.cc/zG7BJB3L/Edit-Pet.png)  
+  ![Home](https://i.postimg.cc/s2221rZT/Home.png)  
+  ![Home 1](https://i.postimg.cc/d0SVyx2w/Home-1.png)  
+  ![Plan Updated](https://i.postimg.cc/rpq83LJ8/Plan-Updated.png)  
+  ![Profile](https://i.postimg.cc/nLTHtwRq/Profile.png)  
+  ![Profile Pet](https://i.postimg.cc/Hn8HXWpt/Profile-Pet.png)  
+  ![Profile Veterinary](https://i.postimg.cc/wx1s0hMw/Profile-Veterinary.png)  
+  ![Register Pet](https://i.postimg.cc/dQgZXLTw/Register-Pet.png)  
+  ![Reminders](https://i.postimg.cc/gkRLPmvR/Reminders.png)  
+  ![Settings](https://i.postimg.cc/DwTJvHgN/Settings.png)  
+  ![Supervise](https://i.postimg.cc/Hk9JVzvk/Supervise.png)  
+  ![Update Plan](https://i.postimg.cc/Ls4JfPGB/Update-Plan.png)  
+  ![View Info Pet](https://i.postimg.cc/s2nvJXrF/View-Info-Pet.png)  
+
+</div>
+
 ### 5.4.4. Applications User Flow Diagrams.
 
 ## 5.5. Applications Prototyping.
