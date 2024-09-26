@@ -5,7 +5,6 @@ En esta sección del informe se detallan las decisiones y principios fundamental
 
 Este enfoque asegura que cada cambio, modificación o actualización del software se gestione de manera controlada y organizada, manteniendo la integridad del producto a lo largo de su evolución.
 ### 6.1.1. Software Development Environment Configuration.
-Aquí tienes una versión mejorada del texto:
 
 **Configuración del Entorno de Desarrollo de Software**
 
@@ -941,6 +940,124 @@ Entrevista Segmento 2
             <tr>
                 <td>URL de la entrevista</td>
                 <td>https://shorturl.at/acGL6</td>
+            </tr>
+        </tbody>
+</table>
+
+### 6.3.3. Evaluaciones según heurísticas.
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+CARRERA : Ingeniería de Software
+
+CURSO : Desarrollo de Soluciones IOT 
+
+SECCIÓN : SW71
+
+PROFESOR : Marco Antonio León Baca
+
+AUDITOR : startup name
+
+CLIENTE(S) : Grupo X
+
+SITE o APP A EVALUAR: product
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+* Landing Page
+    * i. Descripción de las características de la aplicación
+    * ii. Accesibilidad de los botones call to action
+    ...
+* Web Application
+    * i. Diseño responsive para toda la aplicación
+    ...
+* Another Platform
+    * i. ...
+    ...
+  
+### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                     |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+
+#### TABLA DE RESUMEN - platform
+
+| # | Problema                                                                    | Escala de severidad | Heurística/Principio violada(o)           |
+|---|-----------------------------------------------------------------------------|---------------------|-------------------------------------------|
+| 1 | description                                                                 | 0                   | problem                                   |
+| 2 | description                                                                 | 0                   | problem                                   |
+| 3 | description                                                                 | 0                   | problem                                   |
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Nombre del problema
+
+**Severidad:** X
+
+**Heurística violada:** xxxxxxxxxxxx
+
+**Problema:**
+Descripción del problema identificado.
+
+![evidencia del problema]()
+
+**Recomendación:**
+Descripción de la recomendación para solucionar el problema.
+
+## 6.4. Video About-the-Product.
+
+### **Conclusiones**
+
+#### Conclusiones y recomendaciones.
+
+#### Video About-the-Team.
+
+### **Bibliografía**
+
+### **Anexos**
+
+<table>
+        <thead>
+            <tr>
+                <th>Sección</th>
+                <th>Características del video</th>
+                <th>Sobre el contenido</th>
+                <th>Integración y entrega</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Needfinding Interviews</td>
+                <td>Cantidad de videos: 1 <br> 
+                  Nomenclatura: nomenclatura correspondiente <br>
+                  Formato: .mp4 <br>
+                  Duración: 00:00:00 min </td>
+                <td>Consolida todas las entrevistas realizadas</td>
+                <td>Link: link aqui
+                  Captura: <br>
+                  <img src="" alt="" width="350"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Another video</td>
+                <td>Cantidad de videos: 1 <br> 
+                  Nomenclatura: nomenclatura correspondiente <br>
+                  Formato: .mp4 <br>
+                  Duración: 00:00:00 min </td>
+                <td>Consolida todas las entrevistas realizadas</td>
+                <td>Link: link aqui
+                  Captura: <br>
+                  <img src="" alt="" width="350"/>
+                </td>
             </tr>
         </tbody>
 </table>
