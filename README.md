@@ -32,12 +32,15 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor             | Descripción de modificación                                                                           |
-|---------|------------|-------------------|-------------------------------------------------------------------------------------------------------|
-| 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes |
-| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                     |
-| 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                  |
-| 1.3     | 01/09/2024 | Josehp Herrera | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas                   |
+| Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                               |
+|---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
+| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
+| 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
+| 1.3     | 01/09/2024 | Josehp Herrera | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas   |
+| 2.1     | 16/09/2024 | Juliana Yauricasa | Se completó el diseño de la interfaz del usuario para el sitio web estático.                                                                              |
+| 2.2     | 27/09/2024 | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
+
 
 ### Project Report Collaboration Insights
 
@@ -72,15 +75,23 @@ líneas de código que se han modificado en cada uno de los commits.
 
 Para la elaboración del presente reporte se utilizó el formato Markdown junto a la metodología GitFlow.
 
-<a href="https://ibb.co/mHwnXJ4"><img src="https://i.ibb.co/sFGT6jq/TB1-Project-Report-Collaboration-Insights.png" alt="TB1-Project-Report-Collaboration-Insights" border="0"></a>
+![TP-Project-Report-Collaboration-Insights](assets/img/readme/TB1_ProjectReportCollaborationInsights.png)
 
 * #### Entregable TP
 
 En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de nuestro trabajo parcial.
 
-AGREGAR COMMITS 
+Para el Reporte de Proyecto
 
-<img src="" alt="TP-Project-Report-Collaboration-Insights" border="0">
+![TP-Project-Report-Collaboration-Insights](assets/img/readme/report_devpawTP.png)
+
+![TP-Project-Report-Collaboration-Insights](assets/img/readme/report_devpawTP2.png)
+
+Para el Repositorio de Frontend
+
+![TP-Project-Report-Collaboration-Insights](assets/img/readme/front_devpaw.png)
+
+![TP-Project-Report-Collaboration-Insights](assets/img/readme/front_devpawTP.png)
 
 
 ## Contenido
@@ -90,6 +101,7 @@ AGREGAR COMMITS
    1.1. [Startup Profile](/docs/chapter-i.md#11-startup-profile)
 
    1.1.1. [Descripción de la Startup](/docs/chapter-i.md#111-descripción-de-la-startup)
+   
    1.1.2. [Perfiles de integrantes del equipo](/docs/chapter-i.md#112-perfiles-de-integrantes-del-equipo)
 
    1.2. [Solution Profile](/docs/chapter-i.md#12-solution-profile)
@@ -356,7 +368,7 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
          avanzar de manera eficiente y cumplir con los plazos establecidos.
       </td> 
       <td rowspan="5">
-        <b>CONCLUSIÓN DEL ENTRGABLE TP</b><br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TP</b><br>
             En este entregable, logramos avanzar en el desarrollo de la aplicación web, cumpliendo con los objetivos del primer sprint. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos trabajar en equipo para alcanzar los resultados esperados y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
