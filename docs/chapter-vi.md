@@ -764,23 +764,102 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 
-| Repository     | Branch             | Commit Id | Commit Message | Committed on (Date) |
-|----------------|--------------------|-----------|----------------|---------------------|
-| repositoryname | feature/loremipsum | 14ca4e3   | ---            | 20/08/2024          |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
-|                |                    |           |                |                     |
+
+| |                                        |
+|----------------------|---------------------------------------------------|
+| Repository           | [PetTechh/Acceptance_test_Upet](https://github.com/PetTechh/Acceptance_test_Upet.git) |
+| Branch               | main                                              |
+| Commit Id            | 4772c601f85bda2ef0dd620088b406724bba6704        |
+| Commit Message       | added acceptance tests                            |
+
 
 #### 6.2.1.5. Execution Evidence for Sprint Review.
+Para la entrega de este Sprint, se completó con éxito el despliegue de la Landing page y el Backend.
+
+                                      LANDING PAGE
+
+![landing-picture](/assets/img/chapter-vi/landing-picture1.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture2.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture3.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture4.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture5.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture6.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture7.png)
+![landing-picture](/assets/img/chapter-vi/landing-picture8.png)
+
+
+                                      BACKEND
+
+![backend-picture](/assets/img/chapter-vi/backend-picture1.png)
+![backend-picture](/assets/img/chapter-vi/backend-picture2.png)
+![backend-picture](/assets/img/chapter-vi/backend-picture3.png)
+![backend-picture](/assets/img/chapter-vi/backend-picture4.png)
+![backend-picture](/assets/img/chapter-vi/backend-picture5.png)
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especificar las rutas y funcionalidades de la API que permitirán la comunicación e intercambio de datos entre el frontend y el backend de la aplicación. Además de documentar estos endpoints cruciales, el equipo realizó confirmaciones (commits) en el repositorio del proyecto para registrar los cambios y avances realizados en el código fuente. A continuación, se muestra los endpoints documentados y los commits: 
+
+| Endpoint                                        | Verbo HTTP | Parámetros        | Ejemplo de Llamada                           |
+|-------------------------------------------------|------------|-------------------|----------------------------------------------|
+| /api/v1/auth/sign-up                           | POST       | -                 | /api/v1/auth/sign-up                        |
+| /api/v1/auth/sign-in                           | POST       | -                 | /api/v1/auth/sign-in                        |
+| /api/v1/auth/current-user                      | GET        | -                 | /api/v1/auth/current-user                   |
+| /api/v1/users                                  | GET        | -                 | /api/v1/users                               |
+| /api/v1/veterinary_clinics                    | GET        | -                 | /api/v1/veterinary_clinics                 |
+| /api/v1/veterinary_clinics                    | POST       | -                 | /api/v1/veterinary_clinics                 |
+| /api/v1/pets/{petowner_id}                    | POST       | petowner_id       | /api/v1/pets/{petowner_id}                 |
+| /api/v1/pets/{petowner_id}                    | GET        | petowner_id       | /api/v1/pets/{petowner_id}                 |
+| /api/v1/pets                                    | GET        | -                 | /api/v1/pets                                |
+| /api/v1/appointments                           | GET        | -                 | /api/v1/appointments                        |
+| /api/v1/appointments                           | POST       | -                 | /api/v1/appointments                        |
+| /api/v1/appointments/pet/{pet_id}             | GET        | pet_id            | /api/v1/appointments/pet/{pet_id}          |
+| /api/v1/appointments/veterinarian/{veterinarian_id} | GET    | veterinarian_id   | /api/v1/appointments/veterinarian/{veterinarian_id} |
+| /api/v1/notifications                          | GET        | -                 | /api/v1/notifications                       |
+| /api/v1/notifications                          | POST       | -                 | /api/v1/notifications                       |
+| /api/v1/notifications/petowner/{petowner_id} | GET        | petowner_id       | /api/v1/notifications/petowner/{petowner_id} |
+| /api/v1/medical_historys                       | GET        | -                 | /api/v1/medical_historys                    |
+| /api/v1/medical_historys                       | POST       | -                 | /api/v1/medical_historys                    |
+| /api/v1/medical_historys/{medical_history_id}/diseases/ | GET | medical_history_id | /api/v1/medical_historys/{medical_history_id}/diseases/ |
+| /api/v1/medical_historys/{medicalHistory_id}  | POST       | medicalHistory_id  | /api/v1/medical_historys/{medicalHistory_id} |
+| /api/v1/medical_historys/{medical_history_id}/vaccinations/ | GET | medical_history_id | /api/v1/medical_historys/{medical_history_id}/vaccinations/ |
+| /api/v1/medical_historys/{medicalHistoryId}   | PUT        | medicalHistory_id  | /api/v1/medical_historys/{medicalHistoryId} |
+| /api/v1/users/petowner/{user_id}              | POST       | user_id           | /api/v1/users/petowner/{user_id}           |
+| /api/v1/users/petowner                         | GET        | -                 | /api/v1/users/petowner                      |
+| /api/v1/users/veterinarians/{user_id}         | POST       | user_id           | /api/v1/users/veterinarians/{user_id}      |
+| /api/v1/users/veterinarians                    | GET        | -                 | /api/v1/users/veterinarians                 |
+| /api/v1/diseases                               | GET        | -                 | /api/v1/diseases                            |
+| /api/v1/diseases                               | POST       | -                 | /api/v1/diseases                            |
+| /api/v1/vaccinations                           | GET        | -                 | /api/v1/vaccinations                        |
+| /api/v1/vaccinations                           | POST       | -                 | /api/v1/vaccinations                        |
+
+
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+Se utilizó Github para el control de versiones y colaboración entre el equipo. En la organización, se creó un repositorio para cada producto, es decir, uno para la landing page, otro para el backend y uno para la aplicación móvil. Para el despliegue de la landing page se utilizó Github Pages.
+
+**Landing Page desplegada:** https://pettechh.github.io/UPet-LandingPage/ <br>
+**Backend desplegado** https://upetbackendapi.onrender.com/docs#/  
+
+
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
+Durante el sprint 1, el equipo trabajo activamente en la implementación de la landing page, la aplicación móvil, el backend y el web application. La metodología que se empleó fue mediante Gitflow, gracias a ello, todos los miembros participaron simultáneamente.
+
+                                      App Web
+
+![contribution.png](/assets/img/chapter-vi/contribution.png)
+
+                                      Mobile App
+
+![alt text](/assets/img/chapter-vi/contribution-app-mobile.png)
+
+                                      Backend
+![alt text](/assets/img/chapter-vi/contribution-backend.png)
+
+                                      Report
+
+![alt text](/assets/img/chapter-vi/contribution2.png)
 
 ## 6.3. Validation Interviews.
 
@@ -862,124 +941,6 @@ Entrevista Segmento 2
             <tr>
                 <td>URL de la entrevista</td>
                 <td>https://shorturl.at/acGL6</td>
-            </tr>
-        </tbody>
-</table>
-
-### 6.3.3. Evaluaciones según heurísticas.
-
-**UX Heuristics & Principles Evaluation**
-
-**Usability – Inclusive Design – Information Architecture**
-
-CARRERA : Ingeniería de Software
-
-CURSO : Desarrollo de Soluciones IOT 
-
-SECCIÓN : SW71
-
-PROFESOR : Marco Antonio León Baca
-
-AUDITOR : startup name
-
-CLIENTE(S) : Grupo X
-
-SITE o APP A EVALUAR: product
-
-TAREAS A EVALUAR:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-* Landing Page
-    * i. Descripción de las características de la aplicación
-    * ii. Accesibilidad de los botones call to action
-    ...
-* Web Application
-    * i. Diseño responsive para toda la aplicación
-    ...
-* Another Platform
-    * i. ...
-    ...
-  
-### ESCALA DE SEVERIDAD:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
-
-| Nivel | Descripción                                                                                                                                                                                     |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
-| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
-| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
-| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
-
-
-#### TABLA DE RESUMEN - platform
-
-| # | Problema                                                                    | Escala de severidad | Heurística/Principio violada(o)           |
-|---|-----------------------------------------------------------------------------|---------------------|-------------------------------------------|
-| 1 | description                                                                 | 0                   | problem                                   |
-| 2 | description                                                                 | 0                   | problem                                   |
-| 3 | description                                                                 | 0                   | problem                                   |
-
-
-**DESCRIPCIÓN DE PROBLEMAS:**
-
-**PROBLEMA #1:** Nombre del problema
-
-**Severidad:** X
-
-**Heurística violada:** xxxxxxxxxxxx
-
-**Problema:**
-Descripción del problema identificado.
-
-![evidencia del problema]()
-
-**Recomendación:**
-Descripción de la recomendación para solucionar el problema.
-
-## 6.4. Video About-the-Product.
-
-### **Conclusiones**
-
-#### Conclusiones y recomendaciones.
-
-#### Video About-the-Team.
-
-### **Bibliografía**
-
-### **Anexos**
-
-<table>
-        <thead>
-            <tr>
-                <th>Sección</th>
-                <th>Características del video</th>
-                <th>Sobre el contenido</th>
-                <th>Integración y entrega</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Needfinding Interviews</td>
-                <td>Cantidad de videos: 1 <br> 
-                  Nomenclatura: nomenclatura correspondiente <br>
-                  Formato: .mp4 <br>
-                  Duración: 00:00:00 min </td>
-                <td>Consolida todas las entrevistas realizadas</td>
-                <td>Link: link aqui
-                  Captura: <br>
-                  <img src="" alt="" width="350"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Another video</td>
-                <td>Cantidad de videos: 1 <br> 
-                  Nomenclatura: nomenclatura correspondiente <br>
-                  Formato: .mp4 <br>
-                  Duración: 00:00:00 min </td>
-                <td>Consolida todas las entrevistas realizadas</td>
-                <td>Link: link aqui
-                  Captura: <br>
-                  <img src="" alt="" width="350"/>
-                </td>
             </tr>
         </tbody>
 </table>
