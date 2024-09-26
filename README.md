@@ -382,8 +382,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 3 TP ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
-            acción realizada
+            <b>Randy Rengifo</b><br>
+            Participé activamente en el diseño del mock-ups de la aplicación web y tambien desarrrolle los User Flow Diagrams. El diseño se implemento en base a todas nuestra historias de usuario con el fin de que se cumplan los requisitos necesarios.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TP ------------>
