@@ -89,7 +89,25 @@ AGREGAR COMMITS
 
    1.1. [Startup Profile](/docs/chapter-i.md#11-startup-profile)
 
-   1.1.1. [Descripción de la Startup]()
+   1.1.1. [Descripción de la Startup](/docs/chapter-i.md#111-descripción-de-la-startup)
+   1.1.2. [Perfiles de integrantes del equipo](/docs/chapter-i.md#112-perfiles-de-integrantes-del-equipo)
+
+   1.2. [Solution Profile](/docs/chapter-i.md#12-solution-profile)
+   
+   1.2.1. [Antecedentes y problemática](/docs/chapter-i.md#121-antecedentes-y-problemática)
+
+   1.2.2. [Lean UX Process](/docs/chapter-i.md#122-lean-ux-process)
+
+   1.2.2.1. [Lean UX Problem Statements](/docs/chapter-i.md#1221-lean-ux-problem-statements)
+
+   1.2.2.2. [Lean UX Assumptions](/docs/chapter-i.md#1222-lean-ux-assumptions)
+
+   1.2.2.3. [Lean UX Hypothesis Statements](/docs/chapter-i.md#1223-lean-ux-hypothesis-statements)
+
+   1.2.2.4. [Lean UX Canvas](/docs/chapter-i.md#1224-lean-ux-canvas)
+
+   1.3. [Segmentos Objetivos](/docs/chapter-i.md#13-segmentos-objetivos)
+
 
 2. [Capítulo II: Requirements Elicitation & Analysis](/docs/chapter-ii.md)
 
@@ -359,8 +377,9 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 4 TP ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+           En este entregable realicé el diseño de los wireframes de la aplicación web y también desarrolle algunas vistas de la misma. Para el diseño tuvimos que coordinar en equipo con el fin de asegurarnos
+           de que el diseño concuerde con las historias de usuario.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TP ------------> 
@@ -523,8 +542,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 4 TP ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+            Se estableció colaborativamente la base para el diseño de la web app priorizando las historias usuario más relevantes para el primer sprint.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TP ------------> 
