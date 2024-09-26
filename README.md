@@ -363,8 +363,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 2 TP ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
-         acción realizada
+        <b>Juliana Yauricasa</b><br>
+         Participé activamente en la definición de las general style guidelines, donde en colaboración con el equipo, establecimos una visión clara y coherente para la interfaz de usuario en las plataformas web, móviles y de IoT. Este proceso incluyó tomar decisiones críticas sobre el diseño visual y funcional de la aplicación, como la elección de colores, tipografía y estructura de la información.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TP ------------>
@@ -528,8 +528,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 2 TP ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
-         acción realizada
+        <b>Juliana Yauricasa</b><br>
+         Establecimos metas claras para cada fase del proyecto, desde la creación de la Information Architecture hasta el diseño de la Landing Page UI Design. Además, colaboramos para desarrollar los wireframes y mock-ups de los productos, asismismo del código de la aplicación web.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TP ------------>
