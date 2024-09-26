@@ -667,6 +667,19 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 ## 5.4. Applications UX/UI Design.
 
 ### 5.4.1. Applications Wireframes.
+
+
+Mobile application:
+
+<div style="text-align: center;">
+
+  ![Create Account](https://i.postimg.cc/90JBy9B6/image.png)  
+  [Enlace de los wireframes](https://www.figma.com/design/HG5VxSXVvjfVC0BGdiWywi/IOT---Mobile-Application?node-id=10-723&t=UXfnAD20vDHaldKx-1)
+
+</div>
+
+Web application:
+
 <div style="text-align: center;">
 
   ![Create Account](https://i.postimg.cc/s24FfXYG/Create-account.png)  
@@ -739,11 +752,24 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 
 </div>
 
+Mobile Application:
+
 
 ### 5.4.3. Applications Mock-ups.
 
+Mobile application:
+
 <div style="text-align: center;">
 
+  ![Create Account](https://i.postimg.cc/QdHr9kbr/image.png)  
+  [Enlace de los wireframes](https://www.figma.com/design/HG5VxSXVvjfVC0BGdiWywi/IOT---Mobile-Application?node-id=10-723&t=UXfnAD20vDHaldKx-1)
+
+</div>
+
+Web application:
+
+<div style="text-align: center;">
+  
   ![Login](https://i.postimg.cc/2SRjdWLL/Login.png)  
   ![Make Appointment](https://i.postimg.cc/vZrY0m5q/Make-Appointment.png)  
   ![Activities](https://i.postimg.cc/rmKzZkVD/Activities.png)  
@@ -770,5 +796,19 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 </div>
 
 ### 5.4.4. Applications User Flow Diagrams.
+Web application: 
+<div style="text-align: center;">
+
+  ![Create Account](https://i.postimg.cc/rwv7d6sS/image.png)  
+  [Enlace de los user flow](https://www.figma.com/design/YLw0Ul43ixFzCgbO0J63md/IOT---Web-Application?node-id=2-2&node-type=canvas&t=X4DilrqX6D9f77E0-0)
+
+</div>
 
 ## 5.5. Applications Prototyping.
+Web application:
+<div style="text-align: center;">
+
+  ![Create Account](https://i.postimg.cc/TwxS9rr1/image.png)  
+  [Enlace al prototipo](https://www.figma.com/design/YLw0Ul43ixFzCgbO0J63md/IOT---Web-Application?node-id=2-2&node-type=canvas&t=X4DilrqX6D9f77E0-0)
+
+</div>
