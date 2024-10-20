@@ -18,64 +18,58 @@ Nuestra visión es ser líderes en el sector de tecnología para el cuidado de m
         <tr>
             <th>Integrantes</th>
             <th>Descripción</th>
-            <th>Conocimientos</th>
         </tr>
     </thead>
     <body >
         <tr>
             <!-- DATOS del integrante 1-->
             <td > 
-            <img src="..\assets\img\chapter-i\josue-foto.jpeg" height="100" alt="">
+            <img src="https://i.postimg.cc/MH0KDzqh/josue-foto.jpg" height="100" alt="">
             <br> Josue Daniel Valverde Lopez (U202121440)
             </td>
             <!-- DESCRIPCIÓN del integrante 1-->
             <td > Mi nombre es Daniel, soy estudiante del septimo ciclo de ingeniería de software. Antes de llevar la carrera tenía interés por la materia, aprendí conceptos básicos de programación. Además, me considero una persona responsable y empática, por esa razón tengo facilidad para desarrollar trabajos en grupo.</td>
             <!-- CONOCIMIENTOS del integrante 1-->
-            <td> Python</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 2-->
             <td > 
-            <img src="..\assets\img\chapter-i\juliana-foto.jpeg" height="100" alt=""> 
+            <img src="https://i.postimg.cc/fyQRmVnc/juliana-foto.jpg" height="100" alt=""> 
             <br> Juliana Alexandra Yauricasa Seguil (U20201B782) 
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
             <td > Soy Juliana Yauricasa, estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Con relación al trabajo en grupo, me considero una persona ordenada y responsable. Por ello, participaré activamente en las actividades grupales para culminar el proyecto de manera satisfactoria.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td> conocimientos</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->
             <td > 
-            <img src="..\assets\img\chapter-i\enzo-foto.jpeg" height="100" alt=""> 
+            <img src="https://i.postimg.cc/8C35kyZn/enzo-foto.jpg" height="100" alt=""> 
             <br> Enzo Paolo Trujillo Acosta (U202120379)
             </td>
             <!-- DESCRIPCIÓN del integrante 3-->
             <td > Soy Enzo Trujillo, un apasionado por analizar y resolver problemas mediante la lógica. Me comprometo a apoyar a mi equipo en la organización y en cada tarea que se nos asigne. Estoy constantemente dispuesto a aprender y crecer en mi carrera de ingeniería de software.</td>
             <!-- CONOCIMIENTOS del integrante 3-->
-            <td> conocimientos</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
             <td > 
-            <img src="..\assets\img\chapter-i\josehp-foto.jpeg" height="100" alt=""> 
+            <img src="https://i.postimg.cc/QtTMFpPN/josehp-foto.jpg" height="100" alt=""> 
             <br> Josehp Piero Herrera del Pino (U20211E098 )
             </td>
             <!-- DESCRIPCIÓN del integrante 4-->
             <td > Actualmente estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Poseo experiencia y habilidades en diversas tecnologías utilizadas en el desarrollo web, tanto en el frontend como en el backend. Me considero una persona apasionada por la tecnología, con una sólida base en programación y un enfoque orientado a resultados. Además, disfruto del trabajo en equipo y estoy constantemente buscando oportunidades para aprender y crecer profesionalmente en el campo de la ingeniería de software.</td>
             <!-- CONOCIMIENTOS del integrante 4-->
-            <td> HTML, CSS, JavaScript, React.js, Angular, Vue.js, TypeScript, Angular, Nest.js y Spring Boot</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 5-->
             <td > 
-            <img src="..\assets\img\chapter-i\randy-foto.jpeg" height="100" alt=""> 
+            <img src="https://i.postimg.cc/L4jXR3LN/randy-foto.jpg" height="100" alt=""> 
             <br> Randy Becker Rengifo Mirabal (U20211d683)
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
             <td > Actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuanto con conocimiento en programación web tanto en el frontend como en el backend, del mismo modo en la programación móvil con conocimientos básicos. Me considero una persona proactiva, perseverante, y sobre todo responsable. Mis pasatiempos favoritos son escuchar música, jugar videojuegos o algún deporte como el fútbol.</td>
             <!-- CONOCIMIENTOS del integrante 5-->
-            <td> HTML, CSS, JS, TS, Angular, React, Nest.js, .NET, Java, Kotlin, Dart y Flutter</td>
         </tr>
     </body>
 </table>
@@ -241,7 +235,7 @@ Características Importantes:
 
 - **Creemos que** al integrar todas las funcionalidades de gestión del cuidado de mascotas en una sola plataforma, los usuarios tendrán una experiencia más coherente y simplificada, mejorando la eficiencia en la gestión del bienestar de sus animales. **Sabremos** que hemos tenido éxito **cuando** veamos un aumento en la retención de usuarios y una disminución en las quejas relacionadas con la fragmentación de herramientas y la complejidad de la gestión del cuidado de las mascotas.
 #### 1.2.2.4. Lean UX Canvas
-![LeanUXCanvas](/assets/img/chapter-i/LeanUXCanvas.jpeg)
+![LeanUXCanvas](https://i.postimg.cc/dtv00Z9v/Lean-UXCanvas.jpg)
 ## 1.3. Segmentos Objetivos
 ##### Dueños de Mascotas
 - **Descripción General:** Este segmento incluye a individuos que tienen uno o más animales de compañía y buscan herramientas y soluciones para mejorar la gestión de la salud y el bienestar de sus mascotas.
