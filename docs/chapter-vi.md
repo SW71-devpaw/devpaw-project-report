@@ -96,7 +96,7 @@ A continuación se describe la gestión del código fuente, también conocida po
 
 GitFlow es un modelo alternativo para la creación de ramas en Git que se ha convertido en una herramienta esencial para muchos desarrolladores en los últimos años. Este flujo de trabajo de control de versiones, desarrollado y popularizado por Vicent Driessen, desempeña un papel crucial en la gestión de las versiones de un código, facilitando la creación ordenada de nuevas características (Features) y correcciones de problemas urgentes (Hotfixes).
 
-![ GitFlow.png](/assets/img/chapter-vi/Gitflow.png)
+![ GitFlow.png](https://i.postimg.cc/8z7qbV8y/Gitflow.png)
 
 Como se mencionó previamente, GitFlow opera con ramas o "branches". A continuación, se detallan las ramas que se utilizarán en el flujo de trabajo de nuestro proyecto.
 
@@ -157,11 +157,11 @@ Como se mencionó previamente, la gestión de nuestro código fuente se llevará
   1. Diríjase a la pestaña "VCS" en WebStorm.
   2. Luego, seleccione la opción "Enable Version Control Integration".
 
-![activar-el-controlador-de-versiones-1.png](/assets/img/chapter-vi/activar-el-controlador-de-versiones-1.png)
+![activar-el-controlador-de-versiones-1.png](https://i.postimg.cc/wBv32MqC/activar-el-controlador-de-versiones-1.png)
 
 Ahora se debe seleccionar el sistema de control a través de Git y, por último aceptar los cambios.
 
-![activar-el-controlador-de-versiones-2.png](/assets/img/chapter-vi/activar-el-controlador-de-versiones-2.png)
+![activar-el-controlador-de-versiones-2.png](https://i.postimg.cc/hjQvFY7M/activar-el-controlador-de-versiones-2.png)
 
 * **Aregar una cuenta de GitHub, siga estos pasos:**
   1. Diríjase a la sección de configuración en su aplicación.
@@ -169,23 +169,23 @@ Ahora se debe seleccionar el sistema de control a través de Git y, por último 
   3. En la configuración, busque la sección de version control.
   4. Agregue su cuenta de GitHub para obtener acceso a los repositorios.
 
-![aregar-una-cuenta-de-GitHub-1.png](/assets/img/chapter-vi/aregar-una-cuenta-de-GitHub-1.png)
+![aregar-una-cuenta-de-GitHub-1.png](https://i.postimg.cc/hv9Gv7sd/aregar-una-cuenta-de-Git-Hub-1.png)
 
-![aregar-una-cuenta-de-GitHub-2.png](/assets/img/chapter-vi/aregar-una-cuenta-de-GitHub-2.png)
+![aregar-una-cuenta-de-GitHub-2.png](https://i.postimg.cc/J0wnRQN8/aregar-una-cuenta-de-Git-Hub-2.png)
 
 * **Configurar el nombre de usuario de Git:** Una vez que hayas establecido el sistema de control de versiones que se vinculará con tu IDE, deberás ingresar la cuenta que utilizarás. Para hacerlo, sigue estos pasos:
   1. Realiza un commit en tu proyecto. Durante este proceso, se te solicitará que ingreses tu nombre de usuario de Git.
   2. Después de haberlo añadido, todos los cambios se guardarán en el repositorio especificado en esa plataforma, siempre y cuando des la orden correspondiente.
   3. Para configurar tu nombre de usuario de Git, primero selecciona la opción 'commit' que se encuentra dentro de la pestaña 'Git'.
 
-![configurar-el-nombre-de-usuario-de-Git-1.png](/assets/img/chapter-vi/configurar-el-nombre-de-usuario-de-Git-1.png)
+![configurar-el-nombre-de-usuario-de-Git-1.png](https://i.postimg.cc/HkLpDNq5/configurar-el-nombre-de-usuario-de-Git-1.png)
 
 
 * **Guardar el progreso en GitHub:** Con todo configurado en WebStorm, ahora puedes subir tu código a GitHub sin problemas. Simplemente dirígete a la opción 'GitHub' que se encuentra en la pestaña 'Git' y comparte el proyecto.
 
-![guardar-el-progreso-en-GitHub-1.png](/assets/img/chapter-vi/guardar-el-progreso-en-GitHub-1.png)
+![guardar-el-progreso-en-GitHub-1.png](https://i.postimg.cc/9fTKvtQZ/guardar-el-progreso-en-Git-Hub-1.png)
 
-![guardar-el-progreso-en-GitHub-2.png](/assets/img/chapter-vi/guardar-el-progreso-en-GitHub-2.png)
+![guardar-el-progreso-en-GitHub-2.png](https://i.postimg.cc/LXpwRYJ7/guardar-el-progreso-en-Git-Hub-2.png)
 
 * **Configurar la propiedad del repositorio en GitHub:** Ahora, solo necesitas configurar la ubicación del repositorio. El código ya debería estar guardado en GitHub, pero solo estará presente en tu propia cuenta. Para cambiar la propiedad y transferirla a la organización deseada, sigue estos pasos:
   1. Ingresa al repositorio creado en GitHub.
@@ -194,26 +194,26 @@ Ahora se debe seleccionar el sistema de control a través de Git y, por último 
   4. Luego da click en 'transfer'
   5. Finalmente elegimos el nuevo lugar para guardar el repositorio.
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-1.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-1.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-1.png](https://i.postimg.cc/Wzjv9Ymd/configurar-la-propiedad-del-repositorio-en-Git-Hub-1.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-2.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-2.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-2.png](https://i.postimg.cc/DwDKVwdk/configurar-la-propiedad-del-repositorio-en-Git-Hub-2.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-3.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-3.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-3.png](https://i.postimg.cc/cCmNP7TX/configurar-la-propiedad-del-repositorio-en-Git-Hub-3.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-4.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-4.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-4.png](https://i.postimg.cc/SNS4C5N5/configurar-la-propiedad-del-repositorio-en-Git-Hub-4.png)
 
 
 * **Configurar control remoto en Git:** Por último, dado que el repositorio ahora está bajo la propiedad de la empresa y depende de ella, es necesario acceder al control remoto del código. Para hacerlo, simplemente ingresa al repositorio creado y copia la URL del repositorio.
 
-![configurar-control-remoto-en-Git-1.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-1.png)
+![configurar-control-remoto-en-Git-1.png](https://i.postimg.cc/1XZ9k3S5/configurar-control-remoto-en-Git-1.png)
 
 Ahora, en el IDE, dirígete a la pestaña 'Git' y elige la opción 'Manage Remotes'.
 
-![configurar-control-remoto-en-Git-2.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-2.png)
+![configurar-control-remoto-en-Git-2.png](https://i.postimg.cc/YqRpP7sM/configurar-control-remoto-en-Git-2.png)
 
 Finalmente, como último paso, debes pegar el enlace copiado en el campo de dirección que solicita el IDE para el control remoto en Git.
 
-![configurar-control-remoto-en-Git-3.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-3.png)
+![configurar-control-remoto-en-Git-3.png](https://i.postimg.cc/SNkSVRVg/configurar-control-remoto-en-Git-3.png)
 
 Si has seguido correctamente todos los pasos y directrices mencionados, entonces has completado la configuración con éxito. Ahora, solo necesitas realizar un commit y los cambios que hayas efectuado se guardarán en el repositorio de GitHub, ya sea que hayas realizado modificaciones en el código, creado nuevas ramas u otras acciones.
 
@@ -535,14 +535,9 @@ Además, en TypeScript, se siguen las mismas convenciones que se utilizan en Jav
 
 Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos:
 
-**1. Seleccionar la sección pages:**
-
-![pages-landing-page.png](/assets/img/chapter-vi/pages-landing-page.png)
-
-
 **1. Configurar la rama que será usada para hacer deploy:**
 
-![rama-landing-page.png](/assets/img/chapter-vi/rama-landing-page.png)
+![rama-landing-page.png](https://i.postimg.cc/wM3VdgQZ/rama-landing-page.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 
@@ -777,23 +772,23 @@ Para la entrega de este Sprint, se completó con éxito el despliegue de la Land
 
                                       LANDING PAGE
 
-![landing-picture](/assets/img/chapter-vi/landing-picture1.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture2.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture3.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture4.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture5.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture6.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture7.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture8.png)
+![landing-picture](https://i.postimg.cc/bJpCW7Mf/landing-picture1.png)
+![landing-picture](https://i.postimg.cc/yYd5VzNV/landing-picture2.png)
+![landing-picture](https://i.postimg.cc/vmRSLgtB/landing-picture3.png)
+![landing-picture](https://i.postimg.cc/vmRSLgtB/landing-picture3.png)
+![landing-picture](https://i.postimg.cc/BQXhrchb/landing-picture5.png)
+![landing-picture](https://i.postimg.cc/pLjsTVMt/landing-picture6.png)
+![landing-picture](https://i.postimg.cc/3rLSfbFz/landing-picture7.png)
+![landing-picture](https://i.postimg.cc/zvMkz6dB/landing-picture8.png)
 
 
                                       BACKEND
 
-![backend-picture](/assets/img/chapter-vi/backend-picture1.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture2.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture3.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture4.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture5.png)
+![backend-picture](https://i.postimg.cc/sfSxwtzg/backend-picture1.png)
+![backend-picture](https://i.postimg.cc/Mpspnw7d/backend-picture2.png)
+![backend-picture](https://i.postimg.cc/SKJN8PVq/backend-picture3.png)
+![backend-picture](https://i.postimg.cc/j5fx3JGF/backend-picture4.png)
+![backend-picture](https://i.postimg.cc/d0pQ99SC/backend-picture5.png)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -847,18 +842,34 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 
                                       App Web
 
-![contribution.png](/assets/img/chapter-vi/contribution.png)
+![contribution.png](https://i.postimg.cc/G2P0sJ0d/contribution.png)
 
                                       Mobile App
 
-![alt text](/assets/img/chapter-vi/contribution-app-mobile.png)
+![alt text](https://i.postimg.cc/Znj1wbKQ/contribution-app-mobile.png)
 
                                       Backend
-![alt text](/assets/img/chapter-vi/contribution-backend.png)
+![alt text](https://i.postimg.cc/2jwRkwFx/contribution-backend.png)
 
                                       Report
 
-![alt text](/assets/img/chapter-vi/contribution2.png)
+![alt text](https://i.postimg.cc/kG70N698/contribution2.png)
+
+### 6.2.2. Sprint 2
+
+#### 6.2.1.1. Sprint Planning 2.
+#### 6.2.1.2. Sprint Backlog 2.
+#### 6.2.1.3. Development Evidence for Sprint Review.
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+
+#### 6.2.1.5. Execution Evidence for Sprint Review.
+
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+
+#### 6.2.1.8. Team Collaboration Insights during Sprint.
+
 
 ## 6.3. Validation Interviews.
 
