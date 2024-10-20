@@ -14,7 +14,7 @@ Nuestra aplicación tiene como objetivo ofrecer una solución innovadora para el
 
 Upet es una abreviación de "You Pet", reflejando la conexión personal que los dueños tienen con sus mascotas. El nombre busca ser cercano y accesible, reflejando el enfoque de la marca en ofrecer soluciones tecnológicas simples y efectivas para cuidar a las mascotas. Upet transmite un sentido de pertenencia, haciendo que los usuarios sientan que su mascota es parte central de la aplicación
 
-![Upet Logo](../assets/img/chapter-v/logo_upet.png)
+![Upet Logo](https://i.postimg.cc/fTDwT1hk/logo-upet.png)
 
 **Colors**
 
@@ -42,8 +42,8 @@ Other Colors:
 
 #DAF1DB (Verde Menta Claro): Este color está asociado con la frescura y la naturaleza. Es utilizado para representar éxito o confirmación, evocando bienestar y crecimiento, como en notificaciones de salud positiva.
 
-![Color Palette](../assets/img/chapter-v/color1.png)
-![Color Palette](../assets/img/chapter-v/color2.png)
+![Color Palette](https://i.postimg.cc/rpKy2W2J/color1.png)
+![Color Palette](https://i.postimg.cc/7LdHH6xy/color2.png)
 
 
 **Typography**
@@ -52,27 +52,27 @@ La tipografía juega un papel clave en la identidad visual de nuestra marca, ya 
 
 El uso de Poppins garantiza claridad en la comunicación y consistencia en todas las plataformas, asegurando que la información sea fácil de leer en dispositivos móviles y de escritorio.
 
-![Poppins Font](../assets/img/chapter-v/tipografia1.png)
-![Poppins Font](../assets/img/chapter-v/tipografia2.png)
+![Poppins Font](https://i.postimg.cc/Dfc95Zty/tipografia1.png)
+![Poppins Font](https://i.postimg.cc/yYYwGKHh/tipografia2.png)
 
 **Iconografía**
 
 Los iconos son una parte esencial de la interfaz, ya que ayudan a los usuarios a identificar rápidamente funciones y acciones. La iconografía de Upet se basa en un estilo limpio y moderno, con líneas claras y formas simples. Los iconos deben ser fácilmente reconocibles y representar claramente su función.
 
-![Iconography](../assets/img/chapter-v/iconografia.png)
+![Iconography](https://i.postimg.cc/BQpJ8Nqp/iconografia.png)
 
 **Grid Systems**
 
 El uso de un sistema de cuadrícula es fundamental para mantener la coherencia visual y la alineación de los elementos en la interfaz. La cuadrícula proporciona una estructura visual que facilita la organización de los elementos y la creación de diseños equilibrados.
 
-![Grid System](../assets/img/chapter-v/gridsystems.png )
+![Grid System](https://i.postimg.cc/RhzvtD6s/gridsystems.png)
 
 **Spacing**
 
 El espaciado es un aspecto fundamental en el diseño de la interfaz para asegurar una buena experiencia de usuario. Los espacios adecuados entre elementos permiten una navegación fluida y una presentación visual ordenada.
 El siguiente sistema de espaciado asegura que la interfaz no se vea saturada y que los usuarios puedan interactuar fácilmente con los elementos.
 
-![Spacing System](../assets/img/chapter-v/spacing.png)
+![Spacing System](https://i.postimg.cc/SRVHKTWz/spacing.png)
 
 **Tono de comunicación**
 
@@ -609,28 +609,28 @@ Cuando los usuarios utilicen el rastreo GPS de su mascota, la navegación cambia
 En esta sección, presentamos los wireframes de la landing page de Upet, una plataforma innovadora diseñada para conectar a dueños de mascotas con veterinarios de confianza. Los wireframes proporcionan una visión estructural de la página, destacando la disposición y funcionalidad de cada sección clave.
 
 *Sección Home*
-![Home](../assets/img/chapter-v/home_lp.png)
+![Home](https://i.postimg.cc/dQ8sFwpz/home-lp.png)
 
 *Sección About*
-![About](../assets/img/chapter-v/proposito.png)
+![About](https://i.postimg.cc/B620JBYx/proposito.png)
 
 *Sección Dueños de mascotas*
-![Dueños de mascotas](../assets/img/chapter-v/seccion_pet.png)
+![Dueños de mascotas](https://i.postimg.cc/13418Q7R/seccion-pet.png)
 
 *Sección Veterinarios*
-![Veterinarios](../assets/img/chapter-v/seccion_vet.png)
+![Veterinarios](https://i.postimg.cc/rsqvMXtk/seccion-vet.png)
 
 *Sección Review*
-![Review](../assets/img/chapter-v/seccion_review.png)
+![Review](https://i.postimg.cc/rsqvMXtk/seccion-vet.png)
 
 *Sección Download*
-![Download](../assets/img/chapter-v/seccion_download.png)
+![Download](https://i.postimg.cc/59qVGpFJ/seccion-download.png)
 
 *Sección Contact*
-![Contact](../assets/img/chapter-v/seccion_sendamessage.png)
+![Contact](https://i.postimg.cc/MGQkYY8h/seccion-sendamessage.png)
 
 *Sección Footer*
-![Footer](../assets/img/chapter-v/seccion_footer.png)
+![Footer](https://i.postimg.cc/8PZVk5Hn/seccion-footer.png)
 
 Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?node-id=0-1&t=TQJZTBEcEyWMmmIQ-1
 
@@ -639,28 +639,28 @@ Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?no
 En esta sección, presentamos los mockups de la landing page de Upet, que ofrecen una representación visual detallada y estilizada de la interfaz final. Los mockups permiten visualizar el diseño estético y la experiencia de usuario, proporcionando una imagen clara de cómo se verá y funcionará la página.
 
 *Sección Home*
-![Home](../assets/img/chapter-v/home_mk.png)
+![Home](https://i.postimg.cc/vZmb59Ts/home-mk.png)
 
 *Sección About*
-![About](../assets/img/chapter-v/proposito_mk.png)
+![About](https://i.postimg.cc/rscLsR37/proposito-mk.png)
 
 *Sección Dueños de mascotas*
-![Dueños de mascotas](../assets/img/chapter-v/pet_mk.png)
+![Dueños de mascotas](https://i.postimg.cc/zfbNcrT2/pet-mk.png)
 
 *Sección Veterinarios*
-![Veterinarios](../assets/img/chapter-v/vet_mk.png)
+![Veterinarios](https://i.postimg.cc/5N7Zdr4h/vet-mk.png)
 
 *Sección Review*
-![Review](../assets/img/chapter-v/review_mk.png)
+![Review](https://i.postimg.cc/prZMFXtr/review-mk.png)
 
 *Sección Download*
-![Download](../assets/img/chapter-v/download_mk.png)
+![Download](https://i.postimg.cc/FzgNVV09/download-mk.png)
 
 *Sección Contact*
-![Contact](../assets/img/chapter-v/sendamessage_mk.png)
+![Contact](https://i.postimg.cc/MT7hCKH5/sendamessage-mk.png)
 
 *Sección Footer*
-![Footer](../assets/img/chapter-v/footer_mk.png)
+![Footer](https://i.postimg.cc/B6FqX06P/footer-mk.png)
 
 Enlace: https://www.figma.com/design/1S78nWoDziNLXLZov0LHaO/IOT---LandingPage?node-id=9-201&t=TQJZTBEcEyWMmmIQ-1
 
