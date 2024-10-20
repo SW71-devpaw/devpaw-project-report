@@ -75,7 +75,7 @@ líneas de código que se han modificado en cada uno de los commits.
 
 Para la elaboración del presente reporte se utilizó el formato Markdown junto a la metodología GitFlow.
 
-![TP-Project-Report-Collaboration-Insights](assets/img/readme/TB1_ProjectReportCollaborationInsights.png)
+![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/9fDpwW7p/TB1-Project-Report-Collaboration-Insights.png)
 
 * #### Entregable TP
 
@@ -83,16 +83,9 @@ En el siguiente gráfico se muestra la colaboración de los integrantes del equi
 
 Para el Reporte de Proyecto
 
-![TP-Project-Report-Collaboration-Insights](assets/img/readme/report_devpawTP.png)
+![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/hjx1MpMQ/report-devpaw-TP.png)
 
-![TP-Project-Report-Collaboration-Insights](assets/img/readme/report_devpawTP2.png)
-
-Para el Repositorio de Frontend
-
-![TP-Project-Report-Collaboration-Insights](assets/img/readme/front_devpaw.png)
-
-![TP-Project-Report-Collaboration-Insights](assets/img/readme/front_devpawTP.png)
-
+![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/cCBMGCps/report-devpaw-TP2.png)
 
 ## Contenido
 
