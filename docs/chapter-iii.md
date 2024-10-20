@@ -6,11 +6,11 @@ En esta sección, se presenta el To Be Scenario Mapping para cada segmento objet
 
 ### Segmento 1: Veterinaria
 
-![To-Be Scenario Mapping Veterinaria](../assets/img/chapter-iii/To-beMapping-Veterinario.png)
+![To-Be Scenario Mapping Veterinaria](https://i.postimg.cc/XN8vpc7L/To-be-Mapping-Veterinario.png)
 
 ### Segmento 2: Propietario de mascota
 
-![To-Be Scenario Mapping PropietariodeMascota](../assets/img/chapter-iii/To-beMapping-PropietariodeMascota.png)
+![To-Be Scenario Mapping PropietariodeMascota](https://i.postimg.cc/D0BfHFYH/To-be-Mapping-Propietariode-Mascota.png)
 
 ## 3.2. User Stories.
 
@@ -1750,11 +1750,11 @@ En esta sección, se presenta el Impact Mapping para cada segmento objetivo. Est
 
 ### Segmento 1: Veterinaria
 
-![Impact Mapping Veterinaria](../assets/img/chapter-iii/Impact-mapping-Veterinaria.png)
+![Impact Mapping Veterinaria](https://i.postimg.cc/XqV7sXx9/Impact-mapping-Veterinaria.png)
 
 ### Segmento 2: Propietario de mascota
 
-![Impact Mapping Propietario de mascota](../assets/img/chapter-iii/Impact-mapping-Propietario.png)
+![Impact Mapping Propietario de mascota](https://i.postimg.cc/HLyxxqV8/Impact-mapping-Propietario.png)
 
 ## 3.4. Product Backlog.
 
@@ -2469,6 +2469,6 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 Imagen de Product Backlog en Pivotal Tracker:
 
-![Pivotal_Tracker_UPet](../assets/img/chapter-iii/pivotal-tracker-Pawture.png)
+![Pivotal_Tracker_UPet](https://i.postimg.cc/rmGwG5G8/pivotal-tracker-Pawture.png)
 
 Enlace de Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2677948
