@@ -590,7 +590,7 @@ Entrevistas: Veterinarias
                 <td>Comas</td>
             </tr>
             <tr>
-                <td><img width="300" src="/assets/img/chapter-ii/Pablo_Navarro_entrevista.png" alt="Foto de la entrevista"></td>
+                <td><img width="300" src="https://i.postimg.cc/hGg8b1Tj/Pablo-Navarro-entrevista.png" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
                 Pablo Navarro, veterinario de 51 años en el distrito de Comas, señaló que el principal problema en el país es la falta de un identificador único para cada mascota, lo que facilita el abandono y la falta de consecuencias. Comentó que algunas veterinarias manejan historiales clínicos a través de software, pero estos no se comparten entre establecimientos, lo que obliga a los dueños a repetir la información en cada visita y genera la falta de historial en emergencias. Destacó la importancia de implantar chips con GPS para mejorar la identificación y seguridad de las mascotas, así como concientizar a los dueños sobre una alimentación adecuada, ya que muchos proporcionan alimentos inapropiados. También mencionó la creciente demanda de baños medicados en las veterinarias, llegando a atender hasta 20 por día, y sugirió que un chip con GPS que almacene la información de la mascota podría integrarse en un collar.
                 </td>
