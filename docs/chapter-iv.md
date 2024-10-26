@@ -26,7 +26,8 @@ Pain and Pivotal Points
 
 En este paso se resaltan con un diamante los eventos por aclarar o que requieren de más conocimientos de especialistas.
 Por otro lado, los pivotal points son puntos de cambios que se marcan con una barra vertical.
-![PainAndPivotalPoints1](https://i.postimg.cc/BbQN4cMb/pain-and-pivotal-points1.png)
+Por otro lado, los pivotal points son puntos de cambios que se marcan con una barra vertical.
+![PainAndPivotalPoints1](https://i.ibb.co/3vSmC4W/pain-and-pivotal-points1.png)
 ![PainAndPivotalPoints2](https://i.postimg.cc/hvysjz5r/pain-and-pivotal-points2.png)
 
 #### 4.1.1.1 Candidate Context Discovery
@@ -116,37 +117,37 @@ de software y sus interrelaciones, proporcionando una visión general de la estr
 
 #### 4.2.1.1. Domain Layer
 #### Models
-| **Clase**       | **Descripción**                                                                                             |
-|-----------------|-------------------------------------------------------------------------------------------------------------|
-| **User**        | Representa la entidad de usuario con atributos como `id`, `name`, `email`, `password`, `userType`, etc. Relacionado con `PetOwner` y `Veterinarian`. |
-| **PetOwner**    | Representa la entidad de propietario de mascotas con atributos como `id`, `userId`, `numberPhone`, `location`, `subscriptionType`, etc. Relacionado con `User`, `Pet`, y `Review`. |
+| **Clase**        | **Descripción**                                                                                                                                                                                                |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **User**         | Representa la entidad de usuario con atributos como `id`, `name`, `email`, `password`, `userType`, etc. Relacionado con `PetOwner` y `Veterinarian`.                                                           |
+| **PetOwner**     | Representa la entidad de propietario de mascotas con atributos como `id`, `userId`, `numberPhone`, `location`, `subscriptionType`, etc. Relacionado con `User`, `Pet`, y `Review`.                             |
 | **Veterinarian** | Representa la entidad de veterinario con atributos como `id`, `user_id`, `description`, `experience`, `clinic_id`, etc. Relacionado con `User`, `VeterinaryClinic`, `Availability`, `Appointment`, y `Review`. |
 
 #### Enums
-| **Enum**                | **Descripción**                                          |
-|-------------------------|----------------------------------------------------------|
-| **UserType**            | Enum para los tipos de usuarios: `Vet`, `Owner`.        |
-| **SubscriptionType**    | Enum para los tipos de suscripciones: `Basic`, `Advanced`, `Pro`. |
+| **Enum**             | **Descripción**                                                   |
+|----------------------|-------------------------------------------------------------------|
+| **UserType**         | Enum para los tipos de usuarios: `Vet`, `Owner`.                  |
+| **SubscriptionType** | Enum para los tipos de suscripciones: `Basic`, `Advanced`, `Pro`. |
 
 #### Validators
-| **Clase**              | **Descripción**                                                                                                           |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **SchemaValidator**   | Contiene métodos para validar esquemas, asegurando que los campos requeridos estén presentes en los datos de entrada. |
+| **Clase**           | **Descripción**                                                                                                       |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **SchemaValidator** | Contiene métodos para validar esquemas, asegurando que los campos requeridos estén presentes en los datos de entrada. |
 
 
 #### 4.2.1.2. Interface Layer
 Description of the design and components of the interface layer for the Identity and Access Context.
 
 #### Schemas
-| **Esquema**                | **Descripción**                                                                                      |
-|----------------------------|------------------------------------------------------------------------------------------------------|
-| **UserSchemaGet**          | Esquema para la respuesta de la obtención de un usuario. Incluye `id`, `name`, `email`, `userType`, `image_url`, `registered`. |
-| **UserSchemaPost**         | Esquema para la creación de un nuevo usuario. Incluye `name`, `email`, `password`, `userType`.      |
-| **UserChangeImage**        | Esquema para actualizar la imagen de un usuario. Incluye `image_url`, `role`.                       |
-| **VeterinarianSchemaPost** | Esquema para la creación de un nuevo veterinario. Incluye `clinicName`, `otp_password`.             |
-| **VeterinarianUpdateInformation** | Esquema para la actualización de la información de un veterinario. Incluye `name`, `description`, `experience`. |
-| **VeterinarianSchemaGet**  | Esquema para la respuesta de la obtención de un veterinario. Incluye `id`, `name`, `clinicId`, `image_url`, `description`, `experience`, `user_id`. |
-| **VeterinarianProfileSchemaGet** | Esquema para la respuesta detallada del perfil de un veterinario. Incluye `id`, `name`, `image_url`, `description`, `experience`, `clinicName`, `workingHourStart`, `workingHourEnd`, `clinicAddress`, `reviews`. |
+| **Esquema**                       | **Descripción**                                                                                                                                                                                                   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **UserSchemaGet**                 | Esquema para la respuesta de la obtención de un usuario. Incluye `id`, `name`, `email`, `userType`, `image_url`, `registered`.                                                                                    |
+| **UserSchemaPost**                | Esquema para la creación de un nuevo usuario. Incluye `name`, `email`, `password`, `userType`.                                                                                                                    |
+| **UserChangeImage**               | Esquema para actualizar la imagen de un usuario. Incluye `image_url`, `role`.                                                                                                                                     |
+| **VeterinarianSchemaPost**        | Esquema para la creación de un nuevo veterinario. Incluye `clinicName`, `otp_password`.                                                                                                                           |
+| **VeterinarianUpdateInformation** | Esquema para la actualización de la información de un veterinario. Incluye `name`, `description`, `experience`.                                                                                                   |
+| **VeterinarianSchemaGet**         | Esquema para la respuesta de la obtención de un veterinario. Incluye `id`, `name`, `clinicId`, `image_url`, `description`, `experience`, `user_id`.                                                               |
+| **VeterinarianProfileSchemaGet**  | Esquema para la respuesta detallada del perfil de un veterinario. Incluye `id`, `name`, `image_url`, `description`, `experience`, `clinicName`, `workingHourStart`, `workingHourEnd`, `clinicAddress`, `reviews`. |
 
 
 
@@ -157,23 +158,23 @@ Description of the design and components of the application layer for the Identi
 
 #### Services
 
-| **Servicio**        | **Método**                           | **Descripción**                                                                                                      |
-|---------------------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **UserService**     | `get_user_by_id(user_id: int, db: Session)` | Recupera un usuario por su ID. Lanza una excepción 404 si el usuario no existe.                                      |
-|                     | `change_image(role_id: int, role, image: str, db: Session)` | Cambia la imagen de perfil del usuario según su rol (Owner o Veterinarian). Actualiza la entidad `User` y guarda los cambios. |
-| **PetOwnerService** | `create_new_petowner(user_id: int, petowner: PetOwnerSchemaPost, db: Session = Depends(get_db))` | Crea un nuevo registro de propietario de mascotas. Verifica el tipo de usuario, si ya está registrado y el formato del teléfono. Emite un token de acceso. |
-|                     | `get_petowners(db: Session = Depends(get_db))` | Recupera todos los propietarios de mascotas, incluyendo sus datos de usuario asociados.                           |
-|                     | `get_petowner_by_user_id(user_id: int, db: Session)` | Recupera un propietario de mascotas por su ID de usuario.                                                            |
-|                     | `get_petOwner_by_id(petOwner_id: int, db: Session) -> PetOwnerSchemaGet` | Recupera un propietario de mascotas por su ID.                                                                      |
-|                     | `change_Datapetowner(petowner_id: int, petowner: PetOwnerUpdateInformation, db: Session)` | Actualiza los datos de un propietario de mascotas existente.                                                         |
-| **VeterinarianService** | `create_new_veterinarian(user_id: int, veterinarian: VeterinarianSchemaPost, db: Session)` | Crea un nuevo registro de veterinario. Verifica el tipo de usuario, si ya está registrado, y valida el OTP y la clínica. Emite un token de acceso. |
-|                     | `get_all_vets(db: Session = Depends(get_db)) -> List[VeterinarianSchemaGet]` | Recupera todos los veterinarios, incluyendo sus datos de usuario asociados.                                        |
-|                     | `get_vet_by_user_id(user_id: int, db: Session) -> VeterinarianSchemaGet` | Recupera un veterinario por su ID de usuario.                                                                        |
-|                     | `get_vet_by_id(vet_id: int, db: Session) -> VeterinarianSchemaGet` | Recupera un veterinario por su ID.                                                                                   |
-|                     | `get_vet_by_id_details(vet_id: int, db: Session) -> VeterinarianProfileSchemaGet` | Recupera información detallada sobre un veterinario, incluyendo reseñas.                                            |
-|                     | `get_vets_by_clinic_id(clinic_id: int, db: Session) -> List[VeterinarianSchemaGet]` | Recupera veterinarios por ID de clínica.                                                                            |
-|                     | `get_available_times(vet_id: int, day: date, db: Session)` | Recupera los horarios disponibles para un veterinario en un día específico.                                        |
-|                     | `change_DataVet(vet_id: int, vet: VeterinarianUpdateInformation, db: Session)` | Actualiza los datos de un veterinario existente.                                                                    |
+| **Servicio**            | **Método**                                                                                       | **Descripción**                                                                                                                                            |
+|-------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **UserService**         | `get_user_by_id(user_id: int, db: Session)`                                                      | Recupera un usuario por su ID. Lanza una excepción 404 si el usuario no existe.                                                                            |
+|                         | `change_image(role_id: int, role, image: str, db: Session)`                                      | Cambia la imagen de perfil del usuario según su rol (Owner o Veterinarian). Actualiza la entidad `User` y guarda los cambios.                              |
+| **PetOwnerService**     | `create_new_petowner(user_id: int, petowner: PetOwnerSchemaPost, db: Session = Depends(get_db))` | Crea un nuevo registro de propietario de mascotas. Verifica el tipo de usuario, si ya está registrado y el formato del teléfono. Emite un token de acceso. |
+|                         | `get_petowners(db: Session = Depends(get_db))`                                                   | Recupera todos los propietarios de mascotas, incluyendo sus datos de usuario asociados.                                                                    |
+|                         | `get_petowner_by_user_id(user_id: int, db: Session)`                                             | Recupera un propietario de mascotas por su ID de usuario.                                                                                                  |
+|                         | `get_petOwner_by_id(petOwner_id: int, db: Session) -> PetOwnerSchemaGet`                         | Recupera un propietario de mascotas por su ID.                                                                                                             |
+|                         | `change_Datapetowner(petowner_id: int, petowner: PetOwnerUpdateInformation, db: Session)`        | Actualiza los datos de un propietario de mascotas existente.                                                                                               |
+| **VeterinarianService** | `create_new_veterinarian(user_id: int, veterinarian: VeterinarianSchemaPost, db: Session)`       | Crea un nuevo registro de veterinario. Verifica el tipo de usuario, si ya está registrado, y valida el OTP y la clínica. Emite un token de acceso.         |
+|                         | `get_all_vets(db: Session = Depends(get_db)) -> List[VeterinarianSchemaGet]`                     | Recupera todos los veterinarios, incluyendo sus datos de usuario asociados.                                                                                |
+|                         | `get_vet_by_user_id(user_id: int, db: Session) -> VeterinarianSchemaGet`                         | Recupera un veterinario por su ID de usuario.                                                                                                              |
+|                         | `get_vet_by_id(vet_id: int, db: Session) -> VeterinarianSchemaGet`                               | Recupera un veterinario por su ID.                                                                                                                         |
+|                         | `get_vet_by_id_details(vet_id: int, db: Session) -> VeterinarianProfileSchemaGet`                | Recupera información detallada sobre un veterinario, incluyendo reseñas.                                                                                   |
+|                         | `get_vets_by_clinic_id(clinic_id: int, db: Session) -> List[VeterinarianSchemaGet]`              | Recupera veterinarios por ID de clínica.                                                                                                                   |
+|                         | `get_available_times(vet_id: int, day: date, db: Session)`                                       | Recupera los horarios disponibles para un veterinario en un día específico.                                                                                |
+|                         | `change_DataVet(vet_id: int, vet: VeterinarianUpdateInformation, db: Session)`                   | Actualiza los datos de un veterinario existente.                                                                                                           |
 
 #### 4.2.1.4. Infrastructure Layer
 Description of the design and components of the infrastructure layer for the Identity and Access Context.\
@@ -355,15 +356,16 @@ Database design diagram for the Veterinary Clinic Context.
 
 #### 4.2.3.1. Domain Layer
 Description of the design and components of the domain layer for the Medical Management Context.
-Modelo            | Descripción                                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------------------|
-| **Pet**           | Representa una mascota, incluyendo detalles como nombre, raza, especie, peso e historial médico. Tiene relaciones con `PetOwner` y `Appointment`. |
-| **PetOwner**      | Representa al propietario de una mascota. (Se asume que este modelo existe en `models.petOwner`, pero no se muestra en el código proporcionado) |
-| **MedicalHistory**| Representa el historial médico de una mascota, incluyendo fechas, descripciones y relaciones con `Surgery`, `MedicalResult`, `Vaccine` y `Disease`. |
-| **Disease**       | Representa un diagnóstico de enfermedad dentro del historial médico de una mascota, incluyendo la fecha de diagnóstico, nombre y nivel de gravedad. |
-| **MedicalResult** | Representa los resultados de pruebas médicas dentro del historial médico de una mascota, incluyendo la fecha del resultado, tipo y descripción. |
-| **Surgery**       | Representa un procedimiento quirúrgico dentro del historial médico de una mascota, incluyendo la fecha de la cirugía y la descripción. |
-| **Vaccine**       | Representa una vacuna administrada a una mascota, incluyendo el nombre de la vacuna, fecha, tipo, ubicación y dosis. |
+
+| Modelo             | Descripción                                                                                                                                         |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pet**            | Representa una mascota, incluyendo detalles como nombre, raza, especie, peso e historial médico. Tiene relaciones con `PetOwner` y `Appointment`.   |
+| **PetOwner**       | Representa al propietario de una mascota. (Se asume que este modelo existe en `models.petOwner`, pero no se muestra en el código proporcionado)     |
+| **MedicalHistory** | Representa el historial médico de una mascota, incluyendo fechas, descripciones y relaciones con `Surgery`, `MedicalResult`, `Vaccine` y `Disease`. |
+| **Disease**        | Representa un diagnóstico de enfermedad dentro del historial médico de una mascota, incluyendo la fecha de diagnóstico, nombre y nivel de gravedad. |
+| **MedicalResult**  | Representa los resultados de pruebas médicas dentro del historial médico de una mascota, incluyendo la fecha del resultado, tipo y descripción.     |
+| **Surgery**        | Representa un procedimiento quirúrgico dentro del historial médico de una mascota, incluyendo la fecha de la cirugía y la descripción.              |
+| **Vaccine**        | Representa una vacuna administrada a una mascota, incluyendo el nombre de la vacuna, fecha, tipo, ubicación y dosis.                                |
 
 **Nota:** El modelo `PetOwner` se menciona en el modelo `Pet`, pero no se proporciona explícitamente. Se asume que está presente y definido adecuadamente en otra parte del código.
 
@@ -425,32 +427,33 @@ Description of the design and components of the application layer for the Medica
 
 #### 4.2.3.4. Infrastructure Layer
 Description of the design and components of the infrastructure layer for the Medical Management Context.
-| **Ruta**                                                             | **Método**   | **Descripción**                                                                                                           |
-|----------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Diseases**                                                          |              |                                                                                                                           |
-| `/diseases`                                                            |              | Endpoint principal para el servicio de enfermedades.                                                                      |
-| **MedicalHistories**                                                   |              |                                                                                                                           |
-| `/medicalhistories`                                                    | POST         | Crea un nuevo historial médico.                                                                                           |
-| `/medicalhistories`                                                    | GET          | Recupera todos los historiales médicos.                                                                                   |
-| `/medicalhistories/pet/{pet_id}`                                       | GET          | Recupera el historial médico asociado a una mascota por su ID.                                                           |
-| `/medicalhistories/{medical_history_id}`                               | GET          | Recupera un historial médico por su ID.                                                                                  |
-| `/medicalhistories/{medical_history_id}/medicalresults`                | POST         | Añade un resultado médico a un historial médico.                                                                         |
-| `/medicalhistories/{medical_history_id}/diseases`                     | POST         | Añade una enfermedad a un historial médico.                                                                             |
-| `/medicalhistories/{medical_history_id}/surgeries`                    | POST         | Añade una cirugía a un historial médico.                                                                                |
-| `/medicalhistories/{medical_history_id}/vaccines`                     | POST         | Añade una vacuna a un historial médico.                                                                                 |
-| `/medicalhistories/{medical_history_id}/medicalresults`                | GET          | Recupera todos los resultados médicos asociados a un historial médico específico.                                      |
-| `/medicalhistories/{medical_history_id}/diseases`                     | GET          | Recupera todas las enfermedades asociadas a un historial médico específico.                                             |
-| `/medicalhistories/{medical_history_id}/surgeries`                    | GET          | Recupera todas las cirugías asociadas a un historial médico específico.                                                  |
-| `/medicalhistories/{medical_history_id}/vaccines`                     | GET          | Recupera todas las vacunas asociadas a un historial médico específico.                                                   |
-| **Pets**                                                               |              |                                                                                                                           |
-| `/pets/{petowner_id}`                                                  | POST         | Crea una nueva mascota asociada a un propietario.                                                                        |
-| `/pets`                                                                | GET          | Recupera todas las mascotas.                                                                                             |
-| `/pets/{petowner_id}`                                                  | GET          | Recupera todas las mascotas asociadas a un propietario específico.                                                        |
-| `/pets/{pet_id}`                                                       | PUT          | Actualiza los datos de una mascota existente.                                                                           |
-| `/pets/pet/{pet_id}`                                                   | GET          | Recupera una mascota por su ID.                                                                                          |
-| `/pets/{pet_id}`                                                        | DELETE       | Elimina una mascota por su ID.                                                                                           |
-| **Vaccinations**                                                       |              |                                                                                                                           |
-| `/vaccinations`                                                        |              | Endpoint principal para el servicio de vacunas.                                                                           |
+
+| **Ruta**                                                | **Método** | **Descripción**                                                                   |
+|---------------------------------------------------------|------------|-----------------------------------------------------------------------------------|
+| **Diseases**                                            |            |                                                                                   |
+| `/diseases`                                             |            | Endpoint principal para el servicio de enfermedades.                              |
+| **MedicalHistories**                                    |            |                                                                                   |
+| `/medicalhistories`                                     | POST       | Crea un nuevo historial médico.                                                   |
+| `/medicalhistories`                                     | GET        | Recupera todos los historiales médicos.                                           |
+| `/medicalhistories/pet/{pet_id}`                        | GET        | Recupera el historial médico asociado a una mascota por su ID.                    |
+| `/medicalhistories/{medical_history_id}`                | GET        | Recupera un historial médico por su ID.                                           |
+| `/medicalhistories/{medical_history_id}/medicalresults` | POST       | Añade un resultado médico a un historial médico.                                  |
+| `/medicalhistories/{medical_history_id}/diseases`       | POST       | Añade una enfermedad a un historial médico.                                       |
+| `/medicalhistories/{medical_history_id}/surgeries`      | POST       | Añade una cirugía a un historial médico.                                          |
+| `/medicalhistories/{medical_history_id}/vaccines`       | POST       | Añade una vacuna a un historial médico.                                           |
+| `/medicalhistories/{medical_history_id}/medicalresults` | GET        | Recupera todos los resultados médicos asociados a un historial médico específico. |
+| `/medicalhistories/{medical_history_id}/diseases`       | GET        | Recupera todas las enfermedades asociadas a un historial médico específico.       |
+| `/medicalhistories/{medical_history_id}/surgeries`      | GET        | Recupera todas las cirugías asociadas a un historial médico específico.           |
+| `/medicalhistories/{medical_history_id}/vaccines`       | GET        | Recupera todas las vacunas asociadas a un historial médico específico.            |
+| **Pets**                                                |            |                                                                                   |
+| `/pets/{petowner_id}`                                   | POST       | Crea una nueva mascota asociada a un propietario.                                 |
+| `/pets`                                                 | GET        | Recupera todas las mascotas.                                                      |
+| `/pets/{petowner_id}`                                   | GET        | Recupera todas las mascotas asociadas a un propietario específico.                |
+| `/pets/{pet_id}`                                        | PUT        | Actualiza los datos de una mascota existente.                                     |
+| `/pets/pet/{pet_id}`                                    | GET        | Recupera una mascota por su ID.                                                   |
+| `/pets/{pet_id}`                                        | DELETE     | Elimina una mascota por su ID.                                                    |
+| **Vaccinations**                                        |            |                                                                                   |
+| `/vaccinations`                                         |            | Endpoint principal para el servicio de vacunas.                                   |
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 Component-level diagrams for the Medical Management Context, showing the internal structure of components.
