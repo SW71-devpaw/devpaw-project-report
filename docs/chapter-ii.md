@@ -29,13 +29,13 @@
             </th>
             <th>
                 <div style="text-align: center;">
-                    <img src="https://i.postimg.cc/2yH7pRqL/image.png" width="100" alt="FitBark">
+                    <img src="https://i.postimg.cc/2yH7pRqL/image.png" width="100" alt="petpace">
                     <div style="font-size: 14px; color: #666;">PetPace</div>
                 </div>
             </th>
             <th>
                 <div style="text-align: center;">
-                    <img src="https://i.postimg.cc/mDjQMfyp/image.png" width="100" alt="FitBark">
+                    <img src="https://i.postimg.cc/mDjQMfyp/image.png" width="100" alt="whistle">
                     <div style="font-size: 14px; color: #666;">Whistle</div>
                 </div>
             </th>
@@ -475,7 +475,7 @@ Entrevistas: Propietarios de mascotas
                 <td>Carabayllo</td>
             </tr>
             <tr>
-                <td><img width="300" src="https://i.ibb.co/5T5WZ5x/imagen-2024-09-06-005207237.png" alt=""></td>
+                <td><img width="300" src="https://i.ibb.co/5T5WZ5x/imagen-2024-09-06-005207237.png" alt="imagen-2024-09-06-005207237"></td>
                 <td><strong>Resumen:</strong><br>
                 Naka mencionó que un collar inteligente sería una solución muy beneficiosa, ya que en el pasado perdió a su perro y le hubiera gustado contar con un dispositivo con GPS para localizarlo cuando se extravió. Además, considera importante que el collar pueda monitorear el estado de salud del perro, como sus latidos y respiración, y que envíe alertas o notificaciones en caso de detectar alguna variación inusual en esos parámetros.         
                 </td>
@@ -552,7 +552,7 @@ Entrevistas: Veterinarias
             </tr>
             <tr>
                 <td>
-                    <img width="300" src="https://i.postimg.cc/yYhcdXBV/image.png" alt="">
+                    <img width="300" src="https://i.postimg.cc/yYhcdXBV/image.png" alt="foto entrevista pl">
                 </td>
                 <td><strong>Resumen:</strong><br>
                    Diego, un estudiante de 20 años de la carrera de Medicina Veterinaria, actualmente realiza prácticas en una clínica de mascotas. Al responder las preguntas, fue enfático en la importancia de la tecnología, tanto en sistemas de software como en equipos médicos, para optimizar los procesos de atención y recuperación de los pacientes. Con respecto a la propuesta del collar inteligente, destacó la relevancia de incluir la recolección de signos vitales como la temperatura, saturación y ritmo cardíaco. Estos datos serían fundamentales para tener un mejor entendimiento del estado de salud de los pacientes. Diego prefiere que la información se presente en formato de reporte, lo que le permitiría interpretar mejor los datos para realizar los análisis y diagnósticos necesarios.
@@ -836,7 +836,7 @@ Análisis de entrevistas a veterinarias
         </div>
     <li><strong>Segmento 2: </strong> Veterinarios</li>
     <div>
-            <img src="https://i.postimg.cc/ZnW2DQtY/veterinario-macota-journey-map.png" alt="owner journey map"/>
+            <img src="https://i.postimg.cc/ZnW2DQtY/veterinario-macota-journey-map.png" alt="vet journey map"/>
         </div>
 </ul>
 
