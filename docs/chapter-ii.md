@@ -29,13 +29,13 @@
             </th>
             <th>
                 <div style="text-align: center;">
-                    <img src="https://i.postimg.cc/2yH7pRqL/image.png" width="100" alt="petpace">
+                    <img src="https://i.ibb.co/87J8hB6/petbrand2.png" width="100" alt="petpace">
                     <div style="font-size: 14px; color: #666;">PetPace</div>
                 </div>
             </th>
             <th>
                 <div style="text-align: center;">
-                    <img src="https://i.postimg.cc/mDjQMfyp/image.png" width="100" alt="whistle">
+                    <img src="https://i.ibb.co/QdpNjzj/whistle-labs-logo.jpg" width="100" alt="whistle">
                     <div style="font-size: 14px; color: #666;">Whistle</div>
                 </div>
             </th>
@@ -836,7 +836,7 @@ Análisis de entrevistas a veterinarias
         </div>
     <li><strong>Segmento 2: </strong> Veterinarios</li>
     <div>
-            <img src="https://i.postimg.cc/ZnW2DQtY/veterinario-macota-journey-map.png" alt="vet journey map"/>
+            <img src="https://i.ibb.co/3TSrghQ/journey-vets.png" alt="vet journey map"/>
         </div>
 </ul>
 
