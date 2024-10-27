@@ -32,14 +32,15 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                               |
-|---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
-| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
-| 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
-| 1.3     | 01/09/2024 | Josehp Herrera | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas   |
-| 2.1     | 16/09/2024 | Juliana Yauricasa | Se completó el diseño de la interfaz del usuario para el sitio web estático.                                                                              |
-| 2.2     | 27/09/2024 | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
+| Versión | Fecha       | Autor             | Descripción de modificación                                                                                                                               |
+|---------|-------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 13/08/2024  | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
+| 1.1     | 29/08/2024  | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
+| 1.2     | 30/08/2024  | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
+| 1.3     | 01/09/2024  | Josehp Herrera    | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas |
+| 2.1     | 16/09/2024  | Juliana Yauricasa | Se completó el diseño de la interfaz del usuario para el sitio web estático.                                                                              |
+| 2.2     | 27/09/2024  | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
+| 3.0     | 270/10/2024 | Daniel Valverde   | Se agregó la documentación del proyecto en wokwi del dispositivo embebido                                                                                 |
 
 
 ### Project Report Collaboration Insights
@@ -86,6 +87,8 @@ Para el Reporte de Proyecto
 ![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/hjx1MpMQ/report-devpaw-TP.png)
 
 ![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/cCBMGCps/report-devpaw-TP2.png)
+
+* #### Entregable TB2
 
 ## Contenido
 
@@ -391,15 +394,19 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <tr> 
       <td> 
         <b>Enso Trujillo</b><br>
-         Me encargue de realizar el Configuration, Development, Deployment y Sprint de nuestro Software para ello se coordino en conjunto todas las herramientas necesarias e importantes para la correcta implementación de nuestro proyecto.
+         Me encargue de realizar el Configuration, Development, Deployment y Sprint de nuestro Software para ello se 
+         coordino en conjunto todas las herramientas necesarias e importantes para la correcta implementación de 
+         nuestro proyecto.
       </td>   
     </tr>
    <!--------------------ENTREGA TB 2 ----------------->
     <!--------- ESTUDIANTE 1 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada
+        <b>Daniel Valverde</b><br>
+         Se trabajó conjuntamente con el equipo y se divieron tareas de forma equitativa para cumplir con los objetivos
+         del sprint. En esta oportunidad implementé la primera versión del proyecto en wokwi con el dispositivo ESP32 y 
+         2 de los 3 sensores que se utilizarán en el proyecto final.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TB2</b><br>
@@ -562,8 +569,9 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!--------- ESTUDIANTE 1 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada
+        <b>Daniel Valverde</b><br>
+         Se realizaron mejores en el proceso del sprint planning, se mejoró el formato y organización para definir el 
+         sprint goal y corregir los anteriores, y así cumplir con los avances necesarios para este entregable
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TB2</b><br>
