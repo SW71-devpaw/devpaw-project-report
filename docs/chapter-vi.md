@@ -858,11 +858,90 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 ### 6.2.2. Sprint 2
 
 #### 6.2.1.1. Sprint Planning 2.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Sprint #</th>
+      <th style="text-align:center">Sprint 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" ><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Date</td>
+      <td style="text-align:center">27-10-2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Time</td>
+      <td style="text-align:center">08:00 pm</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Location</td>
+      <td style="text-align:center">Google Meet</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Prepared By</td>
+      <td style="text-align:center">Enzo Trujillo</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Attendees</td>
+      <td style="text-align:center">
+      Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 1 Goal</td>
+      <td style="text-align:center">  </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 1 Velocity</td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sum of Story Points</td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
+
 #### 6.2.1.2. Sprint Backlog 2.
+
+
 #### 6.2.1.3. Development Evidence for Sprint Review.
+
+En la siguiente tabla se muestra el historial de commits realizados durante el Sprint 2 en el repositorio relacionado al proyecto del dispositivo embebido en wokwi y su primera versión.
+
+| Repository                                   | Branch | Commit Id                                | Commit Message                             | Committed on (Date) |
+|----------------------------------------------|--------|------------------------------------------|--------------------------------------------|---------------------|
+| https://github.com/SW71-devpaw/wokwi-project | master | 64711adb48597cb59745930598cb5a60790f24d1 | inital commit                              | 27/10/2024          |
+|                                              | master | e8d3b40c25a117679fd63b545da8305944bab4ac | feat: add libraries                        | 27/10/2024          |
+|                                              | master | 55c174d2102b6cd994dbfa46d4afb3652f0512ee | feat: add Wi-Fi connection                 | 27/10/2024          |
+|                                              | master | d93e66be2ee2d39c1a64b819c6a87f5623cecbae | feat: add temperature sensor configuration | 27/10/2024          |
+|                                              | master | c10d0cb8808a00f6ac1b23d18ad291277d469ca8 | feat: add location configuration           | 27/10/2024          |
+
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review.
+
+A continuación se muestra la ejecución del proyecto relacionado al dispositivo embebido en wokwi
+- Dispositivo ESP32 y sensor de temperatura
+
+ ![Dispositivo Esp32](https://i.ibb.co/J7NPZWw/disp-sensor.png)
+
+- Muestra de datos de temperatura y ubicación en la consola
+
+![Datos en consola](https://i.ibb.co/LvYBjzh/captura-data-envio.png)
+
+- Recepción de datos en los endpoints correspodientes
+
+![endpoint temperatura](https://i.ibb.co/qrnYrWR/resp-200-temp.png)
+![endpoint ubicación](https://i.ibb.co/nnvGVdn/resp-200-location.png)
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -870,6 +949,9 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
 
+Repositorio del proyecto en Wokwi
+
+![Collab wokwi project](https://i.ibb.co/3k1qnqB/collab-wokwi.png)
 
 ## 6.3. Validation Interviews.
 
