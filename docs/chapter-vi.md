@@ -1183,6 +1183,20 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 
+| Repository                                               | Branch                  | Commit Id                                | Commit Message            | Committed on (Date)  |
+|----------------------------------------------------------|-------------------------|------------------------------------------|---------------------------|----------------------|
+| https://github.com/SW71-devpaw/Sprint2-AcceptanceTests-  | main                    | 03d8e9eaf8c0560f5b2770fed6133d3bb957d78b | initial commit            | 02/11/2024           |
+|                                                          | testing                 | 4b92e38297fa14aee67df8f6ce858353c7349ceb | docs: added US006 feature | 02/11/2024           |
+|                                                          | testing                 | 87469dee559b17d82fdc7cf1e9c91c36981a2e02 | docs: added US007 feature | 02/11/2024           |
+|                                                          | testing                 | 3937c140ecfe513a94f7a83316d087ac90c0b73f | docs: added US010 feature | 02/11/2024           |
+|                                                          | testing                 | b647af80078ac581448222f49f5aa32cd41ce098 | docs: added US012 feature | 02/11/2024           |
+|                                                          | testing                 | 9556ec7119e062ced60c8167b103eadba5074c80 | docs: added US014 feature | 02/11/2024           |
+|                                                          | testing                 | 42d22a1996d5803b2d3253f6c9890758ed8dcf3b | docs: added US020 feature | 02/11/2024           |
+|                                                          | testing                 | 60d2f1967b76aabf137449e5c98379d307ce5fde | docs: added US021 feature | 02/11/2024           |
+|                                                          | testing                 | 6e6c7c8a17b79bd55d89663fc578ec3d3d483415 | docs: added US022 feature | 02/11/2024           |
+|                                                          | testing                 | c3c97392b087aabb9976f39eab290782275b194a | docs: added US023 feature | 02/11/2024           |
+|                                                          | testing                 | 9d98dee0597393f71fbd3ad434ba7f61d62a58a8 | docs: added US024 feature | 02/11/2024           |
+
 #### 6.2.1.5. Execution Evidence for Sprint Review.
 
 A continuación se muestra la ejecución del proyecto relacionado al dispositivo embebido en wokwi
