@@ -1199,7 +1199,10 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.1.5. Execution Evidence for Sprint Review.
 
-A continuación se muestra la ejecución del proyecto relacionado al dispositivo embebido en wokwi
+A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
+
+**Wokwi**
+
 - Dispositivo ESP32 y sensor de temperatura
 
  ![Dispositivo Esp32](https://i.ibb.co/J7NPZWw/disp-sensor.png)
@@ -1213,6 +1216,41 @@ A continuación se muestra la ejecución del proyecto relacionado al dispositivo
 ![endpoint temperatura](https://i.ibb.co/qrnYrWR/resp-200-temp.png)
 ![endpoint ubicación](https://i.ibb.co/nnvGVdn/resp-200-location.png)
 
+**Web application**
+
+**Mobile application**
+
+<a href="https://ibb.co/zZZ8wYP"><img src="https://i.ibb.co/GRRsjLC/register.png" alt="register" height="400" border="0"></a>
+<a href="https://ibb.co/2sjn3ZH"><img src="https://i.ibb.co/MGR2kBQ/login.png" alt="login" height="400" border="0"></a>
+<a href="https://ibb.co/C78fPBc"><img src="https://i.ibb.co/QNQ4D9g/forgot-Password.png" alt="forgot-Password" height="400" border="0"></a>
+<a href="https://ibb.co/BrSTTKM"><img src="https://i.ibb.co/jW133ZX/check-Email.png" alt="check-Email" height="400" border="0"></a>
+<a href="https://ibb.co/FwS6TGQ"><img src="https://i.ibb.co/T8Vc3zQ/set-Password.png" alt="set-Password" height="400" border="0"></a>
+
+<a href="https://ibb.co/wYKXVBp"><img src="https://i.ibb.co/4JjGzK4/home-Owner.png" alt="home-Owner" height="400" border="0"></a>
+<a href="https://ibb.co/YPyDMKq"><img src="https://i.ibb.co/vVQsGrK/profile.png" alt="profile" height="400" border="0"></a>
+<a href="https://ibb.co/JqkXcp0"><img src="https://i.ibb.co/YXjvNdY/addPet.png" alt="addPet" height="400" border="0"></a>
+<a href="https://ibb.co/tQXq1r4"><img src="https://i.ibb.co/Xj87GRb/listPets.png" alt="listPets" height="400" border="0"></a>
+<a href="https://ibb.co/T4BGLDw"><img src="https://i.ibb.co/jyvYR98/pet-Information.png" alt="pet-Information" height="400" border="0"></a>
+<a href="https://ibb.co/x740TPj"><img src="https://i.ibb.co/pLm8FGz/editPet.png" alt="editPet" height="400" border="0"></a>
+<a href="https://ibb.co/L1b0CVP"><img src="https://i.ibb.co/BBdfg0P/list-Clinic.png" alt="list-Clinic" height="400" border="0"></a>
+<a href="https://ibb.co/VNf8DTp"><img src="https://i.ibb.co/GJzjkR3/cercanas-Clinics.png" alt="cercanas-Clinics" height="400" border="0"></a>
+<a href="https://ibb.co/ZKHht3x"><img src="https://i.ibb.co/pZW3Ggd/clinic-Information.png" alt="clinic-Information" height="400" border="0"></a>
+<a href="https://ibb.co/DWxkbvN"><img src="https://i.ibb.co/GpKkJ8X/vet-Information.png" alt="vet-Information" height="400" border="0"></a>
+<a href="https://ibb.co/GdH3ngx"><img src="https://i.ibb.co/yN4BdLf/book-Appointment.png" alt="book-Appointment" height="400" border="0"></a>
+<a href="https://ibb.co/NKT2qSJ"><img src="https://i.ibb.co/bXb5VJC/appointment-Pet-Detail.png" alt="appointment-Pet-Detail" height="400" border="0"></a>
+<a href="https://ibb.co/gwVXB77"><img src="https://i.ibb.co/1K6pwnn/appointment-Registered.png" alt="appointment-Registered" height="400" border="0"></a>
+<a href="https://ibb.co/4dXjb7D"><img src="https://i.ibb.co/3zj0x78/appointment-Detail.png" alt="appointment-Detail" height="400" border="0"></a>
+<a href="https://ibb.co/JzKGC7z"><img src="https://i.ibb.co/NLsJ7jL/list-Appointments.png" alt="list-Appointments" height="400" border="0"></a>
+
+<a href="https://ibb.co/Qf6PKcj"><img src="https://i.ibb.co/6m4HWZJ/homeVet.png" alt="homeVet" height="400" border="0"></a>
+<a href="https://ibb.co/tYm8Bvf"><img src="https://i.ibb.co/ssmyjNS/vet-Profile.png" alt="vet-Profile" height="400" border="0"></a>
+<a href="https://ibb.co/SmT95Lg"><img src="https://i.ibb.co/z2c0Qkg/generate-Password.png" alt="generate-Password" height="400" border="0"></a>
+<a href="https://ibb.co/ZJ0sz5s"><img src="https://i.ibb.co/fSsRdfR/appointment-Detail-Vet.png" alt="appointment-Detail-Vet" height="400" border="0"></a>
+<a href="https://ibb.co/yy2BPwf"><img src="https://i.ibb.co/tsRPK7m/add-Report.png" alt="add-Report" height="400" border="0"></a>
+<a href="https://ibb.co/1RB0N89"><img src="https://i.ibb.co/sscg4yF/medical-Information.png" alt="medical-Information" height="400" border="0"></a>
+
+<a href="https://ibb.co/s2j7vT1"><img src="https://i.ibb.co/t4BRM02/review.png" alt="review" height="400" border="0"></a>
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
@@ -1222,6 +1260,8 @@ A continuación se muestra la ejecución del proyecto relacionado al dispositivo
 Repositorio del proyecto en Wokwi
 
 ![Collab wokwi project](https://i.ibb.co/3k1qnqB/collab-wokwi.png)
+
+
 
 ## 6.3. Validation Interviews.
 
