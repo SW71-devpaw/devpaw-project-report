@@ -1161,7 +1161,17 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 | Repository                                        | Branch            | Commit Id                                | Commit Message                               | Committed on (Date) |
 |---------------------------------------------------|-------------------|------------------------------------------|----------------------------------------------|---------------------|
 | https://github.com/SW71-devpaw/upet-frontend-web/ | main              | bd084ae7a64af51d5d9736f8ed7f63b6fd1caf59 | inital commit                                | 18/09/2024          |
-|                                                   | main              | 6c352e1be111c13e90588e4f00d690c7fb603ecb | init                                         | 18/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 0fe1b1d3c18cce3d9284fc27d13bf6f6f636c41e | feat: section best specialists nearby were added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 7d17018f6752fdd8efbb2ce793704a9e14e31063 | feat: banner was added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 9c0014dacaa5940bd708d2a3b328506315623259 | feat: cards for pets and form for update or add pet were added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-pets-view              | 65056dbc727b463387c80f9cdee909851a3ad903 | feat: profile for pets were added with all of the information about their medics histories                                         | 23/10/2024          |
+|                                                   | feature/pet-owner-pets-view              | 6c352e1be111c13e90588e4f00d690c7fb603ecb | feat: badges from profile pet were updated                                         | 23/10/2024          |
+|                                                   | feature/pet-owner-clinics-view              | 54bc869c715975e224b00ec0a861923e54b01411 | feat: forms for appointment and review were added                                         | 18/09/2024          |
+|                                                   | feature/pet-owner-appointments              | cbc67dba309fcb3df44b9283ab9344f10434bff5 | feat: section appointments was added with its cards                                         | 31/10/2024          |
+|                                                   | feature/pet-owner-appointments              | f76e6fc54ed7e492f2e5df1b1899cf0f8060b472 | feat: dialog for appointment details was added                                         | 31/10/2024          |
+|                                                   | feature/auth              | 2c5c03deada44cd6b5a2e63cec98c8dcc019fcf1 | feat: add token and flow validation                                         | 29/10/2024          |
+|                                                   | release/v1.0.0              | c251a5c31447f5bb61a05f122c379b523647cd40 | feat: configuration to deploy was changed                                         | 02/11/2024          |
+
 
 **Mobile application**
 
