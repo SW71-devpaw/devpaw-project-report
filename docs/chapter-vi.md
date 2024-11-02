@@ -1218,6 +1218,24 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 
 **Web application**
 
+<img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/3xXwZkWz/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
+
+<img src="https://i.postimg.cc/g0LZdz0D/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Znbn94JX/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/gJYmss1Z/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/kXkCzqk9/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ZRCZXnKb/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/NfhYPght/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/HksN6KLH/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ZKj7vcxQ/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Y2z8T3ZS/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ht60V3z2/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/GttB7d6G/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Jn4t0Rrv/image.png" alt="" height="500"/>
+<img src="" alt="" height="500"/>
+
 **Mobile application**
 
 <a href="https://ibb.co/zZZ8wYP"><img src="https://i.ibb.co/GRRsjLC/register.png" alt="register" height="400" border="0"></a>
@@ -1334,8 +1352,10 @@ Backend desplegado: https://upetbackendapi.onrender.com/docs#/
 
 **Web Application**
 
-Web Application desplegado:
+Web Application desplegado: https://devpaw-upet.web.app/auth/login
 
+<img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
 
