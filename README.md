@@ -430,8 +430,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 4 TB2 ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+            Me encarguè de realizar algunas vistas del segmento pet owner de la aplicaciòn web, para lo cual tuve que trabajar conjuntamente con mis compañeros con el fin de proporcionar diferentes puntos de vista sobre el diseño o què convenciones de còdigo usar para realizar un mejor trabajo.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TB2 ------------> 
@@ -595,8 +595,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 4 TB2 ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+            Codifiquè diferentes vistas de la aplicaciòn web para esta entrega, tuvimos que estar constantemente en comunicaciòn para no desviarnos de los objetivos principales del proyecto, para ello programamos reuniones periòdicas con todos los integrantes del equipo para presentar nuestros avances y darnos feedback mutuamente. 
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TB2 ------------> 
