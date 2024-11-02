@@ -1339,11 +1339,29 @@ Web Application desplegado:
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
 
-Repositorio del proyecto en Wokwi
+En el transcurso del sprint 2, el equipo se enfocó en el desarrollo de la aplicación móvil desarrollada en Android Studio y la aplicación web desarrollada con Angular. Para coordinar el trabajo de manera eficiente, se implementó la metodología Gitflow, lo que permitió la participación simultánea de todos los miembros del equipo. Además, durante este período, se realizaron correcciones y mejoras al backend existente.
 
-![Collab wokwi project](https://i.ibb.co/3k1qnqB/collab-wokwi.png)
+**Wokwi**
 
+Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
 
+<a href="https://ibb.co/tB0CR0x"><img src="https://i.ibb.co/nrXkpXn/wokwi-Network.png" alt="wokwi-Network" border="0"></a>
+<a href="https://ibb.co/L5XQ2cL"><img src="https://i.ibb.co/M6x83tY/wokwi-Pulse.png" alt="wokwi-Pulse" border="0"></a>
+
+**Web application**
+
+Repositorio Web Application: https://github.com/SW71-devpaw/upet-frontend-web
+
+<a href="https://ibb.co/4K8zpGN"><img src="https://i.ibb.co/gmSNJpg/web-Network.png" alt="web-Network" border="0"></a>
+<a href="https://ibb.co/x3W0KRd"><img src="https://i.ibb.co/g6NpbBh/web-Network2.png" alt="web-Network2" border="0"></a>
+<a href="https://ibb.co/DQhfj21"><img src="https://i.ibb.co/vkp4Mnc/webPulse.png" alt="webPulse" border="0"></a>
+
+**Mobile application**
+
+Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
+
+<a href="https://ibb.co/mCLhS2z"><img src="https://i.ibb.co/Y7zfb1j/mobile-Network.png" alt="mobile-Network" border="0"></a>
+<a href="https://ibb.co/kQmYhsG"><img src="https://i.ibb.co/V2wXvcL/mobile-Pulse.png" alt="mobile-Pulse" border="0"></a>
 
 ## 6.3. Validation Interviews.
 
