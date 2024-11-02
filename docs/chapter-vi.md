@@ -1144,7 +1144,9 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 
 #### 6.2.1.3. Development Evidence for Sprint Review.
 
-En la siguiente tabla se muestra el historial de commits realizados durante el Sprint 2 en el repositorio relacionado al proyecto del dispositivo embebido en wokwi y su primera versión.
+En la siguientes tablas se muestran el historial de commits realizados durante el Sprint 2 en el repositorio relacionado al proyecto del dispositivo embebido en wokwi y su primera versión. Además de los repositorios de la aplicación web y móvil.
+
+**Wokwi**
 
 | Repository                                   | Branch | Commit Id                                | Commit Message                             | Committed on (Date) |
 |----------------------------------------------|--------|------------------------------------------|--------------------------------------------|---------------------|
@@ -1153,6 +1155,31 @@ En la siguiente tabla se muestra el historial de commits realizados durante el S
 |                                              | master | 55c174d2102b6cd994dbfa46d4afb3652f0512ee | feat: add Wi-Fi connection                 | 27/10/2024          |
 |                                              | master | d93e66be2ee2d39c1a64b819c6a87f5623cecbae | feat: add temperature sensor configuration | 27/10/2024          |
 |                                              | master | c10d0cb8808a00f6ac1b23d18ad291277d469ca8 | feat: add location configuration           | 27/10/2024          |
+
+**Web application**
+
+| Repository                                        | Branch            | Commit Id                                | Commit Message                               | Committed on (Date) |
+|---------------------------------------------------|-------------------|------------------------------------------|----------------------------------------------|---------------------|
+| https://github.com/SW71-devpaw/upet-frontend-web/ | main              | bd084ae7a64af51d5d9736f8ed7f63b6fd1caf59 | inital commit                                | 18/09/2024          |
+|                                                   | main              | 6c352e1be111c13e90588e4f00d690c7fb603ecb | init                                         | 18/09/2024          |
+
+**Mobile application**
+
+| Repository                                        | Branch                  | Commit Id                                | Commit Message                                                            | Committed on (Date)  |
+|---------------------------------------------------|-------------------------|------------------------------------------|---------------------------------------------------------------------------|----------------------|
+| https://github.com/SW71-devpaw/MobileApp-Upet     | main                    | 749b1f2e0b5ae64d48cdb89e88cd95590bf6eb0f | first commit                                                              | 20/10/2024           |
+|                                                   | feature/auth            | fa261d293e3ef7c03308c181935e6ce1fedba0e7 | feat(auth): implemented auth feature.                                     | 21/10/2024           |
+|                                                   | feature/pet-owner       | 1f0795a5be578d79866190b0818d7f3bccb98db6 | feat(pet-owner): implemented pet owner feature.                           | 22/10/2024           |
+|                                                   | feature/vet             | 490ebffd97f325d9b0a7e62edf3af0f30641ed77 | feat(vet): implemented vet feature.                                       | 22/10/2024           |
+|                                                   | feature/pet             | 5386fc3a43eeb647a324f858053cef507138f99e | feat(pet): implemented pet feature.                                       | 23/10/2024           |
+|                                                   | feature/vet-clinic      | d1cbcfd7eeeaf5a4bcf4873a16f867063187f2f9 | feat(vet-clinic): implemented vet clinic feature.                         | 23/10/2024           |
+|                                                   | feature/appointment     | 7bc48b2fc7abb06a70ed399df10eb2bccea0e62c | feat(appointment): implemented appointment feature.                       | 23/10/2024           |
+|                                                   | feature/medical-history | 4ea300a0bc8f4565f402789f6797de1fd7fc5cca | feat(medical-history): implemented medical history feature.               | 23/10/2024           |
+|                                                   | feature/review          | ddc42b3e25ed6d7e47914aa43e0bcbd19c2bbc7a | feat(review): implemented review feature.                                 | 23/10/2024           |
+|                                                   | feature/notification    | 4e14ba02dfef5e06792cbb1e59343a5f1c3a7692 | feat(notification): implemented notification feature.                     | 23/10/2024           |
+|                                                   | feature/release         | aa25531795aa5b5d6072da35eeea022511e5f6ab | feat(release): implemented subscription feature and upgrade clinics view. | 27/10/2024           |
+|                                                   | feature/release         | 7c7e64287d8161d0104711187b0505e8a3bec06e | feat(release): implemented tracked design and upgrade views.              | 28/10/2024           |
+|                                                   | feature/release         | c34b33378cc04282b04861ec2226c49026637c5b | feat(release): fixed design and upgrade views.                            | 01/11/2024           |
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 
