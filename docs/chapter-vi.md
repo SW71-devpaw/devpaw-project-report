@@ -893,25 +893,254 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
       </td>
     </tr>
     <tr>
+      <td style="text-align:center">Sprint 2 Review Summary</td>
+      <td style="text-align:center"> Se realizó casi completamente la aplicación móvil e igualmente la aplicación web. Para el backend, se completó todos los endpoints. </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 2 Retrospective Summary</td>
+      <td style="text-align:center"> La comunicación del equipo se complementó mediante el grupo de Whatsapp y reuniones presenciales. Además, el equipo se mostró más proactivo. </td>
+    </tr>
+    <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
-      <td style="text-align:center">Sprint 1 Goal</td>
-      <td style="text-align:center">  </td>
+      <td style="text-align:center">Sprint 2 Goal</td>
+      <td style="text-align:center"> Completar la aplicación móvil y web en un 90%. Wokwi y backend en un 100% </td>
     </tr>
     <tr>
-      <td style="text-align:center">Sprint 1 Velocity</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Sprint 2 Velocity</td>
+      <td style="text-align:center">Se aceptaran 24 story points </td>
     </tr>
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">2 + 2 + 3 + 3 + 2 + 2 + 2 + 3 + 2 + 3 = 24 </td>
     </tr>
   </tbody>
 </table>
 
 #### 6.2.1.2. Sprint Backlog 2.
 
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-006</td>
+    <td rowspan="2">Subir foto de la mascota</td>
+    <td>TA01</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+   <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-007</td>
+    <td rowspan="2">Ver listado de mis mascotas</td>
+    <td>TA03</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Randy  </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA04</td>
+     <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done  </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-010</td>
+    <td rowspan="2">Agendar una cita</td>
+    <td>TA05</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>5</td>
+    <td>Enzo Trujillo </td>
+    <td> Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+  <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 5</td>
+    <td>Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-012</td>
+    <td rowspan="2">Acceso de la veterinaria a la información de la mascota</td>
+    <td>TA07</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA08</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-014</td>
+    <td rowspan="2">Ver historial de citas</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>3</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-020</td>
+    <td rowspan="2">Registrar vacunas</td>
+    <td>TA11</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>1</td>
+    <td>Daniel Valverde </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA12</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Enzo Trujillo </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-021</td>
+    <td rowspan="2">Registrar resultados</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-022</td>
+    <td rowspan="2">Registrar cirugías</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-023</td>
+    <td rowspan="2">Registrar enfermedades</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Randy </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Randy </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-024</td>
+    <td rowspan="2">Visualizar resumen del historial médico</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>4</td>
+    <td> Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 4</td>
+    <td> Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+</table>
 
 #### 6.2.1.3. Development Evidence for Sprint Review.
 
