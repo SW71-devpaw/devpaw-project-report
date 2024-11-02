@@ -1319,6 +1319,24 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 
+El equipo aprovechó las capacidades de Github como sistema de control de versiones y plataforma de colaboración. Dentro de la organización en Github, se estableció un repositorio dedicado para cada uno de los productos desarrollados, es decir, un repositorio para la aplicación móvil, otro para la aplicación web, uno más para el Wokwi y un cuarto para el backend. Esta separación facilitó la gestión y el seguimiento del código fuente de manera organizada. En cuanto al despliegue del backend, se utilizó el servicio de Render y para la base de datos en MySQL esta desplegado en Railway, lo que permitió su publicación y acceso a los endpoints.
+
+**Backend**
+
+Backend desplegado: https://upetbackendapi.onrender.com/docs#/
+
+<a href="https://ibb.co/c1XYdZC"><img src="https://i.ibb.co/0cVs36F/backend.png" alt="backend" border="0"></a>
+<a href="https://ibb.co/h7LjBtv"><img src="https://i.ibb.co/yfd16bJ/backend1.png" alt="backend1" border="0"></a>
+<a href="https://ibb.co/0JPzMhM"><img src="https://i.ibb.co/QmsxNrN/backend2.png" alt="backend2" border="0"></a>
+<a href="https://ibb.co/HpgrqKF"><img src="https://i.ibb.co/LhpC10k/backend3.png" alt="backend3" border="0"></a>
+<a href="https://ibb.co/tPY4c0h"><img src="https://i.ibb.co/WpB6Fr3/backend4.png" alt="backend4" border="0"></a>
+<a href="https://ibb.co/pdFJNTM"><img src="https://i.ibb.co/1TW8BNP/backend5.png" alt="backend5" border="0"></a>
+
+**Web Application**
+
+Web Application desplegado:
+
+
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
 
 Repositorio del proyecto en Wokwi
