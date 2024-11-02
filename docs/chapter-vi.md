@@ -1248,10 +1248,74 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 <a href="https://ibb.co/ZJ0sz5s"><img src="https://i.ibb.co/fSsRdfR/appointment-Detail-Vet.png" alt="appointment-Detail-Vet" height="400" border="0"></a>
 <a href="https://ibb.co/yy2BPwf"><img src="https://i.ibb.co/tsRPK7m/add-Report.png" alt="add-Report" height="400" border="0"></a>
 <a href="https://ibb.co/1RB0N89"><img src="https://i.ibb.co/sscg4yF/medical-Information.png" alt="medical-Information" height="400" border="0"></a>
-
 <a href="https://ibb.co/s2j7vT1"><img src="https://i.ibb.co/t4BRM02/review.png" alt="review" height="400" border="0"></a>
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especificar las rutas y funcionalidades de la API que permitirán la comunicación e intercambio de datos entre el frontend y el backend de la aplicación web y móvil. Además de documentar estos endpoints, el equipo realizó confirmaciones (commits) en los repositorios del proyecto para registrar los cambios y avances realizados en el código fuente. A continuación, se muestra los endpoints documentados y los commits:
+
+**Wokwi**
+
+Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
+
+<a href="https://ibb.co/TWhyLXC"><img src="https://i.ibb.co/kmcZ1nd/wokwi-Commits.png" alt="wokwi-Commits" border="0"></a>
+
+**Web application**
+
+Repositorio Web Application: https://github.com/SW71-devpaw/upet-frontend-web
+
+<a href="https://ibb.co/HX9pyV1"><img src="https://i.ibb.co/PtVzyN3/web-Commits.png" alt="web-Commits" border="0"></a>
+<a href="https://ibb.co/Z2TXqkG"><img src="https://i.ibb.co/QDmQy1p/web-Commits2.png" alt="web-Commits2" border="0"></a>
+<a href="https://ibb.co/YdCsVZn"><img src="https://i.ibb.co/1XgW46y/web-Commits3.png" alt="web-Commits3" border="0"></a>
+<a href="https://ibb.co/7XC4kMT"><img src="https://i.ibb.co/qdj5Jq4/web-Commits4.png" alt="web-Commits4" border="0"></a>
+<a href="https://ibb.co/McwD5Y9"><img src="https://i.ibb.co/wSGNr9Y/web-Commits5.png" alt="web-Commits5" border="0"></a>
+<a href="https://ibb.co/3SNKSYh"><img src="https://i.ibb.co/XFsHFkJ/web-Commits6.png" alt="web-Commits6" border="0"></a>
+
+**Mobile application**
+
+Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
+
+<a href="https://ibb.co/dD1FqF1"><img src="https://i.ibb.co/bXqTZTq/mobile-Commits.png" alt="mobile-Commits" border="0"></a>
+<a href="https://ibb.co/mNy5JJF"><img src="https://i.ibb.co/8YxgMM4/mobile-Commits2.png" alt="mobile-Commits2" border="0"></a>
+<a href="https://ibb.co/vY9xFS8"><img src="https://i.ibb.co/SrSXjzp/mobile-Commits3.png" alt="mobile-Commits3" border="0"></a>
+
+**Endpoint Documentados**
+
+| Endpoint               | Verbo HTTP | Parámetros         | Ejemplo de Llamada                                            |
+|------------------------|------------|--------------------|---------------------------------------------------------------|
+| **Auth**               | POST       | -                  | `/api/v1/auth/sign-up`                                        |
+|                        | POST       | -                  | `/api/v1/auth/sign-in`                                        |
+| **Users**              | GET        | -                  | `/api/v1/users`                                               |
+|                        | GET        | user_id            | `/api/v1/users/{user_id}`                                     |
+|                        | PUT        | role_id            | `/api/v1/users/{role_id}`                                     |
+| **Veterinary Clinics** | GET        | -                  | `/api/v1/veterinary_clinics`                                  |
+|                        | POST       | -                  | `/api/v1/veterinary_clinics`                                  |
+| **Pets**               | POST       | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | -                  | `/api/v1/pets`                                                |
+| **Appointments**       | GET        | -                  | `/api/v1/appointments`                                        |
+|                        | POST       | -                  | `/api/v1/appointments`                                        |
+|                        | GET        | pet_id             | `/api/v1/appointments/pet/{pet_id}`                           |
+|                        | GET        | veterinarian_id    | `/api/v1/appointments/veterinarian/{veterinarian_id}`         |
+| **Notifications**      | GET        | -                  | `/api/v1/notifications`                                       |
+|                        | POST       | -                  | `/api/v1/notifications`                                       |
+|                        | GET        | petowner_id        | `/api/v1/notifications/petowner/{petowner_id}`                |
+| **Medical Historys**   | GET        | -                  | `/api/v1/medical_historys`                                    |
+|                        | POST       | -                  | `/api/v1/medical_historys`                                    |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/diseases/`     |
+|                        | POST       | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistory_id}`                |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/vaccinations/` |
+|                        | PUT        | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistoryId}`                 |
+| **Pet Owners**         | POST       | user_id            | `/api/v1/users/petowner/{user_id}`                            |
+|                        | GET        | -                  | `/api/v1/users/petowner`                                      |
+| **Veterinarians**      | POST       | user_id            | `/api/v1/users/veterinarians/{user_id}`                       |
+|                        | GET        | -                  | `/api/v1/users/veterinarians`                                 |
+| **Diseases**           | GET        | -                  | `/api/v1/diseases`                                            |
+|                        | POST       | -                  | `/api/v1/diseases`                                            |
+| **Vaccinations**       | GET        | -                  | `/api/v1/vaccinations`                                        |
+|                        | POST       | -                  | `/api/v1/vaccinations`                                        |
+| **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
+|                        | POST       | -                  | `/api/v1/reviews`                                             |
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 
