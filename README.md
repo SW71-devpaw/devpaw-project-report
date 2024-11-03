@@ -32,15 +32,16 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor             | Descripción de modificación                                                                                                                               |
-|---------|-------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 13/08/2024  | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
-| 1.1     | 29/08/2024  | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
-| 1.2     | 30/08/2024  | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
-| 1.3     | 01/09/2024  | Josehp Herrera    | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas |
-| 2.1     | 16/09/2024  | Juliana Yauricasa | Se completó el diseño de la interfaz del usuario para el sitio web estático.                                                                              |
-| 2.2     | 27/09/2024  | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
-| 3.0     | 270/10/2024 | Daniel Valverde   | Se agregó la documentación del proyecto en wokwi del dispositivo embebido                                                                                 |
+| Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                               |
+|---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
+| 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
+| 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
+| 1.3     | 01/09/2024 | Josehp Herrera    | Se agregó en análisis de competidores, el diseño y registro de entrevistas, los empathy mapping, los user persona y la sección de análisis de entrevistas |
+| 2.1     | 16/09/2024 | Juliana Yauricasa | Se completó el diseño de la interfaz del usuario para el sitio web estático.                                                                              |
+| 2.2     | 27/09/2024 | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
+| 3.0     | 27/10/2024 | Daniel Valverde   | Se agregó la documentación del proyecto en wokwi del dispositivo embebido                                                                                 |
+| 3.1     | 31/10/2024 | Juliana Yauricasa | Se agregó la documentación de la aplicación móvil                                                                                                         |
 
 
 ### Project Report Collaboration Insights
@@ -90,6 +91,11 @@ Para el Reporte de Proyecto
 
 * #### Entregable TB2
 
+En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de la entrega del TB2.
+
+<a href="https://ibb.co/7GH9Y97"><img src="https://i.ibb.co/khpdHdY/report-Pulse.png" alt="report-Pulse" border="0"></a>
+<a href="https://ibb.co/FXdB53M"><img src="https://i.ibb.co/nBKD7mv/report-Network.png" alt="report-Network" border="0"></a>
+
 ## Contenido
 
 1. [Capítulo I: Introducción](/docs/chapter-i.md)
@@ -115,7 +121,6 @@ Para el Reporte de Proyecto
    1.2.2.4. [Lean UX Canvas](/docs/chapter-i.md#1224-lean-ux-canvas)
 
    1.3. [Segmentos Objetivos](/docs/chapter-i.md#13-segmentos-objetivos)
-
 
 2. [Capítulo II: Requirements Elicitation & Analysis](/docs/chapter-ii.md)
 
@@ -271,6 +276,24 @@ Para el Reporte de Proyecto
 
    6.2.1.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6218-team-collaboration-insights-during-sprint)
 
+   6.2.2. [Sprint 2](/docs/chapter-vi.md#622-sprint-2)
+
+   6.2.2.1. [Sprint Planning 2](/docs/chapter-vi.md#6221-sprint-planning-2)
+
+   6.2.2.2. [Sprint Backlog 2](/docs/chapter-vi.md#6222-sprint-backlog-2)
+
+   6.2.2.3. [Development Evidence for Sprint Review](/docs/chapter-vi.md#6223-development-evidence-for-sprint-review)
+
+   6.2.2.4. [Testing Suite Evidence for Sprint Review](/docs/chapter-vi.md#6224-testing-suite-evidence-for-sprint-review)
+
+   6.2.2.5. [Execution Evidence for Sprint Review](/docs/chapter-vi.md#6225-execution-evidence-for-sprint-review)
+
+   6.2.2.6. [Services Documentation Evidence for Sprint Review](/docs/chapter-vi.md#6226-services-documentation-evidence-for-sprint-review)
+
+   6.2.2.7. [Software Deployment Evidence for Sprint Review](/docs/chapter-vi.md#6227-software-deployment-evidence-for-sprint-review)
+
+   6.2.2.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6228-team-collaboration-insights-during-sprint)
+
    6.3. [Validation Interviews](/docs/chapter-vi.md#63-validation-interviews)
 
    6.3.1. [Diseño de Entrevistas](/docs/chapter-vi.md#631-diseño-de-entrevistas)
@@ -416,8 +439,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 2 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
-         acción realizada
+        <b>Juliana Yauricasa</b><br>
+         En esta entrega desarrollé la aplicación móvil. Además mediante reuniones periódicas se compartieron avances para la recibir la retroalimentación del resto de miembros del equipo. 
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TB2 ------------>
@@ -581,8 +604,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 2 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudiante 2</b><br>
-         acción realizada
+        <b>Juliana Yauricasa</b><br>
+         Se establecieron metas claras y alcanzables para las funcionalidades de la aplicación. Por ello, se realizó el sprint planning para la asignación de actividades y se realizaron reuniones periódicas para absolver dudas y presentar avances. 
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TB2 ------------>
