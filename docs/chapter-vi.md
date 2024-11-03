@@ -557,7 +557,7 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" ><strong>Sprint Planning Background</strong></td>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Date</td>
@@ -577,16 +577,14 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
     </tr>
     <tr>
       <td style="text-align:center">Attendees</td>
-      <td style="text-align:center">
-      Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde
-      </td>
+      <td style="text-align:center">Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Goal</td>
-      <td style="text-align:center"> Implementar la primera versión  de la Landing Page, Web Application y Backend services </td>
+      <td style="text-align:center">Implementar la primera versión de la Landing Page, Web Application y Backend services.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Velocity</td>
@@ -595,6 +593,15 @@ de Upet. Se dividieron las secciones a programar entre los integrantes, además 
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
       <td style="text-align:center">38</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Context:</strong> El objetivo para este sprint fue desarrollar la primera versión del aplicativo móvil, web y backend.<br>
+        <strong>Sprint Goal:</strong> Nuestro objetivo es ofrecer una experiencia satisfactoria para los usuarios, asegurando que puedan interactuar con las aplicaciones de manera eficiente y sin problemas. Creemos que esto aumentará la satisfacción del usuario y fomentará el uso continuo de nuestras plataformas.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -868,7 +875,7 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" ><strong>Sprint Planning Background</strong></td>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Date</td>
@@ -888,35 +895,43 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
     </tr>
     <tr>
       <td style="text-align:center">Attendees</td>
-      <td style="text-align:center">
-      Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde
-      </td>
+      <td style="text-align:center">Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde</td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 2 Review Summary</td>
-      <td style="text-align:center"> Se realizó casi completamente la aplicación móvil e igualmente la aplicación web. Para el backend, se completó todos los endpoints. </td>
+      <td style="text-align:center">Se realizó casi completamente la aplicación móvil e igualmente la aplicación web. Para el backend, se completó todos los endpoints.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 2 Retrospective Summary</td>
-      <td style="text-align:center"> La comunicación del equipo se complementó mediante el grupo de Whatsapp y reuniones presenciales. Además, el equipo se mostró más proactivo. </td>
+      <td style="text-align:center">La comunicación del equipo se complementó mediante el grupo de Whatsapp y reuniones presenciales. Además, el equipo se mostró más proactivo.</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 2 Goal</td>
-      <td style="text-align:center"> Completar la aplicación móvil y web en un 90%. Wokwi y backend en un 100% </td>
+      <td style="text-align:center">Completar la aplicación móvil y web en un 90%. Wokwi y backend en un 100%.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 2 Velocity</td>
-      <td style="text-align:center">Se aceptaran 24 story points </td>
+      <td style="text-align:center">Se aceptarán 24 story points.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
-      <td style="text-align:center">2 + 2 + 3 + 3 + 2 + 2 + 2 + 3 + 2 + 3 = 24 </td>
+      <td style="text-align:center">2 + 2 + 3 + 3 + 2 + 2 + 2 + 3 + 2 + 3 = 24</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Context:</strong> El objetivo para este sprint fue crear los apartados para el aplicativo IoT.<br>
+        <strong>Sprint Goal:</strong> Nuestro objetivo es ofrecer una experiencia personalizada para cada mascota de tal forma que el dueño pueda monitorizar a esas mascotas en tiempo real. Creemos que esto proporcionará un acceso rápido y eficiente a la información relevante de cada mascota.
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 #### 6.2.1.2. Sprint Backlog 2.
 
