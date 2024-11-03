@@ -570,8 +570,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 3 TP ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
-            acción realizada
+            <b>Enzo  Trujillo</b><br>
+            Establecimos colaborativamente la arquitectura para nuestro backend y nuestra soluciòn embebida para tener mayor sinergia a la hora de escribir el còdigo.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TP ------------>
@@ -584,8 +584,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
    <!---------- ESTUDIANTE 5 TP ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 5</b><br>
-         acción realizada
+        <b>Randy Rengifo</b><br>
+         Establecì el diseño de la web app tomando las historias de usuario màs importantes junto a los consejos de mis compañeros para tener una mejor experiencia de usuario.
       </td>   
     </tr>
    <!--------------------ENTREGA TB 2 ----------------->
