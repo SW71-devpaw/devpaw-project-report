@@ -857,7 +857,7 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 
 ### 6.2.2. Sprint 2
 
-#### 6.2.1.1. Sprint Planning 2.
+#### 6.2.2.1. Sprint Planning 2.
 
 <table>
   <thead>
@@ -918,7 +918,7 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
   </tbody>
 </table>
 
-#### 6.2.1.2. Sprint Backlog 2.
+#### 6.2.2.2. Sprint Backlog 2.
 
 
 <table>
@@ -1142,7 +1142,7 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
   </tr>
 </table>
 
-#### 6.2.1.3. Development Evidence for Sprint Review.
+#### 6.2.2.3. Development Evidence for Sprint Review.
 
 En la siguientes tablas se muestran el historial de commits realizados durante el Sprint 2 en el repositorio relacionado al proyecto del dispositivo embebido en wokwi y su primera versión. Además de los repositorios de la aplicación web y móvil.
 
@@ -1191,7 +1191,7 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 |                                                   | feature/release         | 7c7e64287d8161d0104711187b0505e8a3bec06e | feat(release): implemented tracked design and upgrade views.              | 28/10/2024           |
 |                                                   | feature/release         | c34b33378cc04282b04861ec2226c49026637c5b | feat(release): fixed design and upgrade views.                            | 01/11/2024           |
 
-#### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review.
 
 | Repository                                               | Branch                  | Commit Id                                | Commit Message            | Committed on (Date)  |
 |----------------------------------------------------------|-------------------------|------------------------------------------|---------------------------|----------------------|
@@ -1207,7 +1207,7 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 |                                                          | testing                 | c3c97392b087aabb9976f39eab290782275b194a | docs: added US023 feature | 02/11/2024           |
 |                                                          | testing                 | 9d98dee0597393f71fbd3ad434ba7f61d62a58a8 | docs: added US024 feature | 02/11/2024           |
 
-#### 6.2.1.5. Execution Evidence for Sprint Review.
+#### 6.2.2.5. Execution Evidence for Sprint Review.
 
 A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
 
@@ -1278,7 +1278,7 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 <a href="https://ibb.co/1RB0N89"><img src="https://i.ibb.co/sscg4yF/medical-Information.png" alt="medical-Information" height="400" border="0"></a>
 <a href="https://ibb.co/s2j7vT1"><img src="https://i.ibb.co/t4BRM02/review.png" alt="review" height="400" border="0"></a>
 
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especificar las rutas y funcionalidades de la API que permitirán la comunicación e intercambio de datos entre el frontend y el backend de la aplicación web y móvil. Además de documentar estos endpoints, el equipo realizó confirmaciones (commits) en los repositorios del proyecto para registrar los cambios y avances realizados en el código fuente. A continuación, se muestra los endpoints documentados y los commits:
 
@@ -1345,7 +1345,7 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 | **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
 |                        | POST       | -                  | `/api/v1/reviews`                                             |
 
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review.
 
 El equipo aprovechó las capacidades de Github como sistema de control de versiones y plataforma de colaboración. Dentro de la organización en Github, se estableció un repositorio dedicado para cada uno de los productos desarrollados, es decir, un repositorio para la aplicación móvil, otro para la aplicación web, uno más para el Wokwi y un cuarto para el backend. Esta separación facilitó la gestión y el seguimiento del código fuente de manera organizada. En cuanto al despliegue del backend, se utilizó el servicio de Render y para la base de datos en MySQL esta desplegado en Railway, lo que permitió su publicación y acceso a los endpoints.
 
@@ -1367,7 +1367,7 @@ Web Application desplegado: https://devpaw-upet.web.app/auth/login
 <img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
 <img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
 
-#### 6.2.1.8. Team Collaboration Insights during Sprint.
+#### 6.2.2.8. Team Collaboration Insights during Sprint.
 
 En el transcurso del sprint 2, el equipo se enfocó en el desarrollo de la aplicación móvil desarrollada en Android Studio y la aplicación web desarrollada con Angular. Para coordinar el trabajo de manera eficiente, se implementó la metodología Gitflow, lo que permitió la participación simultánea de todos los miembros del equipo. Además, durante este período, se realizaron correcciones y mejoras al backend existente.
 
