@@ -423,8 +423,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!---------- ESTUDIANTE 3 TB2 ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
-            acción realizada
+            <b>Enzo Trujillo</b><br>
+            Me encargue de modificar y agregar las tablas relacionadas a la solución IoT que estamos implementando. Para ello trabaje junto a mis compañeros a través de reuniones para poder definir bien la solución que queremos aportar.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TB2 ------------>
@@ -588,15 +588,15 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 3 TB2 ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
-            acción realizada
+            <b>Enzo Trujillo</b><br>
+            Durante esta entrega me encargue de solucionar los problemas relacionados al backend y apoyar en mis compañeros con los nuevos requerimientos que nuestra solución fue necesitando.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TB2 ------------>
     <tr>   
         <td>
             <b>Josehp Herrera</b><br>
-            Codifiquè diferentes vistas de la aplicaciòn web para esta entrega, tuvimos que estar constantemente en comunicaciòn para no desviarnos de los objetivos principales del proyecto, para ello programamos reuniones periòdicas con todos los integrantes del equipo para presentar nuestros avances y darnos feedback mutuamente. 
+            Codifiqué diferentes vistas de la aplicaciòn web para esta entrega, tuvimos que estar constantemente en comunicaciòn para no desviarnos de los objetivos principales del proyecto, para ello programamos reuniones periòdicas con todos los integrantes del equipo para presentar nuestros avances y darnos feedback mutuamente. 
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TB2 ------------> 
