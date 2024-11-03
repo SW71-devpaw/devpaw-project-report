@@ -460,8 +460,8 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
    <!---------- ESTUDIANTE 5 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 5</b><br>
-         acción realizada
+        <b>Randy Rengifo</b><br>
+         Mediante las reuniones con mis compañeros pude desarrollar las vistas que me fueron asignadas de manera efectiva gracias al feedback de cada reuniòn.
       </td>   
     </tr>
       <!--------------------ENTREGA TRABAJO FINAL----------------->
@@ -625,8 +625,8 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
    <!---------- ESTUDIANTE 5 TB2 ------------> 
     <tr> 
       <td> 
-        <b>Estudiante 5</b><br>
-         acción realizada
+        <b>Randy Rengifo</b><br>
+         En esta entrega ayude programando algunas vistas de la aplicaciòn web tomando en cuenta los consejos de todos mis compañeros para mejorar la calidad del còdigo y de experiencia de usuario
       </td>   
     </tr>
       <!--------------------ENTREGA TRABAJO FINAL----------------->
