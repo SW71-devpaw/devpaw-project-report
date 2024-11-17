@@ -1431,6 +1431,24 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.3.5. Execution Evidence for Sprint 3
 
+
+A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
+
+**Wokwi**
+
+- Dispositivo ESP32 y sensores de temperatura, latidos por minuto y gps
+
+ ![Dispositivo Esp32](https://i.ibb.co/tPhB80Y/iot-1.png)
+
+- Muestra de datos de temperatura, latidos por minuto y ubicación en la consola
+- 
+![datos en consola](https://i.ibb.co/5xLJdGX/iot-2.png)
+
+
+- Recepción de datos en los endpoints correspodientes
+- 
+![recepcion de datos](https://i.ibb.co/LrCR30V/iot-3.png)
+
 #### 6.2.3.6. Services Documentation Evidence for Sprint 3
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint 3
