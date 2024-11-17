@@ -468,12 +468,12 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <!--------- ESTUDIANTE 1 TF ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada 
+        <b>Daniel Valverde</b><br>
+         Se coordino en equipo para que cada uno asuma un proyecto para su desarrollo, en mi caso me encargue de la implementación de la aplicación wokwi.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
-         conclusión tp
+         En este entregable se logró coordinar en equipo para que cada uno asuma un proyecto para su desarrollo, esto nos permitió liderar en forma conjunta y cumplir con los objetivos del proyecto. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos completar los objetivos del entregable.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TF ------------> 
@@ -633,11 +633,11 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!--------- ESTUDIANTE 1 TF ------------> 
     <tr> 
       <td> 
-        <b>Estuadiante 1</b><br>
-         acción realizada 
+        <b>Daniel Valverde</b><br>
+         Para este último entegable planificamos en equipo la culminación del desarrollo de todos los proyectos y realizar su correcta integración para la presentación final.
       </td> 
       <td rowspan="5">
-        <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
+        <b>En este entrable logramos culminar el desarrollo de los proyectos, dividos de forma en la que se fomente la colaboración de todos los integrantes.</b><br>
          conclusión tp
       </td>   
     </tr>
