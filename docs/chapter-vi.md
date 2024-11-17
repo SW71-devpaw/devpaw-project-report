@@ -932,7 +932,6 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
   </tbody>
 </table>
 
-
 #### 6.2.1.2. Sprint Backlog 2.
 
 
@@ -1407,6 +1406,36 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 
 <a href="https://ibb.co/mCLhS2z"><img src="https://i.ibb.co/Y7zfb1j/mobile-Network.png" alt="mobile-Network" border="0"></a>
 <a href="https://ibb.co/kQmYhsG"><img src="https://i.ibb.co/V2wXvcL/mobile-Pulse.png" alt="mobile-Pulse" border="0"></a>
+
+#### 6.2.3. Sprint 3
+
+#### 6.2.3.1. Sprint Planning 3
+
+#### 6.2.3.2. Sprint Backlog 3
+
+#### 6.2.3.3. Development Evidence for Sprint 3
+
+En la siguientes tablas se muestran el historial de commits realizados durante el Sprint 3
+
+**Wokwi**
+
+| Repository                                   | Branch | Commit Id                                | Commit Message               | Committed on (Date) |
+|----------------------------------------------|--------|------------------------------------------|------------------------------|---------------------|
+| https://github.com/SW71-devpaw/upet-temporal | main   | 56af416419b743e211530813b14356b6c5f51600 | first commit                 | 17/11/2024          |
+|                                              | main   | 9cf5da48cdd753429bb05b5a999f96248fc92125 | feat: add temperature sensor | 17/11/2024          |
+|                                              | main   | 55c174d2102b6cd994dbfa46d4afb3652f0512ee | feat: add lpm sensor         | 17/11/2024          |
+|                                              | main   | d93e66be2ee2d39c1a64b819c6a87f5623cecbae | feat: add gps sensor         | 17/11/2024          |
+
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint 3
+
+#### 6.2.3.5. Execution Evidence for Sprint 3
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint 3
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint 3
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint 3
 
 ## 6.3. Validation Interviews.
 
