@@ -1431,7 +1431,6 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.3.5. Execution Evidence for Sprint 3
 
-
 A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
 
 **Wokwi**
@@ -1454,6 +1453,10 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 #### 6.2.3.7. Software Deployment Evidence for Sprint 3
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint 3
+
+A continuación se muestra la colaboración en el proyecto wokwi 
+![Collab sprint 3 wokwi](https://i.ibb.co/qRNyqry/collab-wokwi2.png)
+
 
 ## 6.3. Validation Interviews.
 
