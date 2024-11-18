@@ -1412,6 +1412,50 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 
 ### 6.3.1. Diseño de Entrevistas.
 
+<ul>
+    <li>
+        <div><strong>Preguntas generales</strong></div>
+        <div>
+            <ul>
+                <li>¿Cuál es su nombre?</li>
+                <li>¿Cuál es su edad?</li>
+                <li>¿En dónde vive?</li>
+                <li>¿Cuál es su profesión o actividad principal?</li>
+                <li>¿Tiene una mascota o ha tenido alguna en el pasado?</li>
+                <li>¿Con qué frecuencia usa aplicaciones móviles o en línea para buscar servicios relacionados con mascotas?</li>
+                <li>¿Ha utilizado alguna vez una aplicación o plataforma similar para encontrar una veterinaria? Si es así, ¿cuál fue su experiencia?</li>
+                <li>¿Le gustaría recibir notificaciones sobre ofertas y promociones de veterinarias en su área a través de la plataforma?</li>
+            </ul>
+        </div>
+    </li>
+    <li>
+        <div><strong>Preguntas complementarias</strong></div>
+        <strong>Segmento 1: </strong><i>Propietarios de mascotas</i>
+        <div>
+            <ul>
+                <li>¿Qué te pareció la aplicación? ¿Fue fácil de usar?</li>
+                <li>¿Pudiste registrar la información de tu mascota sin problemas?</li>
+                <li>¿Fue sencillo agendar o encontrar veterinarias cercanas?</li>
+                <li>¿Te parecieron útiles las notificaciones? ¿Qué mejorarías?</li>
+                <li>¿Qué información o funciones adicionales te gustaría tener?</li>
+                <li>Si usaste un dispositivo IoT, ¿fue útil? ¿Qué mejorarías?</li>
+            </ul>
+        </div>
+        <br/>
+        <strong>Segmento 2: </strong><i>Veterinarios</i>
+        <div>
+            <ul>
+                <li>¿La aplicación facilita tu trabajo? ¿Qué función te resultó más útil?</li>
+                <li>¿Es suficiente la información de las mascotas para hacer seguimiento?</li>
+                <li>¿Qué datos IoT serían más valiosos para ti?</li>
+                <li>¿Qué mejorarías para comunicarte mejor con los dueños?</li>
+                <li>¿Agregarías alguna funcionalidad específica?</li>
+            </ul>
+        </div>
+    </li>
+</ul>
+
+
 ### 6.3.2. Registro de Entrevistas.
 
 Entrevista Segmento 1
