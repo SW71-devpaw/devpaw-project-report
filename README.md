@@ -243,7 +243,7 @@ líneas de código que se han modificado en cada uno de los commits.
 
    6.4. [Video About-the-Product](/docs/chapter-vi.md#64-video-about-the-product)
 
-7. [Conclusiones](/docs/chapter-vi.md#conclusiones)
+7. [Conclusiones](/docs/chapter-vi.md#capítulo-vii-conclusiones)
 
 8. [Bibliografía](/docs/chapter-vi.md#bibliografía)
 
