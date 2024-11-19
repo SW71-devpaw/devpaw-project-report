@@ -535,10 +535,6 @@ Además, en TypeScript, se siguen las mismas convenciones que se utilizan en Jav
 
 Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos:
 
-**1. Seleccionar la sección pages:**
-
-![pages-landing-page.png](/assets/img/chapter-vi/pages-landing-page.png)
-
 
 **1. Configurar la rama que será usada para hacer deploy:**
 
@@ -547,11 +543,9 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 ## 6.2. Landing Page, Services & Applications Implementation.
 
 ### 6.2.1. Sprint 1
-En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación de la primera vesión del diseño de nuestra Landing Page, Web Application y Backend services
-utilizando WebStorm y Visual Studio Code como entornos de desarrollo. Esto implica que al concluir el Sprint 1, se habrán completado las tareas y objetivos establecidos para esta etapa inicial del proyecto.
+En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación de la primera vesión del diseño de nuestra Landing Page, Web Application y Backend services utilizando WebStorm y Visual Studio Code como entornos de desarrollo. Esto implica que al concluir el Sprint 1, se habrán completado las tareas y objetivos establecidos para esta etapa inicial del proyecto.
 #### 6.2.1.1. Sprint Planning 1.
-En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la elaboración de la primera versión de las soluciones 
-de Upet. Se dividieron las secciones a programar entre los integrantes, además se determinó el plazo de entrega de estas tareas.
+En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la elaboración de la primera versión de las soluciones de Upet. Se dividieron las secciones a programar entre los integrantes, además se determinó el plazo de entrega de estas tareas.
 
 <table>
   <thead>
