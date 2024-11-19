@@ -1508,32 +1508,32 @@ A continuación se muestra la colaboración en el proyecto wokwi
 
 ### 6.3.2. Registro de Entrevistas.
 
-Entrevista Segmento 1
+Entrevista Segmento Dueño de Mascotas
 
 <table>
         <thead>
             <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
+                <th>Entrevistado</th>
+                <th>Diego Cantoral</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
+                <th>Daniel Valverde</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>edad del entrevistado </td>
+                <td>21 </td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>distrito del entrevistado</td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td><img src="https://i.ibb.co/x5bbYW4/heuristicas-upet-devpaw.png" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
+                    Diego es un joven estudiante que pertenece al segmento de dueños de mascotas. Pudo evaluar la aplicación web y resaltó las funcionalidades que disponia. Principalmente considera que la muestra de signos vitales y ubicacion de sus mascotas en la aplicación son de mucha ayuda y aporta valor a la solución.
                 </td>
             </tr>
             <tr>
@@ -1542,7 +1542,7 @@ Entrevista Segmento 1
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td></td>
             </tr>
         </tbody>
 </table>
