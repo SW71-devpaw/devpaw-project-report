@@ -520,7 +520,7 @@ manera efectiva gracias al feedback de cada reunión
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         acción realizada
+         Aporté con la finalización de la aplicación web en este entregable, de manera que si surgía alguna tarea que estaba fuera de mi alcance me encargaba de solicitar apoyo a mis compañeros asignandoles pequeñas tareas relacionadas al backend o a la solución emebebida.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
@@ -685,7 +685,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         acción realizada
+         En este entregable trabajé colaborativamente con mi compañeros para poder desarrollar parte de la aplicación movil. Todos fueron inclusivos adoptando las sugerencias propuestas por cualquiera de los integrantes.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
