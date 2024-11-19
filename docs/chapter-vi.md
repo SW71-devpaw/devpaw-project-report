@@ -1953,6 +1953,8 @@ Entrevista Segmento Dueño de Mascotas
 
 ## 6.4 Video About-the-Product. 
 
+[![image.png](https://i.postimg.cc/Hx2DDQ32/image.png)](https://postimg.cc/DJ8Y149J)
+
 Link: https://drive.google.com/drive/folders/1AWXiOk0rGUrCcTD4ldprjuc6RLOTWgko?usp=sharing
 
 ## Capítulo VII: Conclusiones
