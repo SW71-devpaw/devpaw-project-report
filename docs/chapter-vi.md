@@ -1459,11 +1459,11 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
     </tr>
     <tr>
       <td style="text-align:center">Sprint 3 Velocity</td>
-      <td style="text-align:center">Se aceptarán -- story points.</td>
+      <td style="text-align:center">Se aceptarán 10 story points.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
-      <td style="text-align:center">----------</td>
+      <td style="text-align:center">53</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Example</strong></td>
@@ -1479,6 +1479,208 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 
 
 #### 6.2.3.2. Sprint Backlog 3
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-006</td>
+    <td rowspan="2">Mostrar perfil de la mascota</td>
+    <td>TA01</td>
+    <td> Interfaz </td>
+    <td> Implementar sección de perfil de mascotas </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Funcionalidad</td>
+    <td> Conectar el endpoint correspondiente </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+   <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-007</td>
+    <td rowspan="2">Mostrar datos del dispositivo IOT</td>
+    <td>TA03</td>
+   <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Randy  </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA04</td>
+     <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done  </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-010</td>
+    <td rowspan="2">Actualizar perfil de mascota</td>
+    <td>TA05</td>
+   <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>5</td>
+    <td>Enzo Trujillo </td>
+    <td> Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+  <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 5</td>
+    <td>Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-012</td>
+    <td rowspan="2">Acceso a los datos de citas, vacunas</td>
+    <td>TA07</td>
+    <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA08</td>
+    <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-014</td>
+    <td rowspan="2">Implementar sensores</td>
+    <td>TA09</td>
+   <td> Configurar sensores </td>
+    <td>Configuración de temperatura </td>
+    <td>3</td>
+    <td>Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>3</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-020</td>
+    <td rowspan="2">Implementar sensores</td>
+    <td>TA11</td>
+   <td> Configuración sensores </td>
+    <td>Configuración de latidos por minuto </td>
+    <td>1</td>
+    <td>Daniel Valverde </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA12</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-021</td>
+    <td rowspan="2">Implementar Sensores</td>
+    <td>TA09</td>
+   <td> Configurar sensor </td>
+    <td> Configurar sensor ubicacion </td>
+    <td>2</td>
+    <td> Juliana Yauricasa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-022</td>
+    <td rowspan="2">Registrar cirugías</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-023</td>
+    <td rowspan="2">Crear endpoint para dispositivo IOT</td>
+    <td>TA09</td>
+   <td> Configuración </td>
+    <td>Crea métodos get post</td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración</td>
+    <td> Crea métodos put delete</td>
+    <td> 2</td>
+    <td> Enzo Trujillo </td>
+    <td> Done </td>
+  </tr>
+</table>
+
 
 #### 6.2.3.3. Development Evidence for Sprint 3
 
@@ -1581,14 +1783,14 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 |                        | POST       | -                  | `/api/v1/vaccinations`                                        |
 | **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
 |                        | POST       | -                  | `/api/v1/reviews`                                             |
-| **SmartCollar**            | GET        | -                  | `/api/v1/smart-collarsreviews`                                             |
-|                        | POST       | -                  | `/api/v1/add_smart_collarreviews`           
-|                        | DELETE       | -                  | `/api/v1/delete_smart_collar/{collar_id}`                                       |
-|                        | PUT       | -                  | `/api/v1/change_pet_association/{collar_id}/{new_pet_id}`|
-|                        | PUT       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | GET       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | POST       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | GET       | -                  | `/api/v1/smart-collars/pet/{pet_id}`|
+| **SmartCollar**        | GET        | -                  | `/api/v1/smart-collarsreviews`                                |
+|                        | POST       | -                  | `/api/v1/add_smart_collarreviews`                             |
+|                        | DELETE     | -                  | `/api/v1/delete_smart_collar/{collar_id}`                     |
+|                        | PUT        | -                  | `/api/v1/change_pet_association/{collar_id}/{new_pet_id}`     |
+|                        | PUT        | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | GET        | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | POST       | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | GET        | -                  | `/api/v1/smart-collars/pet/{pet_id}`                          |
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint 3
 
