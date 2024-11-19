@@ -1496,6 +1496,15 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint 3
 
+| Repository                                              | Branch                  | Commit Id                                | Commit Message            | Committed on (Date) |
+|---------------------------------------------------------|-------------------------|------------------------------------------|---------------------------|---------------------|
+| https://github.com/SW71-devpaw/Sprint3-AcceptanceTests  | main                    | 03d8e9eaf8c0560f5b2770fed6133d3bb957d78b | initial commit            | 18/11/2024          |
+|                                                         | testing                 | 48b5c5dcadad00d97f8fadb6919f21636492ea10 | docs: added US041 feature | 18/11/2024          |
+|                                                         | testing                 | 0ef05eaae65adb60d589335c6c6f5392b693ce96 | docs: added US042 feature | 18/11/2024          |
+|                                                         | testing                 | 266e952a98c68c2f753849514c77773e66a68581 | docs: added US052 feature | 18/11/2024          |
+|                                                         | testing                 | 4cb27eb8d985f60c374553f75bf890f996b019b7 | docs: added US053 feature | 18/11/2024          |
+|                                                         | testing                 | 9e3c1899553421ab8722ee9fc9f8d84c945fa9ea | docs: added US054 feature | 18/11/2024          |
+
 #### 6.2.3.5. Execution Evidence for Sprint 3
 
 A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
@@ -1512,8 +1521,17 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 
 
 - Recepción de datos en los endpoints correspodientes
-- 
+
 ![recepcion de datos](https://i.ibb.co/LrCR30V/iot-3.png)
+
+
+- Imagen del dispositivo IOT en físico
+
+<a href="https://ibb.co/71jfxH9"><img src="https://i.ibb.co/rwFjKgW/collar-iot.jpg" alt="collar-iot" border="0"></a>
+
+- Video del funcionamiento del dispositivo IOT 
+
+Enlace: https://youtube.com/shorts/dddqrCqamgo
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint 3
 
@@ -1524,6 +1542,12 @@ Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especif
 Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
 
 <a href="https://ibb.co/TWhyLXC"><img src="https://i.ibb.co/kmcZ1nd/wokwi-Commits.png" alt="wokwi-Commits" border="0"></a>
+
+**Dispositivo en IOT físico**
+
+Repositorio: https://github.com/SW71-devpaw/upet-collar-esp32
+
+<a href="https://ibb.co/vZ8XRnK"><img src="https://i.ibb.co/D5nrT2S/commit-iot.png" alt="commit-iot" border="0"></a>
 
 **Web application**
 
