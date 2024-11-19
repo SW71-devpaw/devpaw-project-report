@@ -527,7 +527,7 @@ manera efectiva gracias al feedback de cada reunión
         <tr>   
         <td>
             <b>Enzo Trujillo</b><br>
-            acción realizada
+              Aporte con la finalización del backend en este entregable a medida que surgían necesidades para el diapositivo IoT, web frontend y mobile aplication.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
@@ -692,7 +692,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
         <tr>   
         <td>
             <b>Enzo Trujillo</b><br>
-            acción realizada
+            En este entregable colaboré con mis compañeros en el desarrollo de la solución IoT. Todo el lenguaje usado fue inclusivo y en las reuniones hubieron propuestas.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
