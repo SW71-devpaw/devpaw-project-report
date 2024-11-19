@@ -1459,11 +1459,11 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
     </tr>
     <tr>
       <td style="text-align:center">Sprint 3 Velocity</td>
-      <td style="text-align:center">Se aceptarán -- story points.</td>
+      <td style="text-align:center">Se aceptarán 10 story points.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
-      <td style="text-align:center">----------</td>
+      <td style="text-align:center">53</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Example</strong></td>
@@ -1479,6 +1479,208 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 
 
 #### 6.2.3.2. Sprint Backlog 3
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-006</td>
+    <td rowspan="2">Mostrar perfil de la mascota</td>
+    <td>TA01</td>
+    <td> Interfaz </td>
+    <td> Implementar sección de perfil de mascotas </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Funcionalidad</td>
+    <td> Conectar el endpoint correspondiente </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+   <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-007</td>
+    <td rowspan="2">Mostrar datos del dispositivo IOT</td>
+    <td>TA03</td>
+   <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Randy  </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA04</td>
+     <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done  </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-010</td>
+    <td rowspan="2">Actualizar perfil de mascota</td>
+    <td>TA05</td>
+   <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>5</td>
+    <td>Enzo Trujillo </td>
+    <td> Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+  <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 5</td>
+    <td>Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-012</td>
+    <td rowspan="2">Acceso a los datos de citas, vacunas</td>
+    <td>TA07</td>
+    <td> Interfaz </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA08</td>
+    <td>Funcionalidad</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-014</td>
+    <td rowspan="2">Implementar sensores</td>
+    <td>TA09</td>
+   <td> Configurar sensores </td>
+    <td>Configuración de temperatura </td>
+    <td>3</td>
+    <td>Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>3</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-020</td>
+    <td rowspan="2">Implementar sensores</td>
+    <td>TA11</td>
+   <td> Configuración sensores </td>
+    <td>Configuración de latidos por minuto </td>
+    <td>1</td>
+    <td>Daniel Valverde </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA12</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-021</td>
+    <td rowspan="2">Implementar Sensores</td>
+    <td>TA09</td>
+   <td> Configurar sensor </td>
+    <td> Configurar sensor ubicacion </td>
+    <td>2</td>
+    <td> Juliana Yauricasa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración endpoint</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-022</td>
+    <td rowspan="2">Registrar cirugías</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-023</td>
+    <td rowspan="2">Crear endpoint para dispositivo IOT</td>
+    <td>TA09</td>
+   <td> Configuración </td>
+    <td>Crea métodos get post</td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Configuración</td>
+    <td> Crea métodos put delete</td>
+    <td> 2</td>
+    <td> Enzo Trujillo </td>
+    <td> Done </td>
+  </tr>
+</table>
+
 
 #### 6.2.3.3. Development Evidence for Sprint 3
 
@@ -1605,14 +1807,14 @@ Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
 |                        | POST       | -                  | `/api/v1/vaccinations`                                        |
 | **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
 |                        | POST       | -                  | `/api/v1/reviews`                                             |
-| **SmartCollar**            | GET        | -                  | `/api/v1/smart-collarsreviews`                                             |
-|                        | POST       | -                  | `/api/v1/add_smart_collarreviews`           
-|                        | DELETE       | -                  | `/api/v1/delete_smart_collar/{collar_id}`                                       |
-|                        | PUT       | -                  | `/api/v1/change_pet_association/{collar_id}/{new_pet_id}`|
-|                        | PUT       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | GET       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | POST       | -                  | `/api/v1/smart-collars/{collar_id}`|
-|                        | GET       | -                  | `/api/v1/smart-collars/pet/{pet_id}`|
+| **SmartCollar**        | GET        | -                  | `/api/v1/smart-collarsreviews`                                |
+|                        | POST       | -                  | `/api/v1/add_smart_collarreviews`                             |
+|                        | DELETE     | -                  | `/api/v1/delete_smart_collar/{collar_id}`                     |
+|                        | PUT        | -                  | `/api/v1/change_pet_association/{collar_id}/{new_pet_id}`     |
+|                        | PUT        | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | GET        | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | POST       | -                  | `/api/v1/smart-collars/{collar_id}`                           |
+|                        | GET        | -                  | `/api/v1/smart-collars/pet/{pet_id}`                          |
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint 3
 
@@ -1732,45 +1934,50 @@ Entrevista Segmento Dueño de Mascotas
             </tr>
         </tbody>
 </table>
-
-Entrevista Segmento 2
-
 <table>
         <thead>
             <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
+                <th>Entrevistado</th>
+                <th>Karen Mora</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
+                <th>Randy Rengifo</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>edad del entrevistado </td>
+                <td>33 </td>
             </tr>
             <tr>
-                <td>Distrito</td>
-                <td>distrito del entrevistado</td>
+                <td>Pais</td>
+                <td>Mexico</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td><img src="https://i.postimg.cc/xC9GNYR5/image.png" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
+                    Karen nos indica que el diseño a la aplicacion es muy intuitivo y completa, Tambien menciona que si en un futuro se pueda implementar para el monitero de la glucosa de la mascota.
                 </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> 0:00 </td>
+                <td> 08:28:28  </td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://drive.google.com/file/d/1G4MbjdGH8B0AXOwp2vBNSZ6iA7ldb3D3/view?usp=sharing</td>
             </tr>
         </tbody>
 </table>
+
+
+### 6.3.3. Evaluaciones según heurísticas
+
+
+## 6.4 Video About-the-Product. 
+
+Link: https://drive.google.com/drive/folders/1AWXiOk0rGUrCcTD4ldprjuc6RLOTWgko?usp=sharing
 
 ## Capítulo VII: Conclusiones
 
@@ -1785,6 +1992,10 @@ Entrevista Segmento 2
 5. **Promoción de la adopción tecnológica:** 
 El proyecto fomenta el uso de tecnología en un contexto cotidiano, demostrando cómo herramientas avanzadas pueden integrarse de manera efectiva en la vida diaria para solucionar problemas prácticos.
 
+
+## Video About-the-Team
+
+Link: https://drive.google.com/drive/folders/1mwOMqh6TJ2Hwh1BSb08vKoxOwBXcEyHp?usp=sharing
 
 ## Capítulo VIII: Bibliografía
 

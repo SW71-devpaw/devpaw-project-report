@@ -333,7 +333,7 @@ Para el Reporte de Proyecto
 
 7. [Conclusiones](/docs/chapter-vi.md#conclusiones)
 
-8. [Video About-the-Team](/docs/chapter-vi.md)
+8. [Video About-the-Team](/docs/chapter-vi.md#Video-About-the-Team)
 
 9. [Bibliografía](/docs/chapter-vi.md#bibliografía)
 
@@ -508,8 +508,8 @@ manera efectiva gracias al feedback de cada reunión
     <!--------- ESTUDIANTE 1 TF ------------> 
     <tr> 
       <td> 
-        <b>Daniel Valverde</b><br>
-         acción realizada 
+         <b>Daniel Valverde</b><br>
+         Se coordino en equipo para que cada uno asuma un proyecto para su desarrollo, en mi caso me encargue de la implementación de la aplicación wokwi.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
@@ -520,14 +520,14 @@ manera efectiva gracias al feedback de cada reunión
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         acción realizada
+         Aporté con la finalización de la aplicación web en este entregable, de manera que si surgía alguna tarea que estaba fuera de mi alcance me encargaba de solicitar apoyo a mis compañeros asignandoles pequeñas tareas relacionadas al backend o a la solución emebebida.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
         <tr>   
         <td>
             <b>Enzo Trujillo</b><br>
-            acción realizada
+              Aporte con la finalización del backend en este entregable a medida que surgían necesidades para el diapositivo IoT, web frontend y mobile aplication.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
@@ -541,7 +541,7 @@ manera efectiva gracias al feedback de cada reunión
     <tr> 
       <td> 
         <b>Randy Rengifo</b><br>
-         acción realizada
+          Aporte con algunos ajustes de la aplicacion movil en este entregable a medida que surgían nuevos cambios en el backend.
       </td>   
     </tr>
     <!--------------------------SEGUNDO CRITERIO DE STUDENT OUTCOME---------------------------------------------------->
@@ -552,7 +552,7 @@ manera efectiva gracias al feedback de cada reunión
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
       <td>
-        <b>Daniel Valverde 1</b> <br> 
+        <b>Daniel Valverde</b> <br> 
 Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde se establecieron metas claras, se planificaron las tareas de manera conjunta y se impulsó el trabajo en equipo para alcanzar los objetivos del proyecto.        <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
    La conclusión de este entregable nos permitió establecer un entorno colaborativo e inclusivo, donde se definieron metas claras y se planificaron las tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.
@@ -674,7 +674,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Daniel Valverde</b><br>
-         acción realizada 
+         Para este último entegable planificamos en equipo la culminación del desarrollo de todos los proyectos y realizar su correcta integración para la presentación final.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
@@ -685,14 +685,14 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         acción realizada
+         En este entregable trabajé colaborativamente con mi compañeros para poder desarrollar parte de la aplicación movil. Todos fueron inclusivos adoptando las sugerencias propuestas por cualquiera de los integrantes.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
         <tr>   
         <td>
             <b>Enzo Trujillo</b><br>
-            acción realizada
+            En este entregable colaboré con mis compañeros en el desarrollo de la solución IoT. Todo el lenguaje usado fue inclusivo y en las reuniones hubieron propuestas.
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
@@ -706,7 +706,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Randy Rengifo</b><br>
-         acción realizada
+           En este entregable trabajé colaborativamente con mi compañeros para poder desarrollar parte de la aplicación movil. Todos fueron inclusivos adoptando las sugerencias propuestas por cualquiera de los integrantes.
       </td>   
     </tr>
 </table>
