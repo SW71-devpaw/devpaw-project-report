@@ -1708,6 +1708,42 @@ Entrevista Segmento Dueño de Mascotas
             </tr>
         </tbody>
 </table>
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado</th>
+                <th>Karen Mora</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Randy Rengifo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>33 </td>
+            </tr>
+            <tr>
+                <td>Pais</td>
+                <td>Mexico</td>
+            </tr>
+            <tr>
+                <td><img src="https://i.postimg.cc/xC9GNYR5/image.png" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                    Karen nos indica que el diseño a la aplicacion es muy intuitivo y completa, Tambien menciona que si en un futuro se pueda implementar para el monitero de la glucosa de la mascota.
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> 08:28:28  </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://drive.google.com/file/d/1G4MbjdGH8B0AXOwp2vBNSZ6iA7ldb3D3/view?usp=sharing</td>
+            </tr>
+        </tbody>
+</table>
 
 Entrevista Segmento 2
 
@@ -1734,12 +1770,11 @@ Entrevista Segmento 2
             <tr>
                 <td><img src="" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
                 </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td> 0:00 </td>
+                <td> </td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
@@ -1747,6 +1782,11 @@ Entrevista Segmento 2
             </tr>
         </tbody>
 </table>
+
+
+## 6.4 Video About-the-Product. 
+
+Link: https://drive.google.com/drive/folders/1AWXiOk0rGUrCcTD4ldprjuc6RLOTWgko?usp=sharing
 
 ## Capítulo VII: Conclusiones
 
@@ -1761,6 +1801,11 @@ Entrevista Segmento 2
 5. **Promoción de la adopción tecnológica:** 
 El proyecto fomenta el uso de tecnología en un contexto cotidiano, demostrando cómo herramientas avanzadas pueden integrarse de manera efectiva en la vida diaria para solucionar problemas prácticos.
 
+
+
+## Video About-the-Team
+
+Link: https://drive.google.com/drive/folders/1mwOMqh6TJ2Hwh1BSb08vKoxOwBXcEyHp?usp=sharing
 
 ## Capítulo VIII: Bibliografía
 

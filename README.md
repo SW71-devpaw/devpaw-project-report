@@ -333,7 +333,7 @@ Para el Reporte de Proyecto
 
 7. [Conclusiones](/docs/chapter-vi.md#conclusiones)
 
-8. [Video About-the-Team](/docs/chapter-vi.md)
+8. [Video About-the-Team](/docs/chapter-vi.md#Video-About-the-Team)
 
 9. [Bibliografía](/docs/chapter-vi.md#bibliografía)
 
