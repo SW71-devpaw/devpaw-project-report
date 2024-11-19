@@ -22,7 +22,7 @@
 **· Juliana Alexandra Yauricasa Seguil - U20201B782** <br>
 **· Enzo Paolo Trujillo Acosta - U202120379** <br>
 **· Josehp Piero Herrera del Pino - U20211E098** <br>
-**· Randy Becker Rengifo Mirabal  - U20211d683** <br>
+**· Randy Becker Rengifo Mirabal - U20211d683** <br>
 
 ### Agosto - 2024
 
@@ -33,7 +33,7 @@
 ## Registro de Versiones del Informe
 
 | Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                               |
-|---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------- | ---------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0     | 13/08/2024 | Daniel Valverde   | Se creó la estructura del repositorio del informe del proyecto final y sus capítulos correspondientes                                                     |
 | 1.1     | 29/08/2024 | Juliana Yauricasa | Se agregó los to-be scenario mapping de ambos segmentos, los epics y user stories                                                                         |
 | 1.2     | 30/08/2024 | Juliana Yauricasa | Se agregó los impact mapping de los propietarios y veterinarias y el product backlog                                                                      |
@@ -42,7 +42,8 @@
 | 2.2     | 27/09/2024 | Juliana Yauricasa | Se agregó las pautas de estilo y la información de arquitectura                                                                                           |
 | 3.0     | 27/10/2024 | Daniel Valverde   | Se agregó la documentación del proyecto en wokwi del dispositivo embebido                                                                                 |
 | 3.1     | 31/10/2024 | Juliana Yauricasa | Se agregó la documentación de la aplicación móvil                                                                                                         |
-
+| 3.2     | 09/11/2024 | Josehp Herrera | Se agregó la documentación de la aplicación web                                                                                                         |
+| 3.3    | 17/11/2024 | Daniel Valverde | Se agregó la documentación del proyecto en wokwi del dispositivo embebido                                                                                                         |
 
 ### Project Report Collaboration Insights
 
@@ -67,6 +68,7 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - chapter-iii
 - chapter-iv
 - chapter-v
+- chapter-vi
 
 * #### Entregable TB1
 
@@ -79,7 +81,7 @@ Para la elaboración del presente reporte se utilizó el formato Markdown junto 
 
 ![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/9fDpwW7p/TB1-Project-Report-Collaboration-Insights.png)
 
-* #### Entregable TP
+- #### Entregable TP
 
 En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de nuestro trabajo parcial.
 
@@ -89,12 +91,19 @@ Para el Reporte de Proyecto
 
 ![TP-Project-Report-Collaboration-Insights](https://i.postimg.cc/cCBMGCps/report-devpaw-TP2.png)
 
-* #### Entregable TB2
+- #### Entregable TB2
+  En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de nuestro segundo entregable.
 
-En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de la entrega del TB2.
+![TB2-Project-Report-Collaboration-Insights](https://i.postimg.cc/hjx1MpMQ/report-devpaw-TP.png)
 
-<a href="https://ibb.co/7GH9Y97"><img src="https://i.ibb.co/khpdHdY/report-Pulse.png" alt="report-Pulse" border="0"></a>
-<a href="https://ibb.co/FXdB53M"><img src="https://i.ibb.co/nBKD7mv/report-Network.png" alt="report-Network" border="0"></a>
+![TB2-Project-Report-Collaboration-Insights](https://i.postimg.cc/cCBMGCps/report-devpaw-TP2.png)
+
+- #### Entregable TF
+  En el siguiente gráfico se muestra la colaboración de los integrantes del equipo en el repositorio de nuestro trabajo final.
+
+![TB2-Project-Report-Collaboration-Insights](https://i.postimg.cc/hjx1MpMQ/report-devpaw-TP.png)
+
+![TB2-Project-Report-Collaboration-Insights](https://i.postimg.cc/cCBMGCps/report-devpaw-TP2.png)
 
 ## Contenido
 
@@ -103,11 +112,11 @@ En el siguiente gráfico se muestra la colaboración de los integrantes del equi
    1.1. [Startup Profile](/docs/chapter-i.md#11-startup-profile)
 
    1.1.1. [Descripción de la Startup](/docs/chapter-i.md#111-descripción-de-la-startup)
-   
+
    1.1.2. [Perfiles de integrantes del equipo](/docs/chapter-i.md#112-perfiles-de-integrantes-del-equipo)
 
    1.2. [Solution Profile](/docs/chapter-i.md#12-solution-profile)
-   
+
    1.2.1. [Antecedentes y problemática](/docs/chapter-i.md#121-antecedentes-y-problemática)
 
    1.2.2. [Lean UX Process](/docs/chapter-i.md#122-lean-ux-process)
@@ -276,23 +285,41 @@ En el siguiente gráfico se muestra la colaboración de los integrantes del equi
 
    6.2.1.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6218-team-collaboration-insights-during-sprint)
 
-   6.2.2. [Sprint 2](/docs/chapter-vi.md#622-sprint-2)
+   6.2.2. [Sprint 2](/docs/chapter-vi.md#621-sprint-2)
 
-   6.2.2.1. [Sprint Planning 2](/docs/chapter-vi.md#6221-sprint-planning-2)
+   6.2.2.1. [Sprint Planning 2](/docs/chapter-vi.md#6211-sprint-planning-2)
 
-   6.2.2.2. [Sprint Backlog 2](/docs/chapter-vi.md#6222-sprint-backlog-2)
+   6.2.2.2. [Sprint Backlog 2](/docs/chapter-vi.md#6212-sprint-backlog-2)
 
-   6.2.2.3. [Development Evidence for Sprint Review](/docs/chapter-vi.md#6223-development-evidence-for-sprint-review)
+   6.2.2.3. [Development Evidence for Sprint Review](/docs/chapter-vi.md#6213-development-evidence-for-sprint-review)
 
-   6.2.2.4. [Testing Suite Evidence for Sprint Review](/docs/chapter-vi.md#6224-testing-suite-evidence-for-sprint-review)
+   6.2.2.4. [Testing Suite Evidence for Sprint Review](/docs/chapter-vi.md#6214-testing-suite-evidence-for-sprint-review)
 
-   6.2.2.5. [Execution Evidence for Sprint Review](/docs/chapter-vi.md#6225-execution-evidence-for-sprint-review)
+   6.2.2.5. [Execution Evidence for Sprint Review](/docs/chapter-vi.md#6215-execution-evidence-for-sprint-review)
 
-   6.2.2.6. [Services Documentation Evidence for Sprint Review](/docs/chapter-vi.md#6226-services-documentation-evidence-for-sprint-review)
+   6.2.2.6. [Services Documentation Evidence for Sprint Review](/docs/chapter-vi.md#6216-services-documentation-evidence-for-sprint-review)
 
-   6.2.2.7. [Software Deployment Evidence for Sprint Review](/docs/chapter-vi.md#6227-software-deployment-evidence-for-sprint-review)
+   6.2.2.7. [Software Deployment Evidence for Sprint Review](/docs/chapter-vi.md#6217-software-deployment-evidence-for-sprint-review)
 
-   6.2.2.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6228-team-collaboration-insights-during-sprint)
+   6.2.2.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6218-team-collaboration-insights-during-sprint)
+
+   6.2.3. [Sprint 3](/docs/chapter-vi.md#621-sprint-3)
+
+   6.2.3.1. [Sprint Planning 3](/docs/chapter-vi.md#6211-sprint-planning-3)
+
+   6.2.3.2. [Sprint Backlog 3](/docs/chapter-vi.md#6212-sprint-backlog-3)
+
+   6.2.3.3. [Development Evidence for Sprint Review](/docs/chapter-vi.md#6213-development-evidence-for-sprint-review)
+
+   6.2.3.4. [Testing Suite Evidence for Sprint Review](/docs/chapter-vi.md#6214-testing-suite-evidence-for-sprint-review)
+
+   6.2.3.5. [Execution Evidence for Sprint Review](/docs/chapter-vi.md#6215-execution-evidence-for-sprint-review)
+
+   6.2.3.6. [Services Documentation Evidence for Sprint Review](/docs/chapter-vi.md#6216-services-documentation-evidence-for-sprint-review)
+
+   6.2.3.7. [Software Deployment Evidence for Sprint Review](/docs/chapter-vi.md#6217-software-deployment-evidence-for-sprint-review)
+
+   6.2.3.8. [Team Collaboration Insights during Sprint](/docs/chapter-vi.md#6218-team-collaboration-insights-during-sprint)
 
    6.3. [Validation Interviews](/docs/chapter-vi.md#63-validation-interviews)
 
@@ -306,13 +333,16 @@ En el siguiente gráfico se muestra la colaboración de los integrantes del equi
 
 7. [Conclusiones](/docs/chapter-vi.md#conclusiones)
 
-8. [Bibliografía](/docs/chapter-vi.md#bibliografía)
+8. [Video About-the-Team](/docs/chapter-vi.md)
 
-9. [Anexos](/docs/chapter-vi.md#anexos)
+9. [Bibliografía](/docs/chapter-vi.md#bibliografía)
+
+10. [Anexos](/docs/chapter-vi.md#anexos)
 
 <br>
 
 ## Student Outcome
+
 En ingeniería de software, el logro del curso contribuye a alcanzar el:
 
 <b>ABET – EAC - Student Outcome 5:</b>
@@ -324,7 +354,6 @@ establecen objetivos, planifican tareas y cumplen objetivos._
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
-
 
 <table>
   <thead>
@@ -422,7 +451,7 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
          nuestro proyecto.
       </td>   
     </tr>
-   <!--------------------ENTREGA TB 2 ----------------->
+   <!--------------------ENTREGA TB2 ----------------->
     <!--------- ESTUDIANTE 1 TB2 ------------> 
     <tr> 
       <td> 
@@ -433,35 +462,46 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TB2</b><br>
-         conclusión TB2
+         En este entregable, logramos avanzar en el desarrollo de la aplicación web, cumpliendo con los objetivos del segundo sprint. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos trabajar en equipo para alcanzar los resultados esperados y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TB2 ------------> 
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         En esta entrega desarrollé la aplicación móvil. Además mediante reuniones periódicas se compartieron avances para la recibir la retroalimentación del resto de miembros del equipo. 
+        En esta entrega desarrollé la aplicación móvil. Además mediante reuniones periódicas se compartieron avances para la recibir la retroalimentación del resto de miembros del equipo.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TB2 ------------>
         <tr>   
         <td>
             <b>Enzo Trujillo</b><br>
-            Me encargue de modificar y agregar las tablas relacionadas a la solución IoT que estamos implementando. Para ello trabaje junto a mis compañeros a través de reuniones para poder definir bien la solución que queremos aportar.
+            Me encargue de modificar y agregar las tablas
+relacionadas a la solución IoT que estamos
+implementando. Para ello trabaje junto a mis
+compañeros a través de reuniones para poder definir
+bien la solución que queremos aporta
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TB2 ------------>
     <tr>   
         <td>
             <b>Josehp Herrera</b><br>
-            Me encarguè de realizar algunas vistas del segmento pet owner de la aplicaciòn web, para lo cual tuve que trabajar conjuntamente con mis compañeros con el fin de proporcionar diferentes puntos de vista sobre el diseño o què convenciones de còdigo usar para realizar un mejor trabajo.
+            Me encarguè de realizar algunas vistas del segmento
+pet owner de la aplicaciòn web, para lo cual tuve que
+trabajar conjuntamente con mis compañeros con el
+fin de proporcionar diferentes puntos de vista sobre
+el diseño o què convenciones de còdigo usar para
+realizar un mejor trabajo.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TB2 ------------> 
     <tr> 
       <td> 
         <b>Randy Rengifo</b><br>
-         Mediante las reuniones con mis compañeros pude desarrollar las vistas que me fueron asignadas de manera efectiva gracias al feedback de cada reuniòn.
+         Mediante las reuniones con mis compañeros pude
+desarrollar las vistas que me fueron asignadas de
+manera efectiva gracias al feedback de cada reunión
       </td>   
     </tr>
       <!--------------------ENTREGA TRABAJO FINAL----------------->
@@ -469,38 +509,38 @@ Proporcionamos liderazgo en forma conjunta trabajando en equipo para crear la de
     <tr> 
       <td> 
         <b>Daniel Valverde</b><br>
-         Se coordino en equipo para que cada uno asuma un proyecto para su desarrollo, en mi caso me encargue de la implementación de la aplicación wokwi.
+         acción realizada 
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
-         En este entregable se logró coordinar en equipo para que cada uno asuma un proyecto para su desarrollo, esto nos permitió liderar en forma conjunta y cumplir con los objetivos del proyecto. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos completar los objetivos del entregable.
+          En este entregable, logramos avanzar en el desarrollo de la aplicación web, aplicación móvil y el services cumpliendo con los objetivos del tercer sprint. A través de una distribución equitativa de tareas y una comunicación efectiva, logramos trabajar en equipo para alcanzar los resultados esperados y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TF ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 2</b><br>
+        <b>Juliana Yauricasa</b><br>
          acción realizada
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
+            <b>Enzo Trujillo</b><br>
             acción realizada
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+            Aporté con la finalización de la aplicación web en este entregable, de manera que si surgía alguna tarea que estaba fuera de mi alcance me encargaba de solicitar apoyo a mis compañeros asignandoles pequeñas tareas relacionadas al backend o a la solución emebebida.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TF ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 5</b><br>
+        <b>Randy Rengifo</b><br>
          acción realizada
       </td>   
     </tr>
@@ -570,7 +610,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 3 TP ------------>
         <tr>   
         <td>
-            <b>Enzo  Trujillo</b><br>
+            <b>Enzo Trujillo</b><br>
             Establecimos colaborativamente la arquitectura para nuestro backend y nuestra soluciòn embebida para tener mayor sinergia a la hora de escribir el còdigo.
         </td>
     </tr>
@@ -598,14 +638,14 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TB2</b><br>
-         conclusión TB2
+          Como conclusión de este entregable, se logró crear un entorno colaborativo e inclusivo, donde se establecieron metas claras y se planificaron tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TB2 ------------> 
     <tr> 
       <td> 
         <b>Juliana Yauricasa</b><br>
-         Se establecieron metas claras y alcanzables para las funcionalidades de la aplicación. Por ello, se realizó el sprint planning para la asignación de actividades y se realizaron reuniones periódicas para absolver dudas y presentar avances. 
+         Se establecieron metas claras y alcanzables para las funcionalidades de la aplicación. Por ello, se realizó el sprint planning para la asignación de actividades y se realizaron reuniones periódicas para absolver dudas y presentar avances.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TB2 ------------>
@@ -618,15 +658,15 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <!---------- ESTUDIANTE 4 TB2 ------------>
     <tr>   
         <td>
-            <b>Josehp Herrera</b><br>
-            Codifiqué diferentes vistas de la aplicaciòn web para esta entrega, tuvimos que estar constantemente en comunicaciòn para no desviarnos de los objetivos principales del proyecto, para ello programamos reuniones periòdicas con todos los integrantes del equipo para presentar nuestros avances y darnos feedback mutuamente. 
+            <b> Josehp Herrera</b><br>
+            Codifiqué diferentes vistas de la aplicaciòn web para esta entrega, tuvimos que estar constantemente en comunicaciòn para no desviarnos de los objetivos principales del proyecto, para ello programamos reuniones periòdicas con todos los integrantes del equipo para presentar nuestros avances y darnos feedback mutuamente
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TB2 ------------> 
     <tr> 
       <td> 
         <b>Randy Rengifo</b><br>
-         En esta entrega ayude programando algunas vistas de la aplicaciòn web tomando en cuenta los consejos de todos mis compañeros para mejorar la calidad del còdigo y de experiencia de usuario
+        En esta entrega ayude programando algunas vistas de la aplicaciòn web tomando en cuenta los consejos de todos mis compañeros para mejorar la calidad del còdigo y de experiencia de usuario
       </td>   
     </tr>
       <!--------------------ENTREGA TRABAJO FINAL----------------->
@@ -634,38 +674,38 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Daniel Valverde</b><br>
-         Para este último entegable planificamos en equipo la culminación del desarrollo de todos los proyectos y realizar su correcta integración para la presentación final.
+         acción realizada 
       </td> 
       <td rowspan="5">
-        <b>En este entrable logramos culminar el desarrollo de los proyectos, dividos de forma en la que se fomente la colaboración de todos los integrantes.</b><br>
-         conclusión tp
+        <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
+          Como conclusión de este entregable, se logró crear un entorno colaborativo e inclusivo, donde se establecieron metas claras y se planificaron tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.
       </td>   
     </tr>
     <!---------- ESTUDIANTE 2 TF ------------> 
     <tr> 
       <td> 
-        <b>Estudiante 2</b><br>
+        <b>Juliana Yauricasa</b><br>
          acción realizada
       </td>   
     </tr>
     <!---------- ESTUDIANTE 3 TF ------------>
         <tr>   
         <td>
-            <b>Estudiante 3</b><br>
+            <b>Enzo Trujillo</b><br>
             acción realizada
         </td>
     </tr>
     <!---------- ESTUDIANTE 4 TF ------------>
     <tr>   
         <td>
-            <b>Estudiante 4</b><br>
-            acción realizada
+            <b>Josehp Herrera</b><br>
+            En este entregable trabajé colaborativamente con mi compañeros para poder desarrollar parte de la aplicación web. Todos fueron inclusivos adoptando las sugerencias propuestas por cualquiera de los integrantes.
         </td>
     </tr>
    <!---------- ESTUDIANTE 5 TF ------------> 
     <tr> 
       <td> 
-        <b>Estudaiante 5</b><br>
+        <b>Randy Rengifo</b><br>
          acción realizada
       </td>   
     </tr>
