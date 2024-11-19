@@ -1547,43 +1547,41 @@ Entrevista Segmento Dueño de Mascotas
         </tbody>
 </table>
 
-Entrevista Segmento 2
-
 <table>
-        <thead>
-            <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>edad del entrevistado </td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>distrito del entrevistado</td>
-            </tr>
-            <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
-                <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
-                </td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td> 0:00 </td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
-            </tr>
-        </tbody>
+    <thead>
+        <tr>
+            <th>Entrevistado 3</th>
+            <th>Julio Reyes</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Nombre Entrevistador</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edad</td>
+            <td>Edad del entrevistado</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>Los Olivos</td>
+        </tr>
+        <tr>
+            <td><img src="" alt="Foto de la entrevista"></td>
+            <td><strong>Resumen:</strong><br>
+                El entrevistado expresó que el prototipo de IoT para monitoreo de signos vitales fue bien recibido. También destacó que la gestión de citas veterinarias era muy eficiente y rápida.
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>2:24</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td><a href="https://youtu.be/qJxjZNYhkA4" target="_blank">https://youtu.be/qJxjZNYhkA4</a></td>
+        </tr>
+    </tbody>
 </table>
 
 ## Capítulo VII: Conclusiones
