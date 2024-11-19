@@ -1698,6 +1698,15 @@ En la siguientes tablas se muestran el historial de commits realizados durante e
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint 3
 
+| Repository                                              | Branch                  | Commit Id                                | Commit Message            | Committed on (Date) |
+|---------------------------------------------------------|-------------------------|------------------------------------------|---------------------------|---------------------|
+| https://github.com/SW71-devpaw/Sprint3-AcceptanceTests  | main                    | 03d8e9eaf8c0560f5b2770fed6133d3bb957d78b | initial commit            | 18/11/2024          |
+|                                                         | testing                 | 48b5c5dcadad00d97f8fadb6919f21636492ea10 | docs: added US041 feature | 18/11/2024          |
+|                                                         | testing                 | 0ef05eaae65adb60d589335c6c6f5392b693ce96 | docs: added US042 feature | 18/11/2024          |
+|                                                         | testing                 | 266e952a98c68c2f753849514c77773e66a68581 | docs: added US052 feature | 18/11/2024          |
+|                                                         | testing                 | 4cb27eb8d985f60c374553f75bf890f996b019b7 | docs: added US053 feature | 18/11/2024          |
+|                                                         | testing                 | 9e3c1899553421ab8722ee9fc9f8d84c945fa9ea | docs: added US054 feature | 18/11/2024          |
+
 #### 6.2.3.5. Execution Evidence for Sprint 3
 
 A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
@@ -1714,8 +1723,17 @@ A continuación se muestra la ejecución del proyecto relacionado a las aplicaci
 
 
 - Recepción de datos en los endpoints correspodientes
-- 
+
 ![recepcion de datos](https://i.ibb.co/LrCR30V/iot-3.png)
+
+
+- Imagen del dispositivo IOT en físico
+
+<a href="https://ibb.co/71jfxH9"><img src="https://i.ibb.co/rwFjKgW/collar-iot.jpg" alt="collar-iot" border="0"></a>
+
+- Video del funcionamiento del dispositivo IOT 
+
+Enlace: https://youtube.com/shorts/dddqrCqamgo
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint 3
 
@@ -1726,6 +1744,12 @@ Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especif
 Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
 
 <a href="https://ibb.co/TWhyLXC"><img src="https://i.ibb.co/kmcZ1nd/wokwi-Commits.png" alt="wokwi-Commits" border="0"></a>
+
+**Dispositivo en IOT físico**
+
+Repositorio: https://github.com/SW71-devpaw/upet-collar-esp32
+
+<a href="https://ibb.co/vZ8XRnK"><img src="https://i.ibb.co/D5nrT2S/commit-iot.png" alt="commit-iot" border="0"></a>
 
 **Web application**
 
@@ -1947,9 +1971,153 @@ Entrevista Segmento Dueño de Mascotas
         </tbody>
 </table>
 
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado</th>
+                <th>Julio Reyes</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Enzo Trujillo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>20 </td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Los Olivos</td>
+            </tr>
+            <tr>
+                <td><img src="https://camo.githubusercontent.com/85539ee16512bdeaf1dfed7c14403953a7a57ec62faf5d340602c6caaad28269/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839353730363533393435353831353733312f313330383238393832343238353030333830362f6a756c696f5f72657965735f656e74726576697374612e706e673f65783d36373364363735382669733d363733633135643826686d3d6330313830653035383533333434353066373262373034623261373836313266313539633862383336306363376265616339306364623135356135366137353826" alt="Foto de la entrevista"></td>
+                <td><strong>Resumen:</strong><br>
+                   El entrevistado expresó que el prototipo de IoT para monitoreo de signos vitales fue bien recibido. También destacó que la gestión de citas veterinarias era muy eficiente y rápida.
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td> 02:24 </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://youtu.be/qJxjZNYhkA4</td>
+            </tr>
+        </tbody>
+</table>
+
 
 ### 6.3.3. Evaluaciones según heurísticas
 
+# Evaluaciones según heurísticas
+
+**Usabilidad – Diseño Inclusivo – Arquitectura de la Información**
+
+---
+
+## Tareas a evaluar:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas relacionadas con la gestión de citas veterinarias con IoT:
+- Registro de usuarios en la aplicación.
+- Solicitud de citas veterinarias.
+- Sincronización de datos entre el dispositivo IoT y la aplicación.
+- Navegación por el historial de citas.
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+- Gestión administrativa de veterinarios.
+- Generación de reportes avanzados.
+- Configuración avanzada del dispositivo IoT.
+
+---
+
+## Escala de severidad:
+Los problemas identificados se califican con la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: fácilmente superable por el usuario o de baja frecuencia.                  |
+| **2** | Problema menor: ocurre ocasionalmente, algo más difícil de superar, baja prioridad de solución.   |
+| **3** | Problema mayor: frecuente o de difícil resolución por el usuario, alta prioridad de corrección.  |
+| **4** | Problema muy grave: impide continuar con la tarea, requiere solución inmediata antes del despliegue. |
+
+---
+
+## Tabla de problemas:
+
+---
+
+### Problema #1: Confusión en el registro de usuarios
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Claridad y coherencia  
+- **Problema:**  
+  Los pasos para registrarse en la aplicación no están claramente explicados. La falta de un diseño intuitivo en el formulario puede dificultar que los usuarios completen el registro correctamente.  
+- **Recomendación:**  
+  Añadir instrucciones claras y una interfaz más intuitiva para el proceso de registro, destacando los campos obligatorios.  
+
+---
+
+### Problema #2: Interacción compleja con el dispositivo IoT
+- **Severidad:** 4  
+- **Heurística/Principio Violado:** Usabilidad - Flexibilidad y eficiencia del usuario  
+- **Problema:**  
+  El emparejamiento entre el dispositivo IoT y la aplicación presenta dificultades, especialmente para usuarios no técnicos.  
+- **Recomendación:**  
+  Implementar una guía paso a paso en la aplicación para ayudar a los usuarios con la sincronización inicial del dispositivo IoT.  
+
+---
+
+### Problema #3: Información poco clara en el historial de citas
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Claridad y coherencia  
+- **Problema:**  
+  La información sobre las citas pasadas se muestra de manera desorganizada, lo que dificulta identificar datos relevantes rápidamente.  
+- **Recomendación:**  
+  Organizar la información en tablas o listas estructuradas con filtros para facilitar la consulta del historial de citas.  
+
+---
+
+### Problema #4: Colores intensos en la interfaz de citas
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Estética y diseño minimalista  
+- **Problema:**  
+  Los colores brillantes en la sección de citas pueden resultar distractores para los usuarios.  
+- **Recomendación:**  
+  Cambiar a una paleta de colores más equilibrada y usar tonos más suaves para mejorar la experiencia visual.  
+
+---
+
+### Problema #5: Falta de notificaciones claras sobre citas agendadas
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Retroalimentación y visibilidad del sistema  
+- **Problema:**  
+  Los usuarios no reciben notificaciones claras sobre citas próximas o recordatorios importantes, lo que puede llevar a confusiones.  
+- **Recomendación:**  
+  Implementar notificaciones push y correos electrónicos automáticos para recordar a los usuarios sobre sus citas.  
+
+---
+
+### Problema #6: Dificultad para cancelar o reprogramar citas
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Control y libertad del usuario  
+- **Problema:**  
+  El proceso de cancelación o reprogramación de citas no es evidente, lo que genera frustración en los usuarios que necesitan cambios.  
+- **Recomendación:**  
+  Incorporar un botón destacado para modificar citas con opciones claras para cancelarlas o reprogramarlas.  
+
+---
+
+### Problema #7: Reconocimiento IoT lento en ciertos dispositivos
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Flexibilidad y eficiencia del usuario  
+- **Problema:**  
+  La conexión entre ciertos dispositivos IoT y la aplicación es más lenta de lo esperado, afectando la experiencia del usuario.  
+- **Recomendación:**  
+  Optimizar los tiempos de respuesta del dispositivo IoT y realizar pruebas de compatibilidad con diferentes teléfonos móviles.  
+
+---
+
+Esta evaluación ayudará a priorizar las mejoras necesarias para garantizar una experiencia de usuario óptima en la gestión de citas veterinarias con IoT.
 
 ## 6.4 Video About-the-Product. 
 
