@@ -508,8 +508,8 @@ manera efectiva gracias al feedback de cada reunión
     <!--------- ESTUDIANTE 1 TF ------------> 
     <tr> 
       <td> 
-        <b>Daniel Valverde</b><br>
-         acción realizada 
+         <b>Daniel Valverde</b><br>
+         Se coordino en equipo para que cada uno asuma un proyecto para su desarrollo, en mi caso me encargue de la implementación de la aplicación wokwi.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
@@ -674,7 +674,7 @@ Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde
     <tr> 
       <td> 
         <b>Daniel Valverde</b><br>
-         acción realizada 
+         Para este último entegable planificamos en equipo la culminación del desarrollo de todos los proyectos y realizar su correcta integración para la presentación final.
       </td> 
       <td rowspan="5">
         <b>CONCLUSIÓN DEL ENTRGABLE TF</b><br>
