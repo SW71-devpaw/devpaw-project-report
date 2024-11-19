@@ -1568,7 +1568,7 @@ Entrevista Segmento Dueño de Mascotas
             <td>Los Olivos</td>
         </tr>
         <tr>
-            <td><img src="" alt="Foto de la entrevista"></td>
+            <td><img src="https://cdn.discordapp.com/attachments/895706539455815731/1308289824285003806/julio_reyes_entrevista.png?ex=673d6758&is=673c15d8&hm=c0180e0585334450f72b704b2a78612f159c8b8360cc7beac90cdb155a56a758&" alt="Foto de la entrevista"></td>
             <td><strong>Resumen:</strong><br>
                 El entrevistado expresó que el prototipo de IoT para monitoreo de signos vitales fue bien recibido. También destacó que la gestión de citas veterinarias era muy eficiente y rápida.
             </td>
@@ -1583,6 +1583,116 @@ Entrevista Segmento Dueño de Mascotas
         </tr>
     </tbody>
 </table>
+
+
+# Evaluaciones según heurísticas
+## Evaluación de Heurísticas y Principios de UX
+**Usabilidad – Diseño Inclusivo – Arquitectura de la Información**
+
+---
+
+## Tareas a evaluar:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas relacionadas con la gestión de citas veterinarias con IoT:
+- Registro de usuarios en la aplicación.
+- Solicitud de citas veterinarias.
+- Sincronización de datos entre el dispositivo IoT y la aplicación.
+- Navegación por el historial de citas.
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+- Gestión administrativa de veterinarios.
+- Generación de reportes avanzados.
+- Configuración avanzada del dispositivo IoT.
+
+---
+
+## Escala de severidad:
+Los problemas identificados se califican con la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: fácilmente superable por el usuario o de baja frecuencia.                  |
+| **2** | Problema menor: ocurre ocasionalmente, algo más difícil de superar, baja prioridad de solución.   |
+| **3** | Problema mayor: frecuente o de difícil resolución por el usuario, alta prioridad de corrección.  |
+| **4** | Problema muy grave: impide continuar con la tarea, requiere solución inmediata antes del despliegue. |
+
+---
+
+## Tabla de problemas:
+
+---
+
+### Problema #1: Confusión en el registro de usuarios
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Claridad y coherencia  
+- **Problema:**  
+  Los pasos para registrarse en la aplicación no están claramente explicados. La falta de un diseño intuitivo en el formulario puede dificultar que los usuarios completen el registro correctamente.  
+- **Recomendación:**  
+  Añadir instrucciones claras y una interfaz más intuitiva para el proceso de registro, destacando los campos obligatorios.  
+
+---
+
+### Problema #2: Interacción compleja con el dispositivo IoT
+- **Severidad:** 4  
+- **Heurística/Principio Violado:** Usabilidad - Flexibilidad y eficiencia del usuario  
+- **Problema:**  
+  El emparejamiento entre el dispositivo IoT y la aplicación presenta dificultades, especialmente para usuarios no técnicos.  
+- **Recomendación:**  
+  Implementar una guía paso a paso en la aplicación para ayudar a los usuarios con la sincronización inicial del dispositivo IoT.  
+
+---
+
+### Problema #3: Información poco clara en el historial de citas
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Claridad y coherencia  
+- **Problema:**  
+  La información sobre las citas pasadas se muestra de manera desorganizada, lo que dificulta identificar datos relevantes rápidamente.  
+- **Recomendación:**  
+  Organizar la información en tablas o listas estructuradas con filtros para facilitar la consulta del historial de citas.  
+
+---
+
+### Problema #4: Colores intensos en la interfaz de citas
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Estética y diseño minimalista  
+- **Problema:**  
+  Los colores brillantes en la sección de citas pueden resultar distractores para los usuarios.  
+- **Recomendación:**  
+  Cambiar a una paleta de colores más equilibrada y usar tonos más suaves para mejorar la experiencia visual.  
+
+---
+
+### Problema #5: Falta de notificaciones claras sobre citas agendadas
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Retroalimentación y visibilidad del sistema  
+- **Problema:**  
+  Los usuarios no reciben notificaciones claras sobre citas próximas o recordatorios importantes, lo que puede llevar a confusiones.  
+- **Recomendación:**  
+  Implementar notificaciones push y correos electrónicos automáticos para recordar a los usuarios sobre sus citas.  
+
+---
+
+### Problema #6: Dificultad para cancelar o reprogramar citas
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usabilidad - Control y libertad del usuario  
+- **Problema:**  
+  El proceso de cancelación o reprogramación de citas no es evidente, lo que genera frustración en los usuarios que necesitan cambios.  
+- **Recomendación:**  
+  Incorporar un botón destacado para modificar citas con opciones claras para cancelarlas o reprogramarlas.  
+
+---
+
+### Problema #7: Reconocimiento IoT lento en ciertos dispositivos
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usabilidad - Flexibilidad y eficiencia del usuario  
+- **Problema:**  
+  La conexión entre ciertos dispositivos IoT y la aplicación es más lenta de lo esperado, afectando la experiencia del usuario.  
+- **Recomendación:**  
+  Optimizar los tiempos de respuesta del dispositivo IoT y realizar pruebas de compatibilidad con diferentes teléfonos móviles.  
+
+---
+
+Esta evaluación ayudará a priorizar las mejoras necesarias para garantizar una experiencia de usuario óptima en la gestión de citas veterinarias con IoT.
+
 
 ## Capítulo VII: Conclusiones
 
