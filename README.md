@@ -552,7 +552,7 @@ manera efectiva gracias al feedback de cada reunión
        <!--ENTREGA TB1-->
       <!--------- Estudiante 1 TB1 ------------->    
       <td>
-        <b>Daniel Valverde 1</b> <br> 
+        <b>Daniel Valverde</b> <br> 
 Mediante reuniones colaborativas, el equipo fomentó un entorno inclusivo, donde se establecieron metas claras, se planificaron las tareas de manera conjunta y se impulsó el trabajo en equipo para alcanzar los objetivos del proyecto.        <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
    La conclusión de este entregable nos permitió establecer un entorno colaborativo e inclusivo, donde se definieron metas claras y se planificaron las tareas de manera conjunta. A través de un trabajo en equipo efectivo, logramos cumplir con los objetivos del proyecto y ajustar nuestras estrategias conforme avanzábamos.

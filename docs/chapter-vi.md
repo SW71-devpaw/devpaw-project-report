@@ -1947,43 +1947,8 @@ Entrevista Segmento Dueño de Mascotas
         </tbody>
 </table>
 
-Entrevista Segmento 2
 
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>edad del entrevistado </td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>distrito del entrevistado</td>
-            </tr>
-            <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
-                <td><strong>Resumen:</strong><br>
-                </td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td> </td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td></td>
-            </tr>
-        </tbody>
-</table>
+### 6.3.3. Evaluaciones según heurísticas
 
 
 ## 6.4 Video About-the-Product. 
@@ -2002,7 +1967,6 @@ Link: https://drive.google.com/drive/folders/1AWXiOk0rGUrCcTD4ldprjuc6RLOTWgko?u
 
 5. **Promoción de la adopción tecnológica:** 
 El proyecto fomenta el uso de tecnología en un contexto cotidiano, demostrando cómo herramientas avanzadas pueden integrarse de manera efectiva en la vida diaria para solucionar problemas prácticos.
-
 
 
 ## Video About-the-Team
