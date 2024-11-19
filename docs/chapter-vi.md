@@ -96,7 +96,7 @@ A continuación se describe la gestión del código fuente, también conocida po
 
 GitFlow es un modelo alternativo para la creación de ramas en Git que se ha convertido en una herramienta esencial para muchos desarrolladores en los últimos años. Este flujo de trabajo de control de versiones, desarrollado y popularizado por Vicent Driessen, desempeña un papel crucial en la gestión de las versiones de un código, facilitando la creación ordenada de nuevas características (Features) y correcciones de problemas urgentes (Hotfixes).
 
-![ GitFlow.png](/assets/img/chapter-vi/Gitflow.png)
+![ GitFlow.png](https://i.postimg.cc/8z7qbV8y/Gitflow.png)
 
 Como se mencionó previamente, GitFlow opera con ramas o "branches". A continuación, se detallan las ramas que se utilizarán en el flujo de trabajo de nuestro proyecto.
 
@@ -157,11 +157,11 @@ Como se mencionó previamente, la gestión de nuestro código fuente se llevará
   1. Diríjase a la pestaña "VCS" en WebStorm.
   2. Luego, seleccione la opción "Enable Version Control Integration".
 
-![activar-el-controlador-de-versiones-1.png](/assets/img/chapter-vi/activar-el-controlador-de-versiones-1.png)
+![activar-el-controlador-de-versiones-1.png](https://i.postimg.cc/wBv32MqC/activar-el-controlador-de-versiones-1.png)
 
 Ahora se debe seleccionar el sistema de control a través de Git y, por último aceptar los cambios.
 
-![activar-el-controlador-de-versiones-2.png](/assets/img/chapter-vi/activar-el-controlador-de-versiones-2.png)
+![activar-el-controlador-de-versiones-2.png](https://i.postimg.cc/hjQvFY7M/activar-el-controlador-de-versiones-2.png)
 
 * **Aregar una cuenta de GitHub, siga estos pasos:**
   1. Diríjase a la sección de configuración en su aplicación.
@@ -169,23 +169,23 @@ Ahora se debe seleccionar el sistema de control a través de Git y, por último 
   3. En la configuración, busque la sección de version control.
   4. Agregue su cuenta de GitHub para obtener acceso a los repositorios.
 
-![aregar-una-cuenta-de-GitHub-1.png](/assets/img/chapter-vi/aregar-una-cuenta-de-GitHub-1.png)
+![aregar-una-cuenta-de-GitHub-1.png](https://i.postimg.cc/hv9Gv7sd/aregar-una-cuenta-de-Git-Hub-1.png)
 
-![aregar-una-cuenta-de-GitHub-2.png](/assets/img/chapter-vi/aregar-una-cuenta-de-GitHub-2.png)
+![aregar-una-cuenta-de-GitHub-2.png](https://i.postimg.cc/J0wnRQN8/aregar-una-cuenta-de-Git-Hub-2.png)
 
 * **Configurar el nombre de usuario de Git:** Una vez que hayas establecido el sistema de control de versiones que se vinculará con tu IDE, deberás ingresar la cuenta que utilizarás. Para hacerlo, sigue estos pasos:
   1. Realiza un commit en tu proyecto. Durante este proceso, se te solicitará que ingreses tu nombre de usuario de Git.
   2. Después de haberlo añadido, todos los cambios se guardarán en el repositorio especificado en esa plataforma, siempre y cuando des la orden correspondiente.
   3. Para configurar tu nombre de usuario de Git, primero selecciona la opción 'commit' que se encuentra dentro de la pestaña 'Git'.
 
-![configurar-el-nombre-de-usuario-de-Git-1.png](/assets/img/chapter-vi/configurar-el-nombre-de-usuario-de-Git-1.png)
+![configurar-el-nombre-de-usuario-de-Git-1.png](https://i.postimg.cc/HkLpDNq5/configurar-el-nombre-de-usuario-de-Git-1.png)
 
 
 * **Guardar el progreso en GitHub:** Con todo configurado en WebStorm, ahora puedes subir tu código a GitHub sin problemas. Simplemente dirígete a la opción 'GitHub' que se encuentra en la pestaña 'Git' y comparte el proyecto.
 
-![guardar-el-progreso-en-GitHub-1.png](/assets/img/chapter-vi/guardar-el-progreso-en-GitHub-1.png)
+![guardar-el-progreso-en-GitHub-1.png](https://i.postimg.cc/9fTKvtQZ/guardar-el-progreso-en-Git-Hub-1.png)
 
-![guardar-el-progreso-en-GitHub-2.png](/assets/img/chapter-vi/guardar-el-progreso-en-GitHub-2.png)
+![guardar-el-progreso-en-GitHub-2.png](https://i.postimg.cc/LXpwRYJ7/guardar-el-progreso-en-Git-Hub-2.png)
 
 * **Configurar la propiedad del repositorio en GitHub:** Ahora, solo necesitas configurar la ubicación del repositorio. El código ya debería estar guardado en GitHub, pero solo estará presente en tu propia cuenta. Para cambiar la propiedad y transferirla a la organización deseada, sigue estos pasos:
   1. Ingresa al repositorio creado en GitHub.
@@ -194,26 +194,26 @@ Ahora se debe seleccionar el sistema de control a través de Git y, por último 
   4. Luego da click en 'transfer'
   5. Finalmente elegimos el nuevo lugar para guardar el repositorio.
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-1.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-1.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-1.png](https://i.postimg.cc/Wzjv9Ymd/configurar-la-propiedad-del-repositorio-en-Git-Hub-1.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-2.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-2.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-2.png](https://i.postimg.cc/DwDKVwdk/configurar-la-propiedad-del-repositorio-en-Git-Hub-2.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-3.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-3.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-3.png](https://i.postimg.cc/cCmNP7TX/configurar-la-propiedad-del-repositorio-en-Git-Hub-3.png)
 
-![configurar-la-propiedad-del-repositorio-en-GitHub-4.png](/assets/img/chapter-vi/configurar-la-propiedad-del-repositorio-en-GitHub-4.png)
+![configurar-la-propiedad-del-repositorio-en-GitHub-4.png](https://i.postimg.cc/SNS4C5N5/configurar-la-propiedad-del-repositorio-en-Git-Hub-4.png)
 
 
 * **Configurar control remoto en Git:** Por último, dado que el repositorio ahora está bajo la propiedad de la empresa y depende de ella, es necesario acceder al control remoto del código. Para hacerlo, simplemente ingresa al repositorio creado y copia la URL del repositorio.
 
-![configurar-control-remoto-en-Git-1.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-1.png)
+![configurar-control-remoto-en-Git-1.png](https://i.postimg.cc/1XZ9k3S5/configurar-control-remoto-en-Git-1.png)
 
 Ahora, en el IDE, dirígete a la pestaña 'Git' y elige la opción 'Manage Remotes'.
 
-![configurar-control-remoto-en-Git-2.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-2.png)
+![configurar-control-remoto-en-Git-2.png](https://i.postimg.cc/YqRpP7sM/configurar-control-remoto-en-Git-2.png)
 
 Finalmente, como último paso, debes pegar el enlace copiado en el campo de dirección que solicita el IDE para el control remoto en Git.
 
-![configurar-control-remoto-en-Git-3.png](/assets/img/chapter-vi/configurar-control-remoto-en-Git-3.png)
+![configurar-control-remoto-en-Git-3.png](https://i.postimg.cc/SNkSVRVg/configurar-control-remoto-en-Git-3.png)
 
 Si has seguido correctamente todos los pasos y directrices mencionados, entonces has completado la configuración con éxito. Ahora, solo necesitas realizar un commit y los cambios que hayas efectuado se guardarán en el repositorio de GitHub, ya sea que hayas realizado modificaciones en el código, creado nuevas ramas u otras acciones.
 
@@ -535,17 +535,18 @@ Además, en TypeScript, se siguen las mismas convenciones que se utilizan en Jav
 
 Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos:
 
-
 **1. Configurar la rama que será usada para hacer deploy:**
 
-![rama-landing-page.png](/assets/img/chapter-vi/rama-landing-page.png)
+![rama-landing-page.png](https://i.postimg.cc/wM3VdgQZ/rama-landing-page.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 
 ### 6.2.1. Sprint 1
-En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación de la primera vesión del diseño de nuestra Landing Page, Web Application y Backend services utilizando WebStorm y Visual Studio Code como entornos de desarrollo. Esto implica que al concluir el Sprint 1, se habrán completado las tareas y objetivos establecidos para esta etapa inicial del proyecto.
+En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación de la primera vesión del diseño de nuestra Landing Page, Web Application y Backend services
+utilizando WebStorm y Visual Studio Code como entornos de desarrollo. Esto implica que al concluir el Sprint 1, se habrán completado las tareas y objetivos establecidos para esta etapa inicial del proyecto.
 #### 6.2.1.1. Sprint Planning 1.
-En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la elaboración de la primera versión de las soluciones de Upet. Se dividieron las secciones a programar entre los integrantes, además se determinó el plazo de entrega de estas tareas.
+En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la elaboración de la primera versión de las soluciones 
+de Upet. Se dividieron las secciones a programar entre los integrantes, además se determinó el plazo de entrega de estas tareas.
 
 <table>
   <thead>
@@ -556,7 +557,7 @@ En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la 
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" ><strong>Sprint Planning Background</strong></td>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Date</td>
@@ -576,16 +577,14 @@ En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la 
     </tr>
     <tr>
       <td style="text-align:center">Attendees</td>
-      <td style="text-align:center">
-      Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde
-      </td>
+      <td style="text-align:center">Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Goal</td>
-      <td style="text-align:center"> Implementar la primera versión  de la Landing Page, Web Application y Backend services </td>
+      <td style="text-align:center">Implementar la primera versión de la Landing Page, Web Application y Backend services.</td>
     </tr>
     <tr>
       <td style="text-align:center">Sprint 1 Velocity</td>
@@ -594,6 +593,15 @@ En el Sprint Planning 1, se llevó a cabo una sesión de planificación para la 
     <tr>
       <td style="text-align:center">Sum of Story Points</td>
       <td style="text-align:center">38</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Context:</strong> El objetivo para este sprint fue desarrollar la primera versión del aplicativo móvil, web y backend.<br>
+        <strong>Sprint Goal:</strong> Nuestro objetivo es ofrecer una experiencia satisfactoria para los usuarios, asegurando que puedan interactuar con las aplicaciones de manera eficiente y sin problemas. Creemos que esto aumentará la satisfacción del usuario y fomentará el uso continuo de nuestras plataformas.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -771,23 +779,23 @@ Para la entrega de este Sprint, se completó con éxito el despliegue de la Land
 
                                       LANDING PAGE
 
-![landing-picture](/assets/img/chapter-vi/landing-picture1.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture2.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture3.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture4.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture5.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture6.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture7.png)
-![landing-picture](/assets/img/chapter-vi/landing-picture8.png)
+![landing-picture](https://i.postimg.cc/bJpCW7Mf/landing-picture1.png)
+![landing-picture](https://i.postimg.cc/yYd5VzNV/landing-picture2.png)
+![landing-picture](https://i.postimg.cc/vmRSLgtB/landing-picture3.png)
+![landing-picture](https://i.postimg.cc/vmRSLgtB/landing-picture3.png)
+![landing-picture](https://i.postimg.cc/BQXhrchb/landing-picture5.png)
+![landing-picture](https://i.postimg.cc/pLjsTVMt/landing-picture6.png)
+![landing-picture](https://i.postimg.cc/3rLSfbFz/landing-picture7.png)
+![landing-picture](https://i.postimg.cc/zvMkz6dB/landing-picture8.png)
 
 
                                       BACKEND
 
-![backend-picture](/assets/img/chapter-vi/backend-picture1.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture2.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture3.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture4.png)
-![backend-picture](/assets/img/chapter-vi/backend-picture5.png)
+![backend-picture](https://i.postimg.cc/sfSxwtzg/backend-picture1.png)
+![backend-picture](https://i.postimg.cc/Mpspnw7d/backend-picture2.png)
+![backend-picture](https://i.postimg.cc/SKJN8PVq/backend-picture3.png)
+![backend-picture](https://i.postimg.cc/j5fx3JGF/backend-picture4.png)
+![backend-picture](https://i.postimg.cc/d0pQ99SC/backend-picture5.png)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -841,51 +849,853 @@ Durante el sprint 1, el equipo trabajo activamente en la implementación de la l
 
                                       App Web
 
-![contribution.png](/assets/img/chapter-vi/contribution.png)
+![contribution.png](https://i.postimg.cc/G2P0sJ0d/contribution.png)
 
                                       Mobile App
 
-![alt text](/assets/img/chapter-vi/contribution-app-mobile.png)
+![alt text](https://i.postimg.cc/Znj1wbKQ/contribution-app-mobile.png)
 
                                       Backend
-![alt text](/assets/img/chapter-vi/contribution-backend.png)
+![alt text](https://i.postimg.cc/2jwRkwFx/contribution-backend.png)
 
                                       Report
 
-![alt text](/assets/img/chapter-vi/contribution2.png)
+![alt text](https://i.postimg.cc/kG70N698/contribution2.png)
+
+### 6.2.2. Sprint 2
+
+#### 6.2.1.1. Sprint Planning 2.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Sprint #</th>
+      <th style="text-align:center">Sprint 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Date</td>
+      <td style="text-align:center">27-10-2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Time</td>
+      <td style="text-align:center">08:00 pm</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Location</td>
+      <td style="text-align:center">Google Meet</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Prepared By</td>
+      <td style="text-align:center">Enzo Trujillo</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Attendees</td>
+      <td style="text-align:center">Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 2 Review Summary</td>
+      <td style="text-align:center">Se realizó casi completamente la aplicación móvil e igualmente la aplicación web. Para el backend, se completó todos los endpoints.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 2 Retrospective Summary</td>
+      <td style="text-align:center">La comunicación del equipo se complementó mediante el grupo de Whatsapp y reuniones presenciales. Además, el equipo se mostró más proactivo.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 2 Goal</td>
+      <td style="text-align:center">Completar la aplicación móvil y web en un 90%. Wokwi y backend en un 100%.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 2 Velocity</td>
+      <td style="text-align:center">Se aceptarán 24 story points.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sum of Story Points</td>
+      <td style="text-align:center">2 + 2 + 3 + 3 + 2 + 2 + 2 + 3 + 2 + 3 = 24</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Context:</strong> El objetivo para este sprint fue crear los apartados para el aplicativo IoT.<br>
+        <strong>Sprint Goal:</strong> Nuestro objetivo es ofrecer una experiencia personalizada para cada mascota de tal forma que el dueño pueda monitorizar a esas mascotas en tiempo real. Creemos que esto proporcionará un acceso rápido y eficiente a la información relevante de cada mascota.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### 6.2.1.2. Sprint Backlog 2.
+
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-006</td>
+    <td rowspan="2">Subir foto de la mascota</td>
+    <td>TA01</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>1</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+   <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-007</td>
+    <td rowspan="2">Ver listado de mis mascotas</td>
+    <td>TA03</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Randy  </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA04</td>
+     <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 3</td>
+    <td>Joseph Herrera </td>
+    <td> Done  </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-010</td>
+    <td rowspan="2">Agendar una cita</td>
+    <td>TA05</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>5</td>
+    <td>Enzo Trujillo </td>
+    <td> Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+  <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 5</td>
+    <td>Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-012</td>
+    <td rowspan="2">Acceso de la veterinaria a la información de la mascota</td>
+    <td>TA07</td>
+    <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA08</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-014</td>
+    <td rowspan="2">Ver historial de citas</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>3</td>
+    <td>Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td>3</td>
+    <td>Daniel Valverde </td>
+    <td> Done </td>
+  </tr>
+ <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-020</td>
+    <td rowspan="2">Registrar vacunas</td>
+    <td>TA11</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>1</td>
+    <td>Daniel Valverde </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA12</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Enzo Trujillo </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-021</td>
+    <td rowspan="2">Registrar resultados</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Enzo Trujillo </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td>Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-022</td>
+    <td rowspan="2">Registrar cirugías</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Joseph Herrera </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Joseph Herrera </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-023</td>
+    <td rowspan="2">Registrar enfermedades</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>2</td>
+    <td>Randy </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 2</td>
+    <td> Randy </td>
+    <td> Done </td>
+  </tr>
+<!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks (2)" -->
+    <td rowspan="2">US-024</td>
+    <td rowspan="2">Visualizar resumen del historial médico</td>
+    <td>TA09</td>
+   <td> Visualización </td>
+    <td>Desarrollo de la interfaz con html css </td>
+    <td>4</td>
+    <td> Juliana Yauricasa </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Lógica</td>
+    <td> Desarrollar las conexiones con los servicios del backend</td>
+    <td> 4</td>
+    <td> Juliana Yauricasa </td>
+    <td> Done </td>
+  </tr>
+</table>
+
+#### 6.2.1.3. Development Evidence for Sprint Review.
+
+En la siguientes tablas se muestran el historial de commits realizados durante el Sprint 2 en el repositorio relacionado al proyecto del dispositivo embebido en wokwi y su primera versión. Además de los repositorios de la aplicación web y móvil.
+
+**Wokwi**
+
+| Repository                                   | Branch | Commit Id                                | Commit Message                             | Committed on (Date) |
+|----------------------------------------------|--------|------------------------------------------|--------------------------------------------|---------------------|
+| https://github.com/SW71-devpaw/wokwi-project | master | 64711adb48597cb59745930598cb5a60790f24d1 | inital commit                              | 27/10/2024          |
+|                                              | master | e8d3b40c25a117679fd63b545da8305944bab4ac | feat: add libraries                        | 27/10/2024          |
+|                                              | master | 55c174d2102b6cd994dbfa46d4afb3652f0512ee | feat: add Wi-Fi connection                 | 27/10/2024          |
+|                                              | master | d93e66be2ee2d39c1a64b819c6a87f5623cecbae | feat: add temperature sensor configuration | 27/10/2024          |
+|                                              | master | c10d0cb8808a00f6ac1b23d18ad291277d469ca8 | feat: add location configuration           | 27/10/2024          |
+
+**Web application**
+
+| Repository                                        | Branch            | Commit Id                                | Commit Message                               | Committed on (Date) |
+|---------------------------------------------------|-------------------|------------------------------------------|----------------------------------------------|---------------------|
+| https://github.com/SW71-devpaw/upet-frontend-web/ | main              | bd084ae7a64af51d5d9736f8ed7f63b6fd1caf59 | inital commit                                | 18/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 0fe1b1d3c18cce3d9284fc27d13bf6f6f636c41e | feat: section best specialists nearby were added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 7d17018f6752fdd8efbb2ce793704a9e14e31063 | feat: banner was added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-home-view              | 9c0014dacaa5940bd708d2a3b328506315623259 | feat: cards for pets and form for update or add pet were added                                         | 24/09/2024          |
+|                                                   | feature/pet-owner-pets-view              | 65056dbc727b463387c80f9cdee909851a3ad903 | feat: profile for pets were added with all of the information about their medics histories                                         | 23/10/2024          |
+|                                                   | feature/pet-owner-pets-view              | 6c352e1be111c13e90588e4f00d690c7fb603ecb | feat: badges from profile pet were updated                                         | 23/10/2024          |
+|                                                   | feature/pet-owner-clinics-view              | 54bc869c715975e224b00ec0a861923e54b01411 | feat: forms for appointment and review were added                                         | 18/09/2024          |
+|                                                   | feature/pet-owner-appointments              | cbc67dba309fcb3df44b9283ab9344f10434bff5 | feat: section appointments was added with its cards                                         | 31/10/2024          |
+|                                                   | feature/pet-owner-appointments              | f76e6fc54ed7e492f2e5df1b1899cf0f8060b472 | feat: dialog for appointment details was added                                         | 31/10/2024          |
+|                                                   | feature/auth              | 2c5c03deada44cd6b5a2e63cec98c8dcc019fcf1 | feat: add token and flow validation                                         | 29/10/2024          |
+|                                                   | release/v1.0.0              | c251a5c31447f5bb61a05f122c379b523647cd40 | feat: configuration to deploy was changed                                         | 02/11/2024          |
+
+
+**Mobile application**
+
+| Repository                                        | Branch                  | Commit Id                                | Commit Message                                                            | Committed on (Date)  |
+|---------------------------------------------------|-------------------------|------------------------------------------|---------------------------------------------------------------------------|----------------------|
+| https://github.com/SW71-devpaw/MobileApp-Upet     | main                    | 749b1f2e0b5ae64d48cdb89e88cd95590bf6eb0f | first commit                                                              | 20/10/2024           |
+|                                                   | feature/auth            | fa261d293e3ef7c03308c181935e6ce1fedba0e7 | feat(auth): implemented auth feature.                                     | 21/10/2024           |
+|                                                   | feature/pet-owner       | 1f0795a5be578d79866190b0818d7f3bccb98db6 | feat(pet-owner): implemented pet owner feature.                           | 22/10/2024           |
+|                                                   | feature/vet             | 490ebffd97f325d9b0a7e62edf3af0f30641ed77 | feat(vet): implemented vet feature.                                       | 22/10/2024           |
+|                                                   | feature/pet             | 5386fc3a43eeb647a324f858053cef507138f99e | feat(pet): implemented pet feature.                                       | 23/10/2024           |
+|                                                   | feature/vet-clinic      | d1cbcfd7eeeaf5a4bcf4873a16f867063187f2f9 | feat(vet-clinic): implemented vet clinic feature.                         | 23/10/2024           |
+|                                                   | feature/appointment     | 7bc48b2fc7abb06a70ed399df10eb2bccea0e62c | feat(appointment): implemented appointment feature.                       | 23/10/2024           |
+|                                                   | feature/medical-history | 4ea300a0bc8f4565f402789f6797de1fd7fc5cca | feat(medical-history): implemented medical history feature.               | 23/10/2024           |
+|                                                   | feature/review          | ddc42b3e25ed6d7e47914aa43e0bcbd19c2bbc7a | feat(review): implemented review feature.                                 | 23/10/2024           |
+|                                                   | feature/notification    | 4e14ba02dfef5e06792cbb1e59343a5f1c3a7692 | feat(notification): implemented notification feature.                     | 23/10/2024           |
+|                                                   | feature/release         | aa25531795aa5b5d6072da35eeea022511e5f6ab | feat(release): implemented subscription feature and upgrade clinics view. | 27/10/2024           |
+|                                                   | feature/release         | 7c7e64287d8161d0104711187b0505e8a3bec06e | feat(release): implemented tracked design and upgrade views.              | 28/10/2024           |
+|                                                   | feature/release         | c34b33378cc04282b04861ec2226c49026637c5b | feat(release): fixed design and upgrade views.                            | 01/11/2024           |
+
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+
+| Repository                                               | Branch                  | Commit Id                                | Commit Message            | Committed on (Date)  |
+|----------------------------------------------------------|-------------------------|------------------------------------------|---------------------------|----------------------|
+| https://github.com/SW71-devpaw/Sprint2-AcceptanceTests-  | main                    | 03d8e9eaf8c0560f5b2770fed6133d3bb957d78b | initial commit            | 02/11/2024           |
+|                                                          | testing                 | 4b92e38297fa14aee67df8f6ce858353c7349ceb | docs: added US006 feature | 02/11/2024           |
+|                                                          | testing                 | 87469dee559b17d82fdc7cf1e9c91c36981a2e02 | docs: added US007 feature | 02/11/2024           |
+|                                                          | testing                 | 3937c140ecfe513a94f7a83316d087ac90c0b73f | docs: added US010 feature | 02/11/2024           |
+|                                                          | testing                 | b647af80078ac581448222f49f5aa32cd41ce098 | docs: added US012 feature | 02/11/2024           |
+|                                                          | testing                 | 9556ec7119e062ced60c8167b103eadba5074c80 | docs: added US014 feature | 02/11/2024           |
+|                                                          | testing                 | 42d22a1996d5803b2d3253f6c9890758ed8dcf3b | docs: added US020 feature | 02/11/2024           |
+|                                                          | testing                 | 60d2f1967b76aabf137449e5c98379d307ce5fde | docs: added US021 feature | 02/11/2024           |
+|                                                          | testing                 | 6e6c7c8a17b79bd55d89663fc578ec3d3d483415 | docs: added US022 feature | 02/11/2024           |
+|                                                          | testing                 | c3c97392b087aabb9976f39eab290782275b194a | docs: added US023 feature | 02/11/2024           |
+|                                                          | testing                 | 9d98dee0597393f71fbd3ad434ba7f61d62a58a8 | docs: added US024 feature | 02/11/2024           |
+
+#### 6.2.1.5. Execution Evidence for Sprint Review.
+
+A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
+
+**Wokwi**
+
+- Dispositivo ESP32 y sensor de temperatura
+
+ ![Dispositivo Esp32](https://i.ibb.co/J7NPZWw/disp-sensor.png)
+
+- Muestra de datos de temperatura y ubicación en la consola
+
+![Datos en consola](https://i.ibb.co/LvYBjzh/captura-data-envio.png)
+
+- Recepción de datos en los endpoints correspodientes
+
+![endpoint temperatura](https://i.ibb.co/qrnYrWR/resp-200-temp.png)
+![endpoint ubicación](https://i.ibb.co/nnvGVdn/resp-200-location.png)
+
+**Web application**
+
+<img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/3xXwZkWz/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
+
+<img src="https://i.postimg.cc/g0LZdz0D/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Znbn94JX/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/gJYmss1Z/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/kXkCzqk9/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ZRCZXnKb/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/NfhYPght/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/HksN6KLH/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ZKj7vcxQ/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Y2z8T3ZS/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/ht60V3z2/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/GttB7d6G/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/Jn4t0Rrv/image.png" alt="" height="500"/>
+<img src="" alt="" height="500"/>
+
+**Mobile application**
+
+<a href="https://ibb.co/zZZ8wYP"><img src="https://i.ibb.co/GRRsjLC/register.png" alt="register" height="400" border="0"></a>
+<a href="https://ibb.co/2sjn3ZH"><img src="https://i.ibb.co/MGR2kBQ/login.png" alt="login" height="400" border="0"></a>
+<a href="https://ibb.co/C78fPBc"><img src="https://i.ibb.co/QNQ4D9g/forgot-Password.png" alt="forgot-Password" height="400" border="0"></a>
+<a href="https://ibb.co/BrSTTKM"><img src="https://i.ibb.co/jW133ZX/check-Email.png" alt="check-Email" height="400" border="0"></a>
+<a href="https://ibb.co/FwS6TGQ"><img src="https://i.ibb.co/T8Vc3zQ/set-Password.png" alt="set-Password" height="400" border="0"></a>
+
+<a href="https://ibb.co/wYKXVBp"><img src="https://i.ibb.co/4JjGzK4/home-Owner.png" alt="home-Owner" height="400" border="0"></a>
+<a href="https://ibb.co/YPyDMKq"><img src="https://i.ibb.co/vVQsGrK/profile.png" alt="profile" height="400" border="0"></a>
+<a href="https://ibb.co/JqkXcp0"><img src="https://i.ibb.co/YXjvNdY/addPet.png" alt="addPet" height="400" border="0"></a>
+<a href="https://ibb.co/tQXq1r4"><img src="https://i.ibb.co/Xj87GRb/listPets.png" alt="listPets" height="400" border="0"></a>
+<a href="https://ibb.co/T4BGLDw"><img src="https://i.ibb.co/jyvYR98/pet-Information.png" alt="pet-Information" height="400" border="0"></a>
+<a href="https://ibb.co/x740TPj"><img src="https://i.ibb.co/pLm8FGz/editPet.png" alt="editPet" height="400" border="0"></a>
+<a href="https://ibb.co/L1b0CVP"><img src="https://i.ibb.co/BBdfg0P/list-Clinic.png" alt="list-Clinic" height="400" border="0"></a>
+<a href="https://ibb.co/VNf8DTp"><img src="https://i.ibb.co/GJzjkR3/cercanas-Clinics.png" alt="cercanas-Clinics" height="400" border="0"></a>
+<a href="https://ibb.co/ZKHht3x"><img src="https://i.ibb.co/pZW3Ggd/clinic-Information.png" alt="clinic-Information" height="400" border="0"></a>
+<a href="https://ibb.co/DWxkbvN"><img src="https://i.ibb.co/GpKkJ8X/vet-Information.png" alt="vet-Information" height="400" border="0"></a>
+<a href="https://ibb.co/GdH3ngx"><img src="https://i.ibb.co/yN4BdLf/book-Appointment.png" alt="book-Appointment" height="400" border="0"></a>
+<a href="https://ibb.co/NKT2qSJ"><img src="https://i.ibb.co/bXb5VJC/appointment-Pet-Detail.png" alt="appointment-Pet-Detail" height="400" border="0"></a>
+<a href="https://ibb.co/gwVXB77"><img src="https://i.ibb.co/1K6pwnn/appointment-Registered.png" alt="appointment-Registered" height="400" border="0"></a>
+<a href="https://ibb.co/4dXjb7D"><img src="https://i.ibb.co/3zj0x78/appointment-Detail.png" alt="appointment-Detail" height="400" border="0"></a>
+<a href="https://ibb.co/JzKGC7z"><img src="https://i.ibb.co/NLsJ7jL/list-Appointments.png" alt="list-Appointments" height="400" border="0"></a>
+
+<a href="https://ibb.co/Qf6PKcj"><img src="https://i.ibb.co/6m4HWZJ/homeVet.png" alt="homeVet" height="400" border="0"></a>
+<a href="https://ibb.co/tYm8Bvf"><img src="https://i.ibb.co/ssmyjNS/vet-Profile.png" alt="vet-Profile" height="400" border="0"></a>
+<a href="https://ibb.co/SmT95Lg"><img src="https://i.ibb.co/z2c0Qkg/generate-Password.png" alt="generate-Password" height="400" border="0"></a>
+<a href="https://ibb.co/ZJ0sz5s"><img src="https://i.ibb.co/fSsRdfR/appointment-Detail-Vet.png" alt="appointment-Detail-Vet" height="400" border="0"></a>
+<a href="https://ibb.co/yy2BPwf"><img src="https://i.ibb.co/tsRPK7m/add-Report.png" alt="add-Report" height="400" border="0"></a>
+<a href="https://ibb.co/1RB0N89"><img src="https://i.ibb.co/sscg4yF/medical-Information.png" alt="medical-Information" height="400" border="0"></a>
+<a href="https://ibb.co/s2j7vT1"><img src="https://i.ibb.co/t4BRM02/review.png" alt="review" height="400" border="0"></a>
+
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especificar las rutas y funcionalidades de la API que permitirán la comunicación e intercambio de datos entre el frontend y el backend de la aplicación web y móvil. Además de documentar estos endpoints, el equipo realizó confirmaciones (commits) en los repositorios del proyecto para registrar los cambios y avances realizados en el código fuente. A continuación, se muestra los endpoints documentados y los commits:
+
+**Wokwi**
+
+Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
+
+<a href="https://ibb.co/TWhyLXC"><img src="https://i.ibb.co/kmcZ1nd/wokwi-Commits.png" alt="wokwi-Commits" border="0"></a>
+
+**Web application**
+
+Repositorio Web Application: https://github.com/SW71-devpaw/upet-frontend-web
+
+<a href="https://ibb.co/HX9pyV1"><img src="https://i.ibb.co/PtVzyN3/web-Commits.png" alt="web-Commits" border="0"></a>
+<a href="https://ibb.co/Z2TXqkG"><img src="https://i.ibb.co/QDmQy1p/web-Commits2.png" alt="web-Commits2" border="0"></a>
+<a href="https://ibb.co/YdCsVZn"><img src="https://i.ibb.co/1XgW46y/web-Commits3.png" alt="web-Commits3" border="0"></a>
+<a href="https://ibb.co/7XC4kMT"><img src="https://i.ibb.co/qdj5Jq4/web-Commits4.png" alt="web-Commits4" border="0"></a>
+<a href="https://ibb.co/McwD5Y9"><img src="https://i.ibb.co/wSGNr9Y/web-Commits5.png" alt="web-Commits5" border="0"></a>
+<a href="https://ibb.co/3SNKSYh"><img src="https://i.ibb.co/XFsHFkJ/web-Commits6.png" alt="web-Commits6" border="0"></a>
+
+**Mobile application**
+
+Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
+
+<a href="https://ibb.co/dD1FqF1"><img src="https://i.ibb.co/bXqTZTq/mobile-Commits.png" alt="mobile-Commits" border="0"></a>
+<a href="https://ibb.co/mNy5JJF"><img src="https://i.ibb.co/8YxgMM4/mobile-Commits2.png" alt="mobile-Commits2" border="0"></a>
+<a href="https://ibb.co/vY9xFS8"><img src="https://i.ibb.co/SrSXjzp/mobile-Commits3.png" alt="mobile-Commits3" border="0"></a>
+
+**Endpoint Documentados**
+
+| Endpoint               | Verbo HTTP | Parámetros         | Ejemplo de Llamada                                            |
+|------------------------|------------|--------------------|---------------------------------------------------------------|
+| **Auth**               | POST       | -                  | `/api/v1/auth/sign-up`                                        |
+|                        | POST       | -                  | `/api/v1/auth/sign-in`                                        |
+| **Users**              | GET        | -                  | `/api/v1/users`                                               |
+|                        | GET        | user_id            | `/api/v1/users/{user_id}`                                     |
+|                        | PUT        | role_id            | `/api/v1/users/{role_id}`                                     |
+| **Veterinary Clinics** | GET        | -                  | `/api/v1/veterinary_clinics`                                  |
+|                        | POST       | -                  | `/api/v1/veterinary_clinics`                                  |
+| **Pets**               | POST       | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | -                  | `/api/v1/pets`                                                |
+| **Appointments**       | GET        | -                  | `/api/v1/appointments`                                        |
+|                        | POST       | -                  | `/api/v1/appointments`                                        |
+|                        | GET        | pet_id             | `/api/v1/appointments/pet/{pet_id}`                           |
+|                        | GET        | veterinarian_id    | `/api/v1/appointments/veterinarian/{veterinarian_id}`         |
+| **Notifications**      | GET        | -                  | `/api/v1/notifications`                                       |
+|                        | POST       | -                  | `/api/v1/notifications`                                       |
+|                        | GET        | petowner_id        | `/api/v1/notifications/petowner/{petowner_id}`                |
+| **Medical Historys**   | GET        | -                  | `/api/v1/medical_historys`                                    |
+|                        | POST       | -                  | `/api/v1/medical_historys`                                    |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/diseases/`     |
+|                        | POST       | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistory_id}`                |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/vaccinations/` |
+|                        | PUT        | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistoryId}`                 |
+| **Pet Owners**         | POST       | user_id            | `/api/v1/users/petowner/{user_id}`                            |
+|                        | GET        | -                  | `/api/v1/users/petowner`                                      |
+| **Veterinarians**      | POST       | user_id            | `/api/v1/users/veterinarians/{user_id}`                       |
+|                        | GET        | -                  | `/api/v1/users/veterinarians`                                 |
+| **Diseases**           | GET        | -                  | `/api/v1/diseases`                                            |
+|                        | POST       | -                  | `/api/v1/diseases`                                            |
+| **Vaccinations**       | GET        | -                  | `/api/v1/vaccinations`                                        |
+|                        | POST       | -                  | `/api/v1/vaccinations`                                        |
+| **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
+|                        | POST       | -                  | `/api/v1/reviews`                                             |
+
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El equipo aprovechó las capacidades de Github como sistema de control de versiones y plataforma de colaboración. Dentro de la organización en Github, se estableció un repositorio dedicado para cada uno de los productos desarrollados, es decir, un repositorio para la aplicación móvil, otro para la aplicación web, uno más para el Wokwi y un cuarto para el backend. Esta separación facilitó la gestión y el seguimiento del código fuente de manera organizada. En cuanto al despliegue del backend, se utilizó el servicio de Render y para la base de datos en MySQL esta desplegado en Railway, lo que permitió su publicación y acceso a los endpoints.
+
+**Backend**
+
+Backend desplegado: https://upetbackendapi.onrender.com/docs#/
+
+<a href="https://ibb.co/c1XYdZC"><img src="https://i.ibb.co/0cVs36F/backend.png" alt="backend" border="0"></a>
+<a href="https://ibb.co/h7LjBtv"><img src="https://i.ibb.co/yfd16bJ/backend1.png" alt="backend1" border="0"></a>
+<a href="https://ibb.co/0JPzMhM"><img src="https://i.ibb.co/QmsxNrN/backend2.png" alt="backend2" border="0"></a>
+<a href="https://ibb.co/HpgrqKF"><img src="https://i.ibb.co/LhpC10k/backend3.png" alt="backend3" border="0"></a>
+<a href="https://ibb.co/tPY4c0h"><img src="https://i.ibb.co/WpB6Fr3/backend4.png" alt="backend4" border="0"></a>
+<a href="https://ibb.co/pdFJNTM"><img src="https://i.ibb.co/1TW8BNP/backend5.png" alt="backend5" border="0"></a>
+
+**Web Application**
+
+Web Application desplegado: https://devpaw-upet.web.app/auth/login
+
+<img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
+
+#### 6.2.1.8. Team Collaboration Insights during Sprint.
+
+En el transcurso del sprint 2, el equipo se enfocó en el desarrollo de la aplicación móvil desarrollada en Android Studio y la aplicación web desarrollada con Angular. Para coordinar el trabajo de manera eficiente, se implementó la metodología Gitflow, lo que permitió la participación simultánea de todos los miembros del equipo. Además, durante este período, se realizaron correcciones y mejoras al backend existente.
+
+**Wokwi**
+
+Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
+
+<a href="https://ibb.co/tB0CR0x"><img src="https://i.ibb.co/nrXkpXn/wokwi-Network.png" alt="wokwi-Network" border="0"></a>
+<a href="https://ibb.co/L5XQ2cL"><img src="https://i.ibb.co/M6x83tY/wokwi-Pulse.png" alt="wokwi-Pulse" border="0"></a>
+
+**Web application**
+
+Repositorio Web Application: https://github.com/SW71-devpaw/upet-frontend-web
+
+<a href="https://ibb.co/4K8zpGN"><img src="https://i.ibb.co/gmSNJpg/web-Network.png" alt="web-Network" border="0"></a>
+<a href="https://ibb.co/x3W0KRd"><img src="https://i.ibb.co/g6NpbBh/web-Network2.png" alt="web-Network2" border="0"></a>
+<a href="https://ibb.co/DQhfj21"><img src="https://i.ibb.co/vkp4Mnc/webPulse.png" alt="webPulse" border="0"></a>
+
+**Mobile application**
+
+Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
+
+<a href="https://ibb.co/mCLhS2z"><img src="https://i.ibb.co/Y7zfb1j/mobile-Network.png" alt="mobile-Network" border="0"></a>
+<a href="https://ibb.co/kQmYhsG"><img src="https://i.ibb.co/V2wXvcL/mobile-Pulse.png" alt="mobile-Pulse" border="0"></a>
+
+#### 6.2.3. Sprint 3
+
+#### 6.2.3.1. Sprint Planning 3
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Sprint #</th>
+      <th style="text-align:center">Sprint 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Date</td>
+      <td style="text-align:center">07-11-2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Time</td>
+      <td style="text-align:center">08:00 pm</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Location</td>
+      <td style="text-align:center">Google Meet</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Prepared By</td>
+      <td style="text-align:center">Enzo Trujillo</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Attendees</td>
+      <td style="text-align:center">Enzo Trujillo, Randy, Juliana Yauricasa, Joseph Herrera y Daniel Valverde</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 3 Review Summary</td>
+      <td style="text-align:center">Se realizó  completamente la aplicación móvil e igualmente la aplicación web. Para el backend, se completó todos los endpoints.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 3 Retrospective Summary</td>
+      <td style="text-align:center">La comunicación del equipo se complementó mediante el grupo de Whatsapp y reuniones presenciales. Además, el equipo se mostró más proactivo.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 3 Goal</td>
+      <td style="text-align:center">Completar la aplicación móvil y web en un 100%. Wokwi y backend en un 100%.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 3 Velocity</td>
+      <td style="text-align:center">Se aceptarán -- story points.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sum of Story Points</td>
+      <td style="text-align:center">----------</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Context:</strong> El objetivo para este sprint fue culminar con nuestra aplicación weby móvil.<br>
+        <strong>Sprint Goal:</strong> Nuestro objetivo es ofrecer una experiencia personalizada para cada mascota de tal forma que el dueño pueda monitorizar a esas mascotas en tiempo real. Creemos que esto proporcionará un acceso rápido y eficiente a la información relevante de cada mascota.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 6.2.3.2. Sprint Backlog 3
+
+#### 6.2.3.3. Development Evidence for Sprint 3
+
+En la siguientes tablas se muestran el historial de commits realizados durante el Sprint 3
+
+**Wokwi**
+
+| Repository                                   | Branch | Commit Id                                | Commit Message               | Committed on (Date) |
+|----------------------------------------------|--------|------------------------------------------|------------------------------|---------------------|
+| https://github.com/SW71-devpaw/upet-temporal | main   | 56af416419b743e211530813b14356b6c5f51600 | first commit                 | 17/11/2024          |
+|                                              | main   | 9cf5da48cdd753429bb05b5a999f96248fc92125 | feat: add temperature sensor | 17/11/2024          |
+|                                              | main   | 55c174d2102b6cd994dbfa46d4afb3652f0512ee | feat: add lpm sensor         | 17/11/2024          |
+|                                              | main   | d93e66be2ee2d39c1a64b819c6a87f5623cecbae | feat: add gps sensor         | 17/11/2024          |
+
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint 3
+
+#### 6.2.3.5. Execution Evidence for Sprint 3
+
+A continuación se muestra la ejecución del proyecto relacionado a las aplicaciones web y móvil. Además, de el dispositivo embebido en Wokwi.
+
+**Wokwi**
+
+- Dispositivo ESP32 y sensores de temperatura, latidos por minuto y gps
+
+ ![Dispositivo Esp32](https://i.ibb.co/tPhB80Y/iot-1.png)
+
+- Muestra de datos de temperatura, latidos por minuto y ubicación en la consola
+- 
+![datos en consola](https://i.ibb.co/5xLJdGX/iot-2.png)
+
+
+- Recepción de datos en los endpoints correspodientes
+- 
+![recepcion de datos](https://i.ibb.co/LrCR30V/iot-3.png)
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint 3
+
+Se documentaron endpoints esenciales para UPet. Esto implicó detallar y especificar las rutas y funcionalidades de la API que permitirán la comunicación e intercambio de datos entre el frontend y el backend de la aplicación web y móvil. Además de documentar estos endpoints, el equipo realizó confirmaciones (commits) en los repositorios del proyecto para registrar los cambios y avances realizados en el código fuente. A continuación, se muestra los endpoints documentados y los commits:
+
+**Wokwi**
+
+Repositorio Wokwi: https://github.com/SW71-devpaw/wokwi-project
+
+<a href="https://ibb.co/TWhyLXC"><img src="https://i.ibb.co/kmcZ1nd/wokwi-Commits.png" alt="wokwi-Commits" border="0"></a>
+
+**Web application**
+
+Repositorio Web Application: https://github.com/SW71-devpaw/upet-frontend-web
+
+<a href="https://ibb.co/HX9pyV1"><img src="https://i.ibb.co/PtVzyN3/web-Commits.png" alt="web-Commits" border="0"></a>
+<a href="https://ibb.co/Z2TXqkG"><img src="https://i.ibb.co/QDmQy1p/web-Commits2.png" alt="web-Commits2" border="0"></a>
+<a href="https://ibb.co/YdCsVZn"><img src="https://i.ibb.co/1XgW46y/web-Commits3.png" alt="web-Commits3" border="0"></a>
+<a href="https://ibb.co/7XC4kMT"><img src="https://i.ibb.co/qdj5Jq4/web-Commits4.png" alt="web-Commits4" border="0"></a>
+<a href="https://ibb.co/McwD5Y9"><img src="https://i.ibb.co/wSGNr9Y/web-Commits5.png" alt="web-Commits5" border="0"></a>
+<a href="https://ibb.co/3SNKSYh"><img src="https://i.ibb.co/XFsHFkJ/web-Commits6.png" alt="web-Commits6" border="0"></a>
+
+**Mobile application**
+
+Repositorio Mobile Application: https://github.com/SW71-devpaw/MobileApp-Upet
+
+<a href="https://ibb.co/dD1FqF1"><img src="https://i.ibb.co/bXqTZTq/mobile-Commits.png" alt="mobile-Commits" border="0"></a>
+<a href="https://ibb.co/mNy5JJF"><img src="https://i.ibb.co/8YxgMM4/mobile-Commits2.png" alt="mobile-Commits2" border="0"></a>
+<a href="https://ibb.co/vY9xFS8"><img src="https://i.ibb.co/SrSXjzp/mobile-Commits3.png" alt="mobile-Commits3" border="0"></a>
+
+**Endpoint Documentados**
+
+| Endpoint               | Verbo HTTP | Parámetros         | Ejemplo de Llamada                                            |
+|------------------------|------------|--------------------|---------------------------------------------------------------|
+| **Auth**               | POST       | -                  | `/api/v1/auth/sign-up`                                        |
+|                        | POST       | -                  | `/api/v1/auth/sign-in`                                        |
+| **Users**              | GET        | -                  | `/api/v1/users`                                               |
+|                        | GET        | user_id            | `/api/v1/users/{user_id}`                                     |
+|                        | PUT        | role_id            | `/api/v1/users/{role_id}`                                     |
+| **Veterinary Clinics** | GET        | -                  | `/api/v1/veterinary_clinics`                                  |
+|                        | POST       | -                  | `/api/v1/veterinary_clinics`                                  |
+| **Pets**               | POST       | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | petowner_id        | `/api/v1/pets/{petowner_id}`                                  |
+|                        | GET        | -                  | `/api/v1/pets`                                                |
+| **Appointments**       | GET        | -                  | `/api/v1/appointments`                                        |
+|                        | POST       | -                  | `/api/v1/appointments`                                        |
+|                        | GET        | pet_id             | `/api/v1/appointments/pet/{pet_id}`                           |
+|                        | GET        | veterinarian_id    | `/api/v1/appointments/veterinarian/{veterinarian_id}`         |
+| **Notifications**      | GET        | -                  | `/api/v1/notifications`                                       |
+|                        | POST       | -                  | `/api/v1/notifications`                                       |
+|                        | GET        | petowner_id        | `/api/v1/notifications/petowner/{petowner_id}`                |
+| **Medical Historys**   | GET        | -                  | `/api/v1/medical_historys`                                    |
+|                        | POST       | -                  | `/api/v1/medical_historys`                                    |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/diseases/`     |
+|                        | POST       | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistory_id}`                |
+|                        | GET        | medical_history_id | `/api/v1/medical_historys/{medical_history_id}/vaccinations/` |
+|                        | PUT        | medicalHistory_id  | `/api/v1/medical_historys/{medicalHistoryId}`                 |
+| **Pet Owners**         | POST       | user_id            | `/api/v1/users/petowner/{user_id}`                            |
+|                        | GET        | -                  | `/api/v1/users/petowner`                                      |
+| **Veterinarians**      | POST       | user_id            | `/api/v1/users/veterinarians/{user_id}`                       |
+|                        | GET        | -                  | `/api/v1/users/veterinarians`                                 |
+| **Diseases**           | GET        | -                  | `/api/v1/diseases`                                            |
+|                        | POST       | -                  | `/api/v1/diseases`                                            |
+| **Vaccinations**       | GET        | -                  | `/api/v1/vaccinations`                                        |
+|                        | POST       | -                  | `/api/v1/vaccinations`                                        |
+| **Reviews**            | GET        | -                  | `/api/v1/reviews`                                             |
+|                        | POST       | -                  | `/api/v1/reviews`                                             |
+| **SmartCollar**            | GET        | -                  | `/api/v1/smart-collarsreviews`                                             |
+|                        | POST       | -                  | `/api/v1/add_smart_collarreviews`           
+|                        | DELETE       | -                  | `/api/v1/delete_smart_collar/{collar_id}`                                       |
+|                        | PUT       | -                  | `/api/v1/change_pet_association/{collar_id}/{new_pet_id}`|
+|                        | PUT       | -                  | `/api/v1/smart-collars/{collar_id}`|
+|                        | GET       | -                  | `/api/v1/smart-collars/{collar_id}`|
+|                        | POST       | -                  | `/api/v1/smart-collars/{collar_id}`|
+|                        | GET       | -                  | `/api/v1/smart-collars/pet/{pet_id}`|
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint 3
+
+El equipo aprovechó las capacidades de Github como sistema de control de versiones y plataforma de colaboración. Dentro de la organización en Github, se estableció un repositorio dedicado para cada uno de los productos desarrollados, es decir, un repositorio para la aplicación móvil, otro para la aplicación web, uno más para el Wokwi y un cuarto para el backend. Esta separación facilitó la gestión y el seguimiento del código fuente de manera organizada. En cuanto al despliegue del backend, se utilizó el servicio de Render y para la base de datos en MySQL esta desplegado en Railway, lo que permitió su publicación y acceso a los endpoints.
+
+**Backend**
+
+Backend desplegado: https://upetbackendapi.onrender.com/docs#/
+
+<a href="https://ibb.co/c1XYdZC"><img src="https://i.postimg.cc/JnsggbfS/image.png" alt="backend" border="0"></a>
+<a href="https://ibb.co/h7LjBtv"><img src="https://i.postimg.cc/B6RyGjsb/image.png" alt="backend1" border="0"></a>
+<a href="https://ibb.co/0JPzMhM"><img src="https://i.postimg.cc/kG8HM7Xc/image.png" alt="backend2" border="0"></a>
+<a href="https://ibb.co/HpgrqKF"><img src="https://i.postimg.cc/Prsc3v2F/image.png" alt="backend3" border="0"></a>
+<a href="https://ibb.co/pdFJNTM"><img src="https://i.postimg.cc/nh16QVKS/image.png" alt="backend5" border="0"></a>
+
+**Web Application**
+
+Web Application desplegado: https://devpaw-upet.web.app/auth/login
+
+<img src="https://i.postimg.cc/vZcJQkwh/image.png" alt="" height="500"/>
+<img src="https://i.postimg.cc/0yFLrn8s/image.png" alt="" height="500"/>
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint 3
+
+A continuación se muestra la colaboración en el proyecto wokwi 
+![Collab sprint 3 wokwi](https://i.postimg.cc/Y9Ln8tgH/image.png)
+![Collab sprint 3 wokwi](https://i.postimg.cc/NjbzjJYW/image.png)
+![Collab sprint 3 wokwi](https://i.postimg.cc/HnQSD3Bv/image.png)
+![Collab sprint 3 wokwi](https://i.postimg.cc/qBnD3M4c/image.png)
+
 
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
 
+<ul>
+    <li>
+        <div><strong>Preguntas generales</strong></div>
+        <div>
+            <ul>
+                <li>¿Cuál es su nombre?</li>
+                <li>¿Cuál es su edad?</li>
+                <li>¿En dónde vive?</li>
+                <li>¿Cuál es su profesión o actividad principal?</li>
+                <li>¿Tiene una mascota o ha tenido alguna en el pasado?</li>
+                <li>¿Con qué frecuencia usa aplicaciones móviles o en línea para buscar servicios relacionados con mascotas?</li>
+                <li>¿Ha utilizado alguna vez una aplicación o plataforma similar para encontrar una veterinaria? Si es así, ¿cuál fue su experiencia?</li>
+                <li>¿Le gustaría recibir notificaciones sobre ofertas y promociones de veterinarias en su área a través de la plataforma?</li>
+            </ul>
+        </div>
+    </li>
+    <li>
+        <div><strong>Preguntas complementarias</strong></div>
+        <strong>Segmento 1: </strong><i>Propietarios de mascotas</i>
+        <div>
+            <ul>
+                <li>¿Qué te pareció la aplicación? ¿Fue fácil de usar?</li>
+                <li>¿Pudiste registrar la información de tu mascota sin problemas?</li>
+                <li>¿Fue sencillo agendar o encontrar veterinarias cercanas?</li>
+                <li>¿Te parecieron útiles las notificaciones? ¿Qué mejorarías?</li>
+                <li>¿Qué información o funciones adicionales te gustaría tener?</li>
+                <li>Si usaste un dispositivo IoT, ¿fue útil? ¿Qué mejorarías?</li>
+            </ul>
+        </div>
+        <br/>
+        <strong>Segmento 2: </strong><i>Veterinarios</i>
+        <div>
+            <ul>
+                <li>¿La aplicación facilita tu trabajo? ¿Qué función te resultó más útil?</li>
+                <li>¿Es suficiente la información de las mascotas para hacer seguimiento?</li>
+                <li>¿Qué datos IoT serían más valiosos para ti?</li>
+                <li>¿Qué mejorarías para comunicarte mejor con los dueños?</li>
+                <li>¿Agregarías alguna funcionalidad específica?</li>
+            </ul>
+        </div>
+    </li>
+</ul>
+
+
 ### 6.3.2. Registro de Entrevistas.
 
-Entrevista Segmento 1
+Entrevista Segmento Dueño de Mascotas
 
 <table>
         <thead>
             <tr>
-                <th>Entrevistado 1</th>
-                <th>Nombre Entrevistado</th>
+                <th>Entrevistado</th>
+                <th>Diego Cantoral</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Nombre Entrevistador</th>
+                <th>Daniel Valverde</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>edad del entrevistado </td>
+                <td>21 </td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>distrito del entrevistado</td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src="" alt="Foto de la entrevista"></td>
+                <td><img src="https://i.ibb.co/x5bbYW4/heuristicas-upet-devpaw.png" alt="Foto de la entrevista"></td>
                 <td><strong>Resumen:</strong><br>
-                    Resumen de la entrevista aquí
+                    Diego es un joven estudiante que pertenece al segmento de dueños de mascotas. Pudo evaluar la aplicación web y resaltó las funcionalidades que disponia. Principalmente considera que la muestra de signos vitales y ubicacion de sus mascotas en la aplicación son de mucha ayuda y aporta valor a la solución.
                 </td>
             </tr>
             <tr>
@@ -894,7 +1704,7 @@ Entrevista Segmento 1
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td></td>
             </tr>
         </tbody>
 </table>
@@ -933,8 +1743,40 @@ Entrevista Segmento 2
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td></td>
             </tr>
         </tbody>
 </table>
+
+## Capítulo VII: Conclusiones
+
+1. **Optimización de la gestión de citas veterinarias:** El proyecto permitió digitalizar y simplificar el proceso de agendamiento, reprogramación y cancelación de citas, ofreciendo a los usuarios una forma más eficiente de gestionar el cuidado de sus mascotas.
+
+2. **Innovación en el monitoreo de mascotas:** La integración de collares inteligentes destacó como un avance significativo, brindando herramientas para el monitoreo continuo de la salud de las mascotas, lo que facilita un cuidado preventivo y mejora la comunicación entre veterinarios y propietarios.
+
+3. **Impacto en la calidad del cuidado de mascotas:** La combinación de dispositivos IoT con la plataforma desarrollada promueve un cuidado más informado y personalizado, lo que contribuye al bienestar general de las mascotas y reduce riesgos asociados con la falta de seguimiento veterinario.
+
+4. **Desarrollo de una solución escalable:** La plataforma establece una base tecnológica sólida que puede evolucionar, incorporando nuevas funcionalidades y dispositivos IoT para responder a futuras necesidades del mercado y mejorar la experiencia de los usuarios.
+
+5. **Promoción de la adopción tecnológica:** 
+El proyecto fomenta el uso de tecnología en un contexto cotidiano, demostrando cómo herramientas avanzadas pueden integrarse de manera efectiva en la vida diaria para solucionar problemas prácticos.
+
+
+## Capítulo VIII: Bibliografía
+
+1. **Tull Soriano, Luis Federico.** *Prototipo de monitor de signos vitales en pacientes veterinarios de especie canina utilizando IoT.* Universidad Nacional Pedro Henríquez Ureña, 2021. [https://repositorio.unphu.edu.do/handle/123456789/3485](https://repositorio.unphu.edu.do/handle/123456789/3485)
+
+2. **Grados Denegri, Felipe Alfredo, y Freddy Hernan Rodriguez Vega.** *Aplicativo móvil para la gestión de servicios clínicos veterinarios en Lima - Metropolitana.* Universidad Autónoma del Perú, 2021. [https://repositorio.autonoma.edu.pe/handle/20.500.13067/1079](https://repositorio.autonoma.edu.pe/handle/20.500.13067/1079)
+
+## Capítulo IX: Anexo
+
+- **Landing Page:** [Enlace al landing page](https://pettechh.github.io/UPet-LandingPage/)
+- **Web Frontend:** [Enlace al proyecto web](https://devpaw-upet.web.app/auth/login)
+- **Aplicación Móvil:** [Enlace al proyecto móvil](https://play.google.com/store/games?hl=es_419)
+- **Backend:** [Enlace al backend](https://upetbackendapi.onrender.com/docs#/)
+- **Mockups:** [Enlace a los mockups](https://www.figma.com/design/HG5VxSXVvjfVC0BGdiWywi/IOT---Mobile-Application?node-id=0-1&node-type=canvas&t=WLj5vcz6RIZRcTvT-0)
+- **Prototipo:** [Enlace a los mockups](https://www.figma.com/proto/HG5VxSXVvjfVC0BGdiWywi/IOT---Mobile-Application?node-id=64-5609&node-type=canvas&t=WLj5vcz6RIZRcTvT-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=64%3A5606&show-proto-sidebar=1)
+- **Diapositivo del prototipo IoT:** [Enlace al prototipo](https://wokwi.com/projects/414817712067863553)
+- **Repositorios Github:** [Enlace de repositorios](https://github.com/orgs/SW71-devpaw/repositories)
+
 
